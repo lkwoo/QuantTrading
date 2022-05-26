@@ -1,10 +1,3 @@
-```
-[Convention]
-Part: #
-Chapter: ###
-Strategy: <> 
-```
-
 # PART 1 : 자기 자신을 믿지 말고, 검증된 시스템을 믿어라
 
 ### Chapter 01. 왜 투자해야 하는가
