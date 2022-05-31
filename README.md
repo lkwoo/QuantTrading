@@ -15,12 +15,12 @@ Quant? Rule based asset allocation trading.
     - SPY, EFA, BIL의 최근 12개월 수익률
 
 ### Function
-- get_moving_average('code', 'start', 'end') # 종목코드, 시작날짜, 끝날짜
-    - code의 start부터 end까지의 이동평균 리턴
+- get_moving_average('code', 'days') # 종목코드, 일수
+    - return code의 days일 이동평균
 - get_yield('code', 'start', 'end') # 종목코드, 시작날짜, 끝날짜
-    - code의 start부터 end까지의 수익률 리턴
+    - return code의 start부터 end까지의 수익률
 - get_momentum_score('code') # 종목코드
-    - code의 모멘텀 스코어 리턴
+    - return code의 모멘텀 스코어
 
 ### VAA
 - 레벨 : 고급
