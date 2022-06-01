@@ -1,3 +1,4 @@
+from email.policy import default
 import FinanceDataReader as fdr
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
@@ -50,14 +51,34 @@ def get_momentum_score(code) :
 class KHK_Strategy:
     def __init__(self):
         self.vaa = self.get_trade_info('VAA')        
-        self.laa = self.get_trade_info('LAA')        
-        self.dual = self.get_trade_info('DUAL')        
+        #self.laa = self.get_trade_info('LAA')        
+        #self.dual = self.get_trade_info('DUAL')    
+        print(self.vaa)    
 
     def get_trade_info(self, stg):
-        df = pd.read_excel('./main/data/trade_info.xlsx')
+        df = pd.read_excel('./main/data/trade_info.xlsx', converters={'DATE':str,'STRATEGY':str, default:int})
         # IWM IWD 차이 확인하기. 강환국 책으로
-        print(df)
-        return 1
+        res = {}
+        if stg == 'VAA':
+            for j in range(1, len(df)+1):                
+                if df.iloc[-j, 1] == 'VAA':
+                    df_tmp = df.iloc[-j]
+                    for i in range(2, len(df_tmp) - 1): 
+                        if int(df_tmp.iloc[i]) > 0:            
+                            res[df.columns[0]] = df_tmp.iloc[0]     
+                            res[df.columns[i]] = df_tmp.iloc[i]
+                            break        
+            return res
+        elif stg == 'LAA':
+            for j in range(1, len(df)+1):                
+                if df.iloc[-j, 1] == 'VAA':
+                    df_tmp = df.iloc[-j]
+                    for i in range(2, len(df_tmp) - 1): 
+                        if int(df_tmp.iloc[i]) > 0:            
+                            res[df.columns[0]] = df_tmp.iloc[0]     
+                            res[df.columns[i]] = df_tmp.iloc[i]
+                            break        
+            return res
 
 
 if __name__ == "__main__":
