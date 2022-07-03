@@ -1,49 +1,46 @@
-from email.policy import default
-from time import get_clock_info
-import FinanceDataReader as fdr 
-# ValueError: No tables found 좀 고쳐라
-# yfinance로 갈아 타야겠어 십발
+from pandas_datareader import data as pdr
+import yfinance as yf
+yf.pdr_override()
+
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 import pandas as pd
-import os
 
-# 직전 종가
-def get_close(code):
-    today = datetime.today()
-    end = today.strftime("%Y-%m-%d")
-    start = today - relativedelta(5)
-    start = start.strftime("%Y-%m-%d")
-    
-    df = fdr.DataReader(code, start, end)
-    df = df[['Close']]
-    return df.iloc[-1, 0]
 
-# 종목코드, days일 이동평균
-def get_moving_average(code, days):    
-    today = datetime.today()
-    end = today.strftime("%Y-%m-%d")
-    start = today - relativedelta(days= days*2)
-    start = start.strftime("%Y-%m-%d")
+# return 오늘 날짜, format("%Y-%m-%d")
+def get_today(): 
+    return datetime.today().strftime("%Y-%m-%d")
+
+# return p기간 이전 날짜, format("%Y-%m-%d")
+def get_date_before(p): #p: "2y", "3m", "10d"
+    if p[-1] == "y":
+        return (datetime.today() - relativedelta(years = int(p[:-1]))).strftime("%Y-%m-%d")
+    elif p[-1] == "m":
+        return (datetime.today() - relativedelta(months = int(p[:-1]))).strftime("%Y-%m-%d")
+    elif p[-1] == "d":
+        return (datetime.today() - relativedelta(days = int(p[:-1]))).strftime("%Y-%m-%d")
+
+# return start부터 end까지 종가 테이블
+def get_close(code, start, end):   # ex) get_close('005930.ks', s, e)
+    close = pdr.get_data_yahoo(code, start, end)
+    return close['Close']
+
+# return period 기간 이동평균
+def get_moving_average(code, period):  #p: "2y", "3m", "10d"
+    end = get_today()
+    start = get_date_before(period)
     
-    df = fdr.DataReader(code, start, end)
-    df = df[['Close']]
-    
-    sum = 0
-    for i in range(-days, 0):
-        sum += df.iloc[i, 0]
-    
-    return int(sum / days)
+    df = pdr.get_data_yahoo(code, start, end)
+    print(df)
+    return df['Close'].mean()
     
 
-# 종목코드, months개월 수익률
-def get_yield(code, months):
-    today = datetime.today()
-    end = today.strftime("%Y-%m-%d")
-    start = today - relativedelta(months=months)
-    start = start.strftime("%Y-%m-%d")
+# return period 기간 수익률
+def get_yield(code, period):  #p: "2y", "3m", "10d"
+    end = get_today()
+    start = get_date_before(period)
     
-    df = fdr.DataReader(code, start, end)
+    df = pdr.get_data_yahoo(code, start, end)
     df = df[['Close']]
     
     return (df.iloc[-1, 0] - df.iloc[0, 0]) / df.iloc[0, 0] * 100
@@ -54,15 +51,15 @@ def get_yield(code, months):
 # Momentum Score = (최근1개월수익률×12)+(최근3개월수익률×4)+(최근6개월수익률×2)+(최근12개월수익률×1)
 def get_momentum_score(code) :
     score = 0.0
-    score += get_yield(code, 1) * 12
-    score += get_yield(code, 3) * 4
-    score += get_yield(code, 6) * 2
-    score += get_yield(code, 12) * 1
+    score += get_yield(code, "1m") * 12
+    score += get_yield(code, "3m") * 4
+    score += get_yield(code, "6m") * 2
+    score += get_yield(code, "12m") * 1
 
     return score
 
 
-class KHK_Strategy:
+class My_Quant:
     def __init__(self):
         self.vaa = self.get_trade_info('VAA')        
         self.laa = self.get_trade_info('LAA')        
@@ -101,7 +98,7 @@ class KHK_Strategy:
         MS['LQD'] = get_momentum_score('LQD')
         MS['IEF'] = get_momentum_score('IEF')
         MS['SHY'] = get_momentum_score('SHY')
-        # print(MS)
+        print(MS)
         if MS['SPY'] > 0 and MS['EFA'] > 0 and MS['EEM'] > 0 and MS['AGG'] > 0:
             pass
         else:
@@ -120,13 +117,7 @@ class KHK_Strategy:
         
 
 
-if __name__ == "__main__":
-    # print(get_moving_average('005930', 200)) # get 삼성전자 200일 이동평균
-    # print(get_yield('005930', 12)) # 삼성전자 1년 수익률
-    # print(get_momentum_score('005930')) # 삼성전자 모멘텀 스코어
-    khk = KHK_Strategy()
-    # khk.print_asset()
-    # khk.rebalance_VAA()
-    df = fdr.DataReader('LQD', '2022-05-01', '2022-05-31')
-    print(df)
-    print(get_close('035720'))
+if __name__ == "__main__": # 활용 예시
+    print(get_moving_average("005930.ks", "5d"))
+    print(get_yield("005930.ks", "6m"))
+    print(get_momentum_score("005930.ks"))
