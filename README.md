@@ -1,8 +1,25 @@
 # QuantTrading
-about Quant Trade
-Quant? Rule based asset allocation trading.
+- Quant: Rule based asset allocation trading.  
 
-# 강환국 전략
+### Directory  
+```
+-  
+- 
+```
+
+### Usage
+```
+- 
+```
+
+### Reference
+```
+
+```
+
+-------------------------------------------------------------------------------------
+# Quant Strategy
+## 강환국 전략
 - 3개 전략에 자산의 1/3씩 분산 투자
 
 ### Information
