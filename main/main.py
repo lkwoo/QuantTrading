@@ -1,2 +1,0 @@
-import MyQuant as mq
-
