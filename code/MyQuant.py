@@ -1,11 +1,16 @@
+import pykrx as pkx  # https://github.com/sharebook-kr/pykrx
+from pykrx import stock
+from pykrx import bond
+
+import FinanceDataReader as fdr  # https://github.com/financedata-org/FinanceDataReader
+
 from pandas_datareader import data as pdr
-import yfinance as yf
+import yfinance as yf  # https://github.com/ranaroussi/yfinance
 yf.pdr_override()
 
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 import pandas as pd
-
 
 # return 오늘 날짜, format("%Y-%m-%d")
 def get_today(): 
@@ -58,8 +63,21 @@ def get_momentum_score(code) :
 
     return score
 
+def get_low_cap(market):
+    pass
 
 if __name__ == "__main__": # 활용 예시
-    print(get_moving_average("005930.ks", "5d"))
-    print(get_yield("005930.ks", "6m"))
-    print(get_momentum_score("005930.ks"))
+    # print(get_moving_average("005930.ks", "5d"))
+    # print(get_yield("005930.ks", "6m"))
+    # print(get_momentum_score("005930.ks"))
+    
+    #update_data('005930.ks')
+    # df = fdr.StockListing('KRX')
+    
+    tickers = stock.get_market_ticker_list(market="KOSPI") # KOSDAQ
+    print(tickers)
+    for ticker in tickers:
+        code = stock.get_market_ticker_name(ticker)
+        print(code)
+    
+    # print(pdr.get_data_yahoo('005930.ks', '2022-05-11'))
