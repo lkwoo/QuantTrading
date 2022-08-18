@@ -1,5 +1,5 @@
-# QuantTrading
-- Quant: Rule based asset allocation trading.  
+# QuantTrading : Rule based asset allocation trading.  
+- 주식매매 의사결정에 필요한 정보를 제공하는 프로그램을 만들어 보자.
 
 ### Directory  
 ```
@@ -13,10 +13,6 @@
 - 
 ```
 
-### Reference
-```
-
-```
 
 -------------------------------------------------------------------------------------
 # Quant Strategy
