@@ -37,5 +37,20 @@
 4. 즉 2022년 10월 말에 사자!
 
 The right stock at the right time - Larry Williams
+```
 
+##### 저 PER
+```
+PER이 낮은 50개의 종목 투자
+
+[매수] 두 조건 모두 만족시
+  1. KOSPI가 20일 이동평균선 위
+  2. KOSDAQ이 10일 이동평균선 위
+
+[매도] 두 조건 하나라도 만족시
+  1. KOSPI가 20일 이동평균선 아래
+  2. KOSDAQ이 10일 이동평균선 아래
+  
+[백테스트 결과] 
+  CAGR: 31%, MDD: 12%
 ```
