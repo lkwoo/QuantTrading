@@ -24,13 +24,19 @@
 - 각 Quant 전략에 따라 보유해야할 종목과 비율을 반환한다
 - input: 전략이름
 - output: 보유해야할 종목과 비율을  리스트
+
+전략
+1. VAA
+2. LAA
+3. Dual Momentum
+4. Low PER
 ```
 
-### 
+### getDollarPrice
 ```
-- 
-- input:
-- output:
+- 1달러가 몇 원인지 반환
+- input: 없음
+- output: 1달러 가격(원)
 ```
 
 ### 
