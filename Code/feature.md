@@ -30,6 +30,8 @@
 2. LAA
 3. Dual Momentum
 4. Low PER
+5. 개별주 전략
+6. 환율 1250 하향돌파 매수
 ```
 
 ### getDollarPrice
