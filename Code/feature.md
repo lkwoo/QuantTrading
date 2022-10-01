@@ -1,49 +1,8 @@
-### GetIndexes
+### feature
 ```
-- 시장 or 종목의 PER, PBR, ROE 등의 지표를 반환한다
-- input: 시장 or 종목
-- output: 시장 or 종목의 각종 지표들
-```
-
-### GetMovingAverage
-```
-- 시장 or 종목의 이동평균을 반환한다
-- input: 시장 or 종목, 기간
-- output: 시장 or 종목의 해당 기간 동안의 이동평균
-```
-
-### GetMomentumScore
-```
-- 시장 or 종목의 Momentum Score를 반환한다
-- input: 시장 or 종목
-- output: 시장 or 종목의 Momentum Score
-```
-
-### GetQuantTradeInfo
-```
-- 각 Quant 전략에 따라 보유해야할 종목과 비율을 반환한다
-- input: 전략이름
-- output: 보유해야할 종목과 비율을  리스트
-
-전략
-1. VAA
-2. LAA
-3. Dual Momentum
-4. Low PER
-5. 개별주 전략
-6. 환율 1250 하향돌파 매수
-```
-
-### getDollarPrice
-```
-- 1달러가 몇 원인지 반환
-- input: 없음
-- output: 1달러 가격(원)
-```
-
-### 
-```
-- 
-- input:
-- output:
+- get_trade_info(stat): return input 전략의 종목 비율 
+- get_sma12m(etf): return etf의 SMA(12) momentum score
+- get_13612wm(etf): return etf의 13612W momentum score
+- get_baa_breadth(): return 0~4 # SMA(12)M이 음수인 카나리아 ETF의 수. 0이면 공격 아니면 안전
+- get_low_cap_kstock(n): 국내 주식 시총 하위 n% 기업 list return
 ```
