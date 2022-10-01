@@ -25,6 +25,7 @@
 # Quant Strategy
 
 ### BAA-G12 (Bold Asset Allocation. Balanced)
+```
 - 공격형자산: SPY, QQQ, IWM, VGK, EWJ, VWO, VNQ, DBC, GLD, TLT, HYG, LQD
 - 안전자산: TIP, DBC, BIL, IEF, TLT, LQD, BND
 - 카나리아자산: SPY, VWO, VEA, BND
@@ -33,9 +34,10 @@
 2. 공격형자산 12개 중 SMA(12)-momentum이 가장 높은 6개의 ETF에 동일 비중(약 16.7%)분산 투자
 3. 안전자산 7개 중 SMA(12)-momentum이 가장 높은 3개의 ETF에 동일 비중(약 33%) 분산 투자. 단, BIL의 SMA(12)-momentum보다 낮은 ETF는 BIL로 대체해서 투자.
     - ex) 3개 중 하나의 ETF가 BIL의 SMA(12)-momentum 보다 낮다면, 나머지 2개와 BIL에 분산 투자.
-
+```
 
 ### BAA-G4 (Aggressive)
+```
 - 공격형자산: QQQ, VWO(EFA), VEA(EEM), BND(AGG)
 - 안전자산: TIP, DBC, BIL, IEF, TLT, LQD, BND
 - 카나리아자산: SPY, VWO, VEA, BND
@@ -45,4 +47,9 @@
 2. 공격형자산 4개 중 SMA(12)-momentum이 가장 높은 1개의 공격형 자산에 올인
 3. 안전자산 7개 중 SMA(12)-momentum이 가장 높은 3개의 ETF에 동일 비중(약 33%) 분산 투자. 단, BIL의 SMA(12)-momentum보다 낮은 ETF는 BIL로 대체해서 투자.
     - ex) 3개 중 하나의 ETF가 BIL의 SMA(12)-momentum 보다 낮다면, 나머지 2개와 BIL에 분산 투자.
+```
 
+### 소형주 전략
+```
+
+```
