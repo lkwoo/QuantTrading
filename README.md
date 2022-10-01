@@ -4,9 +4,9 @@
 
 ### Directory  
 ```
-- References: 참고 자료
 - Code: python code for Quant
 - Data: Data for Quant
+- References: 참고 자료
 ```
 
 ### Usage
