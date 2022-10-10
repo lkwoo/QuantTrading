@@ -40,37 +40,43 @@ def get_moving_average(code, period):  #p: "2y", "3m", "10d"
     
 
 # return period 기간 수익률
-def get_yield(code, period):  #p: "2y", "3m", "10d"
+def get_yield(ticker, period):  #p: "2y", "3m", "10d"
     end = get_today()
     start = get_date_before(period)
     
-    df = pdr.get_data_yahoo(code, start, end)
-    df = df[['Close']]
+    file_name = 'Data/' + ticker + '.csv'
+    df = pd.read_csv(file_name)
+    for index, row in df.iterrows():
+        print(row['Date'], row['Close'])
+    # print(df)
     
-    return (df.iloc[-1, 0] - df.iloc[0, 0]) / df.iloc[0, 0] * 100
+    return
 
 
 # 종목코드
 # code의 모멘텀 스코어 리턴
 # Momentum Score = (최근1개월수익률×12)+(최근3개월수익률×4)+(최근6개월수익률×2)+(최근12개월수익률×1)
-def get_momentum_score(code) :
+def get_momentum_score(ticker) :
     score = 0.0
-    score += get_yield(code, "1m") * 12
-    score += get_yield(code, "3m") * 4
-    score += get_yield(code, "6m") * 2
-    score += get_yield(code, "12m") * 1
+    score += get_yield(ticker, "1m") * 12
+    score += get_yield(ticker, "3m") * 4
+    score += get_yield(ticker, "6m") * 2
+    score += get_yield(ticker, "12m") * 1
 
     return score
 
 def get_low_cap(market):
     pass
 
+def get_baa_etf_list():
+    return ['QQQ', 'VWO', 'VEA', 'BND', 'TIP', 'DBC', 'BIL', 'IEF', 'TLT', 'LQD', 'SPY']
+
 def baa_update_data():
     flist = os.listdir('./update')
     if get_today() in flist:
         return 'already updated!'
         
-    etf_list = ['QQQ', 'VWO', 'VEA', 'BND', 'TIP', 'DBC', 'BIL', 'IEF', 'TLT', 'LQD', 'SPY']
+    etf_list = get_baa_etf_list()
     for etf in etf_list:
         data = pdr.get_data_yahoo(etf, start='2021-01-01', end=get_today())        
         file_name = 'Data/'+ etf + '.csv'
@@ -96,6 +102,5 @@ if __name__ == "__main__": # 활용 예시
         print(code)
     '''
     # print(pdr.get_data_yahoo('005930.ks', '2022-05-11'))
-
-    baa_update_data()
-
+    # baa_update_data()
+    get_yield('QQQ', '1y')
