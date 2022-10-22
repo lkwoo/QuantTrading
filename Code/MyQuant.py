@@ -56,12 +56,29 @@ def get_yield(ticker, period):  #p: "2y", "3m", "10d"
 # 종목코드
 # code의 모멘텀 스코어 리턴
 # Momentum Score = (최근1개월수익률×12)+(최근3개월수익률×4)+(최근6개월수익률×2)+(최근12개월수익률×1)
-def get_momentum_score(ticker) :
-    score = 0.0
-    score += get_yield(ticker, "1m") * 12
-    score += get_yield(ticker, "3m") * 4
-    score += get_yield(ticker, "6m") * 2
-    score += get_yield(ticker, "12m") * 1
+def get_13612W_momentum_score(ticker) :        
+    df = pd.read_csv('Data/' + ticker + '.csv').sort_values('Date', ascending=False)
+    
+    month = get_today()[5:7]    
+    score = 0.0    
+    cnt = 0
+    price = []
+
+    for index, row in df.iterrows():
+        if cnt == 13:
+            break
+        if month != row['Date'][5:7]:
+            cnt += 1
+            month = row['Date'][5:7]
+            price.append(row['Close'])
+            # print(row['Date'], row['Close'])
+        
+    today_close = df.iloc[0]["Close"]
+    peroids = [(1, 12), (3, 4), (6,2),(12,1)]
+    for p, w in peroids:
+        earn = (today_close - price[p]) / price[p] * w
+        # print(p, today_close, price[p], earn)
+        score += earn
 
     return score
 
@@ -102,5 +119,8 @@ if __name__ == "__main__": # 활용 예시
         print(code)
     '''
     # print(pdr.get_data_yahoo('005930.ks', '2022-05-11'))
-    # baa_update_data()
-    get_yield('QQQ', '1y')
+    baa_update_data()
+    etfs = get_baa_etf_list()
+    for etf in etfs:
+        print(etf)
+        print(get_13612W_momentum_score(etf))
