@@ -2,6 +2,7 @@ import sys
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import  *
 from PyQt5.QAxContainer import *
+from urllib3 import add_stderr_logger
 import MyQuant as mq
 
 class MyWindow(QMainWindow):
@@ -13,6 +14,11 @@ class MyWindow(QMainWindow):
         self.add_log(mq.baa_update_data()) 
         self.setWindowTitle("Quant Trade Helper")
         self.setGeometry(self.w_x, self.w_y, self.w_width, self.w_height) # x, y, width, height
+        
+        etfs = self.BAA()
+        self.add_log("BAA sell info")
+        for etf in etfs:
+            self.add_log("[ETF] " + etf[0] + ", [Momemtum] " + str(etf[1]))
         
     def set_size(self):
         self.w_bound = 10
@@ -59,7 +65,41 @@ class MyWindow(QMainWindow):
         self.text_edit.append(log)
 
     def log_clear(self):
-        self.text_edit.clear()
+        self.text_edit.clear()    
+
+    def BAA(self):
+        mq.baa_update_data()
+        offensive = ['QQQ', 'VWO', 'VEA', 'BND']
+        defensive = ['TIP', 'DBC', 'BIL', 'IEF', 'TLT', 'LQD', 'BND']
+        canary = ['SPY', 'VWO', 'VEA', 'BND']
+
+        state = "offensive"
+        for etf in canary:
+            if mq.get_13612W_momentum_score(etf) < 0:
+                state = "defensive"
+                
+        if state == "offensive":
+            etf = offensive[0]
+            mmt = mq.get_SMA12M(offensive[0])
+            for tmp_etf in offensive:                                
+                if mq.get_SMA12M(tmp_etf) > mmt:
+                    etf = tmp_etf
+                    mmt = mq.get_SMA12M(tmp_etf)                
+            return [etf, mmt]
+        else:
+            decs = []
+            for etf in defensive:
+                decs.append((mq.get_SMA12M(etf), etf))
+            decs.sort(reverse=True)            
+            decs = decs[:3]
+        
+            top3 = []
+            for i, e in decs:
+                top3.append((e, i))
+                if e == "BIL":
+                    break
+            
+            return top3
 
 
 if __name__ == "__main__":

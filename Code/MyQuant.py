@@ -65,32 +65,66 @@ def get_13612W_momentum_score(ticker) :
     price = []
 
     for index, row in df.iterrows():
+        # 월 초에 실행한다고 가정
+        # 직전 월부터 13개월 (전년 직전월) 까지의 가격
         if cnt == 13:
             break
+        # 월 말일의 종가
         if month != row['Date'][5:7]:
             cnt += 1
             month = row['Date'][5:7]
             price.append(row['Close'])
             # print(row['Date'], row['Close'])
         
-    today_close = df.iloc[0]["Close"]
+    latest_month_close = df.iloc[0]["Close"]
     peroids = [(1, 12), (3, 4), (6,2),(12,1)]
     for p, w in peroids:
-        earn = (today_close - price[p]) / price[p] * w
-        # print(p, today_close, price[p], earn)
+        earn = (latest_month_close - price[p]) / price[p] * w * 100
+        # print(p, latest_month_close, price[p], earn)
         score += earn
 
     return score
 
-def get_low_cap(market):
+def get_SMA12M(ticker):
+    df = pd.read_csv('Data/' + ticker + '.csv').sort_values('Date', ascending=False)
+    
+    month = get_today()[5:7]    
+    flag = True
+    cnt = 0
+    price = []
+    latest_close = 0
+    for index, row in df.iterrows():        
+        # 월 초에 실행한다고 가정
+        # 직전 월부터 13개월 (전년 직전월) 까지의 가격
+        if flag:
+            latest_close = row['Close']
+            flag = False
+        if cnt == 12:
+            break
+        # 월 말일의 종가
+        if month != row['Date'][5:7]:
+            cnt += 1
+            month = row['Date'][5:7]
+            price.append(row['Close'])            
+        
+    sum = 0.0
+    for p in price:
+        sum += p
+    SMA12 = sum / 12    
+    
+    return (latest_close / SMA12) - 1
+
+def get_lowcap(market):
+    data = pdr.get_data_yahoo("KOSPI")
+    print(data)
     pass
 
 def get_baa_etf_list():
     return ['QQQ', 'VWO', 'VEA', 'BND', 'TIP', 'DBC', 'BIL', 'IEF', 'TLT', 'LQD', 'SPY']
 
-def baa_update_data():
+def baa_update_data(force = False):
     flist = os.listdir('./update')
-    if get_today() in flist:
+    if get_today() in flist and force == False:
         return 'already updated!'
         
     etf_list = get_baa_etf_list()
@@ -111,16 +145,12 @@ if __name__ == "__main__": # 활용 예시
     
     #update_data('005930.ks')
     # df = fdr.StockListing('KRX')
-    '''
-    tickers = stock.get_market_ticker_list(market="KOSPI") # KOSDAQ
+    
+    tickers = stock.get_market_ticker_list(market="ALL") # KOSDAQ
     print(tickers)
     for ticker in tickers:
         code = stock.get_market_ticker_name(ticker)
         print(code)
-    '''
+    
     # print(pdr.get_data_yahoo('005930.ks', '2022-05-11'))
-    baa_update_data()
-    etfs = get_baa_etf_list()
-    for etf in etfs:
-        print(etf)
-        print(get_13612W_momentum_score(etf))
+    
