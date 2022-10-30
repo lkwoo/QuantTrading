@@ -5,6 +5,7 @@ from pykrx import bond
 from pandas_datareader import data as pdr
 import yfinance as yf  # https://github.com/ranaroussi/yfinance
 yf.pdr_override()
+import dart_fss as dart
 
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
@@ -114,10 +115,29 @@ def get_SMA12M(ticker):
     
     return (latest_close / SMA12) - 1
 
-def get_lowcap(market):
-    data = pdr.get_data_yahoo("KOSPI")
-    print(data)
-    pass
+def get_lowcap_stock(percentage):  # percentage: 0~100
+    df = stock.get_market_cap_by_ticker("20221028")
+    df = df.sort_values(by=['시가총액'], axis=0, ascending=True)
+    num = int(len(df) * (percentage / 100))
+    df = df[:num]    
+    return df
+
+def get_lowcap_in_dart(percentage): # filter 거래정지 등
+    api_key = "29ecae32523c4e6023eda1b7888e95c85e83c3e9"
+    dart.set_api_key(api_key=api_key)
+    CL = dart.corp.CorpList()
+
+    df = get_lowcap_stock(percentage)
+    lowcap = []
+
+    index = df.index
+    for i in index:        
+        corp = CL.find_by_stock_code(str(i), include_delisting=False,include_trading_halt=False)
+        if corp == None:
+            continue        
+        lowcap.append(i + ", " + corp.corp_name)
+    
+    return lowcap
 
 def get_baa_etf_list():
     return ['QQQ', 'VWO', 'VEA', 'BND', 'TIP', 'DBC', 'BIL', 'IEF', 'TLT', 'LQD', 'SPY']
@@ -139,18 +159,10 @@ def baa_update_data(force = False):
     return 'update date: ' + get_today()
 
 if __name__ == "__main__": # 활용 예시
-    # print(get_moving_average("005930.ks", "5d"))
-    # print(get_yield("005930.ks", "6m"))
-    # print(get_momentum_score("005930.ks"))
-    
-    #update_data('005930.ks')
-    # df = fdr.StockListing('KRX')
-    
-    tickers = stock.get_market_ticker_list(market="ALL") # KOSDAQ
-    print(tickers)
-    for ticker in tickers:
-        code = stock.get_market_ticker_name(ticker)
-        print(code)
-    
-    # print(pdr.get_data_yahoo('005930.ks', '2022-05-11'))
-    
+    low10p = get_lowcap_stock(10) # 하위 10퍼센트. dart_fss에 없는건 안 나와
+    print(len(low10p))
+    print(low10p)
+
+    dt = get_lowcap_in_dart(10)
+    print(len(dt))
+    print(dt)
