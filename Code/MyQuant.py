@@ -17,103 +17,84 @@ def get_today():
     return datetime.today().strftime("%Y-%m-%d")
 
 # return p기간 이전 날짜, format("%Y-%m-%d")
-def get_date_before(p): #p: "2y", "3m", "10d"
+def get_date_before(date, p): #p: "2y", "3m", "10d"
+    date = datetime.strptime(date, '%Y-%m-%d')
     if p[-1] == "y":
-        return (datetime.today() - relativedelta(years = int(p[:-1]))).strftime("%Y-%m-%d")
+        return (date - relativedelta(years = int(p[:-1]))).strftime("%Y-%m-%d")
     elif p[-1] == "m":
-        return (datetime.today() - relativedelta(months = int(p[:-1]))).strftime("%Y-%m-%d")
+        return (date - relativedelta(months = int(p[:-1]))).strftime("%Y-%m-%d")
     elif p[-1] == "d":
-        return (datetime.today() - relativedelta(days = int(p[:-1]))).strftime("%Y-%m-%d")
+        return (date - relativedelta(days = int(p[:-1]))).strftime("%Y-%m-%d")
 
 # return start부터 end까지 종가 테이블
 def get_close(code, start, end):   # ex) get_close('005930.ks', s, e)
     close = pdr.get_data_yahoo(code, start, end)
     return close['Close']
-
-# return period 기간 이동평균
-def get_moving_average(code, period):  #p: "2y", "3m", "10d"
-    end = get_today()
-    start = get_date_before(period)
     
-    df = pdr.get_data_yahoo(code, start, end)
-    print(df)
-    return df['Close'].mean()
-    
-
-# return period 기간 수익률
-def get_yield(ticker, period):  #p: "2y", "3m", "10d"
-    end = get_today()
-    start = get_date_before(period)
-    
-    file_name = 'Data/' + ticker + '.csv'
-    df = pd.read_csv(file_name)
-    for index, row in df.iterrows():
-        print(row['Date'], row['Close'])
-    # print(df)
-    
-    return
-
-
 # 종목코드
 # code의 모멘텀 스코어 리턴
 # Momentum Score = (최근1개월수익률×12)+(최근3개월수익률×4)+(최근6개월수익률×2)+(최근12개월수익률×1)
-def get_13612W_momentum_score(ticker) :        
+def get_13612W_momentum_score(ticker, date = get_today()) :        
     df = pd.read_csv('Data/' + ticker + '.csv').sort_values('Date', ascending=False)
-    
-    month = get_today()[5:7]    
-    score = 0.0    
-    cnt = 0
-    price = []
-
-    for index, row in df.iterrows():
-        # 월 초에 실행한다고 가정
-        # 직전 월부터 13개월 (전년 직전월) 까지의 가격
-        if cnt == 13:
-            break
-        # 월 말일의 종가
-        if month != row['Date'][5:7]:
-            cnt += 1
-            month = row['Date'][5:7]
-            price.append(row['Close'])
-            # print(row['Date'], row['Close'])
         
-    latest_month_close = df.iloc[0]["Close"]
-    peroids = [(1, 12), (3, 4), (6,2),(12,1)]
-    for p, w in peroids:
-        earn = (latest_month_close - price[p]) / price[p] * w * 100
-        # print(p, latest_month_close, price[p], earn)
-        score += earn
-
-    return score
-
-def get_SMA12M(ticker):
-    df = pd.read_csv('Data/' + ticker + '.csv').sort_values('Date', ascending=False)
-    
-    month = get_today()[5:7]    
+    score = 0.0    
     flag = True
     cnt = 0
     price = []
     latest_close = 0
+    peroids = [[0, 1, 12], [1, 3, 4], [2, 6, 2], [3, 12, 1]]  # index, month, weight
+
     for index, row in df.iterrows():        
-        # 월 초에 실행한다고 가정
-        # 직전 월부터 13개월 (전년 직전월) 까지의 가격
-        if flag:
+        if flag and date >= row['Date']:
+            latest_close = row['Close']
+            flag = False
+        if cnt == 4:
+            break        
+        if get_date_before(date, str(peroids[cnt][1]) +'m') >= row['Date']:
+            cnt += 1            
+            price.append(row['Close'])
+            # print(row['Date'], row['Close'])        
+    
+    for i, p, w in peroids:
+        earn = (latest_close - price[i]) / price[i] * w * 100
+        # print(p, latest_close, price[i], earn)
+        score += earn
+
+    return score
+
+
+def get_SMA12M(ticker, date = get_today()):
+    df = pd.read_csv('Data/' + ticker + '.csv').sort_values('Date', ascending=False)
+    
+    flag = True
+    cnt = 0
+    price = []
+    latest_close = 0
+    
+    date_b = []
+    for i in range(1, 13):
+        date_b.append(get_date_before(date, str(i) + 'm'))
+
+    for index, row in df.iterrows():                
+        # 직전 월부터 12개월의 종가
+        if flag and date >= row['Date']:
             latest_close = row['Close']
             flag = False
         if cnt == 12:
-            break
-        # 월 말일의 종가
-        if month != row['Date'][5:7]:
-            cnt += 1
-            month = row['Date'][5:7]
-            price.append(row['Close'])            
+            break        
+        if date_b[cnt] >= row['Date']:
+            cnt += 1            
+            price.append(row['Close'])      
+            # print(row['Date'], price[-1])      
         
     sum = 0.0
     for p in price:
         sum += p
-    SMA12 = sum / 12    
+    SMA12 = sum / 12
+    # print(SMA12)
     
     return (latest_close / SMA12) - 1
+
 
 def get_lowcap_stock(percentage):  # percentage: 0~100
     df = stock.get_market_cap_by_ticker("20221028")
@@ -152,17 +133,28 @@ def baa_update_data(force = False):
         data = pdr.get_data_yahoo(etf, start='2021-01-01', end=get_today())        
         file_name = 'Data/'+ etf + '.csv'
         data.to_csv(file_name)
-
+    
+    flist = os.listdir('./update')
+    for f in flist:        
+        os.remove('./update/' + f)
     file_name = './update/' + get_today()
     f = open(file_name, 'w')
     f.close()
     return 'update date: ' + get_today()
 
 if __name__ == "__main__": # 활용 예시
-    low10p = get_lowcap_stock(10) # 하위 10퍼센트. dart_fss에 없는건 안 나와
-    print(len(low10p))
-    print(low10p)
+    #low10p = get_lowcap_stock(10) # 하위 10퍼센트. dart_fss에 없는건 안 나와
+    #print(len(low10p))
+    #print(low10p)
 
-    dt = get_lowcap_in_dart(10)
-    print(len(dt))
-    print(dt)
+    #dt = get_lowcap_in_dart(10)
+    #print(len(dt))
+    #print(dt)
+
+    ## stock = yf.Ticker('005930.ks')
+    # stock = yf.Ticker('AAPL')
+    # print(stock.info['profitMargins'])
+    # print(get_SMA12M('QQQ', '2022-11-01'))
+    print(get_13612W_momentum_score('QQQ'))
+
+   
