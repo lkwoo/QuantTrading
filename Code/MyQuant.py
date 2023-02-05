@@ -5,7 +5,7 @@ from pykrx import bond
 from pandas_datareader import data as pdr
 import yfinance as yf  # https://github.com/ranaroussi/yfinance
 yf.pdr_override()
-import dart_fss as dart
+# import dart_fss as dart
 
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
@@ -103,6 +103,7 @@ def get_lowcap_stock(percentage):  # percentage: 0~100
     df = df[:num]    
     return df
 
+'''
 def get_lowcap_in_dart(percentage): # filter 거래정지 등
     api_key = "29ecae32523c4e6023eda1b7888e95c85e83c3e9"
     dart.set_api_key(api_key=api_key)
@@ -119,9 +120,9 @@ def get_lowcap_in_dart(percentage): # filter 거래정지 등
         lowcap.append(i + ", " + corp.corp_name)
     
     return lowcap
-
+'''
 def get_baa_etf_list():
-    return ['QQQ', 'VWO', 'VEA', 'BND', 'TIP', 'DBC', 'BIL', 'IEF', 'TLT', 'LQD', 'SPY']
+    return ['QQQ', 'VWO', 'VEA', 'BND', 'TIP', 'DBC', 'BIL', 'IEF', 'TLT', 'LQD', 'SPY', 'EFA', 'EEM', 'AGG']
 
 def baa_update_data(force = False):
     flist = os.listdir('./update')
@@ -155,6 +156,7 @@ if __name__ == "__main__": # 활용 예시
     # stock = yf.Ticker('AAPL')
     # print(stock.info['profitMargins'])
     # print(get_SMA12M('QQQ', '2022-11-01'))
-    print(get_13612W_momentum_score('QQQ'))
+    baa_update_data()
+    #print(get_13612W_momentum_score('QQQ'))
 
    

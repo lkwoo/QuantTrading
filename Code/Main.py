@@ -15,11 +15,14 @@ class MyWindow(QMainWindow):
         self.setWindowTitle("Quant Trade Helper")
         self.setGeometry(self.w_x, self.w_y, self.w_width, self.w_height) # x, y, width, height
         
-        self.log_momentum_score_etfs()
-        etfs = self.BAA()
+        date = mq.get_today()
+        self.log_momentum_score_etfs(date)        
+        etfs = self.BAA(date)
+        self.add_log("[Date] " + date)        
         self.add_log("\r\nBAA sell info")
+        
         for etf in etfs:
-            self.add_log("  [ETF] " + etf[0] + ", [Momemtum] " + str(etf[1]))
+            self.add_log("  [ETF] " + str(etf[0]) + ", [Momemtum] " + str(etf[1]))
         
     def set_size(self):
         self.w_bound = 10
@@ -59,55 +62,70 @@ class MyWindow(QMainWindow):
     def log_clear(self):
         self.text_edit.clear()    
 
-    def log_momentum_score_etfs(self):
-        offensive = ['QQQ', 'VWO', 'VEA', 'BND']
-        defensive = ['TIP', 'DBC', 'BIL', 'IEF', 'TLT', 'LQD', 'BND']        
+    def log_momentum_score_etfs(self, date = mq.get_today()):
         canary = ['SPY', 'VWO', 'VEA', 'BND']
+        offensive = ['QQQ', 'VWO', 'VEA', 'BND', 'EFA', 'EEM', 'AGG']
+        defensive = ['TIP', 'DBC', 'BIL', 'IEF', 'TLT', 'LQD', 'BND']                
+        
+        list_can = []
+        list_off = []
+        list_def = []        
 
-        self.add_log("[Canary] - 13612W")
         for etf in canary:
-            ms = mq.get_13612W_momentum_score(etf)
-            self.add_log("  " + etf + ": " + str(ms))
-
-        self.add_log("[Offensive] - SMA12M")
+            list_can.append([etf, mq.get_13612W_momentum_score(etf, date)])                                        
         for etf in offensive:
-            ms = mq.get_SMA12M(etf)
-            self.add_log("  " + etf + ": " + str(ms))
+            list_off.append([etf, mq.get_SMA12M(etf, date)])        
+        for etf in defensive:
+            list_def.append([etf, mq.get_SMA12M(etf, date)])
+        
+        list_can.sort(key = lambda x : x[1], reverse= True)
+        list_off.sort(key = lambda x : x[1], reverse= True)
+        list_def.sort(key = lambda x : x[1], reverse= True)
+        
+        self.add_log("[Canary] - 13612W")
+        for etf in list_can:
+            self.add_log("  " + etf[0] + ": " + str(round(etf[1], 3)))
+        
+        self.add_log("[Offensive] - SMA12M")
+        for etf in list_off:
+            self.add_log("  " + etf[0] + ": " + str(round(etf[1], 3)))
 
         self.add_log("[Defensive] - SMA12M")
-        for etf in defensive:
-            ms = mq.get_SMA12M(etf)
-            self.add_log("  " + etf + ": " + str(ms))
+        for etf in list_def:
+            self.add_log("  " + etf[0] + ": " + str(round(etf[1], 3)))
+        
 
-    def BAA(self):
+    def BAA(self, date = mq.get_today()):
         mq.baa_update_data()
-        offensive = ['QQQ', 'VWO', 'VEA', 'BND']
+        offensive = ['QQQ', 'VWO', 'VEA', 'BND', 'EFA', 'EEM', 'AGG']
         defensive = ['TIP', 'DBC', 'BIL', 'IEF', 'TLT', 'LQD', 'BND']
         canary = ['SPY', 'VWO', 'VEA', 'BND']
         
         state = "offensive"
         for etf in canary:                        
-            if mq.get_13612W_momentum_score(etf) < 0:
+            if mq.get_13612W_momentum_score(etf, date) < 0:
                 state = "defensive"
                 
         if state == "offensive":
+            ret = []
             etf = offensive[0]
-            mmt = mq.get_SMA12M(offensive[0])
+            mmt = mq.get_SMA12M(offensive[0], date)
             for tmp_etf in offensive:                                
-                if mq.get_SMA12M(tmp_etf) > mmt:
+                if mq.get_SMA12M(tmp_etf, date) > mmt:
                     etf = tmp_etf
-                    mmt = mq.get_SMA12M(tmp_etf)                
-            return [etf, mmt]
+                    mmt = mq.get_SMA12M(tmp_etf, date)                
+            ret.append([etf, mmt])
+            return ret
         else:
             decs = []
             for etf in defensive:
-                decs.append((mq.get_SMA12M(etf), etf))
+                decs.append([mq.get_SMA12M(etf, date), etf])
             decs.sort(reverse=True)            
             decs = decs[:3]
         
             top3 = []
             for i, e in decs:
-                top3.append((e, i))
+                top3.append([e, i])
                 if e == "BIL":
                     break
             
