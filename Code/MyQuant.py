@@ -131,7 +131,7 @@ def baa_update_data(force = False):
         
     etf_list = get_baa_etf_list()
     for etf in etf_list:
-        data = pdr.get_data_yahoo(etf, start='2021-01-01', end=get_today())        
+        data = pdr.get_data_yahoo(etf, start='2023-01-01', end=get_today())        
         file_name = 'Data/'+ etf + '.csv'
         data.to_csv(file_name)
     
