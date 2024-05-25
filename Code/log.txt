@@ -1,0 +1,2842 @@
+[2024-03-03 13:41:14] udpate moving average: yfinance.Ticker object <005930.KS>, row: 672
+[2024-03-03 13:41:18] udpate moving average: yfinance.Ticker object <000660.KS>, row: 672
+[2024-03-03 13:41:20] udpate moving average: yfinance.Ticker object <373220.KS>, row: 513
+[2024-03-03 13:41:23] udpate moving average: yfinance.Ticker object <207940.KS>, row: 672
+[2024-03-03 13:41:26] udpate moving average: yfinance.Ticker object <005380.KS>, row: 672
+[2024-03-03 13:41:28] udpate moving average: yfinance.Ticker object <005935.KS>, row: 672
+[2024-03-03 13:41:31] udpate moving average: yfinance.Ticker object <000270.KS>, row: 672
+[2024-03-03 13:41:34] udpate moving average: yfinance.Ticker object <068270.KS>, row: 672
+[2024-03-03 13:41:37] udpate moving average: yfinance.Ticker object <005490.KS>, row: 672
+[2024-03-03 13:41:41] udpate moving average: yfinance.Ticker object <051910.KS>, row: 672
+[2024-03-03 13:41:43] udpate moving average: yfinance.Ticker object <035420.KS>, row: 672
+[2024-03-03 13:41:46] udpate moving average: yfinance.Ticker object <028260.KS>, row: 672
+[2024-03-03 13:43:54] udpate moving average: yfinance.Ticker object <005930.KS>, row: 0
+[2024-03-03 13:43:55] udpate moving average: yfinance.Ticker object <000660.KS>, row: 0
+[2024-03-03 13:43:55] udpate moving average: yfinance.Ticker object <373220.KS>, row: 0
+[2024-03-03 13:43:56] udpate moving average: yfinance.Ticker object <207940.KS>, row: 0
+[2024-03-03 13:43:56] udpate moving average: yfinance.Ticker object <005380.KS>, row: 0
+[2024-03-03 13:43:57] udpate moving average: yfinance.Ticker object <005935.KS>, row: 0
+[2024-03-03 13:43:58] udpate moving average: yfinance.Ticker object <000270.KS>, row: 0
+[2024-03-03 13:43:58] udpate moving average: yfinance.Ticker object <068270.KS>, row: 0
+[2024-03-03 13:43:59] udpate moving average: yfinance.Ticker object <005490.KS>, row: 0
+[2024-03-03 13:43:59] udpate moving average: yfinance.Ticker object <051910.KS>, row: 0
+[2024-03-03 13:44:00] udpate moving average: yfinance.Ticker object <035420.KS>, row: 0
+[2024-03-03 13:44:00] udpate moving average: yfinance.Ticker object <028260.KS>, row: 0
+[2024-03-03 13:44:03] udpate moving average: yfinance.Ticker object <006400.KS>, row: 672
+[2024-03-03 13:44:06] udpate moving average: yfinance.Ticker object <105560.KS>, row: 672
+[2024-03-03 13:44:09] udpate moving average: yfinance.Ticker object <003670.KS>, row: 672
+[2024-03-03 13:44:11] udpate moving average: yfinance.Ticker object <035720.KS>, row: 672
+[2024-03-03 13:44:14] udpate moving average: yfinance.Ticker object <012330.KS>, row: 672
+[2024-03-03 13:44:17] udpate moving average: yfinance.Ticker object <055550.KS>, row: 672
+[2024-03-03 13:44:21] udpate moving average: yfinance.Ticker object <032830.KS>, row: 672
+[2024-03-03 13:44:25] udpate moving average: yfinance.Ticker object <138040.KS>, row: 672
+[2024-03-03 13:44:29] udpate moving average: yfinance.Ticker object <086790.KS>, row: 672
+[2024-03-03 13:44:32] udpate moving average: yfinance.Ticker object <015760.KS>, row: 672
+[2024-03-03 13:44:36] udpate moving average: yfinance.Ticker object <066570.KS>, row: 672
+[2024-03-03 13:44:40] udpate moving average: yfinance.Ticker object <003550.KS>, row: 672
+[2024-03-03 13:44:44] udpate moving average: yfinance.Ticker object <000810.KS>, row: 672
+[2024-03-03 13:44:47] udpate moving average: yfinance.Ticker object <034730.KS>, row: 672
+[2024-03-03 13:44:51] udpate moving average: yfinance.Ticker object <323410.KS>, row: 629
+[2024-03-03 13:44:53] udpate moving average: yfinance.Ticker object <450080.KS>, row: 70
+[2024-03-03 13:44:56] udpate moving average: yfinance.Ticker object <011200.KS>, row: 672
+[2024-03-03 13:44:59] udpate moving average: yfinance.Ticker object <033780.KS>, row: 672
+[2024-03-03 13:45:02] udpate moving average: yfinance.Ticker object <018260.KS>, row: 672
+[2024-03-03 13:45:06] udpate moving average: yfinance.Ticker object <096770.KS>, row: 672
+[2024-03-03 13:45:10] udpate moving average: yfinance.Ticker object <017670.KS>, row: 672
+[2024-03-03 13:45:14] udpate moving average: yfinance.Ticker object <316140.KS>, row: 672
+[2024-03-03 13:45:18] udpate moving average: yfinance.Ticker object <024110.KS>, row: 672
+[2024-03-03 13:45:21] udpate moving average: yfinance.Ticker object <259960.KS>, row: 627
+[2024-03-03 13:45:24] udpate moving average: yfinance.Ticker object <329180.KS>, row: 600
+[2024-03-03 13:45:29] udpate moving average: yfinance.Ticker object <009150.KS>, row: 672
+[2024-03-03 13:45:33] udpate moving average: yfinance.Ticker object <034020.KS>, row: 672
+[2024-03-03 13:45:38] udpate moving average: yfinance.Ticker object <030200.KS>, row: 672
+[2024-03-03 13:45:42] udpate moving average: yfinance.Ticker object <047050.KS>, row: 672
+[2024-03-03 13:45:46] udpate moving average: yfinance.Ticker object <402340.KS>, row: 554
+[2024-03-03 13:45:49] udpate moving average: yfinance.Ticker object <012450.KS>, row: 672
+[2024-03-03 13:45:53] udpate moving average: yfinance.Ticker object <010130.KS>, row: 672
+[2024-03-03 13:45:57] udpate moving average: yfinance.Ticker object <010950.KS>, row: 672
+[2024-03-03 13:46:00] udpate moving average: yfinance.Ticker object <003490.KS>, row: 672
+[2024-03-03 13:46:03] udpate moving average: yfinance.Ticker object <352820.KS>, row: 672
+[2024-03-03 13:46:06] udpate moving average: yfinance.Ticker object <042700.KS>, row: 672
+[2024-03-03 13:46:08] udpate moving average: yfinance.Ticker object <022100.KS>, row: 672
+[2024-03-03 13:46:11] udpate moving average: yfinance.Ticker object <009540.KS>, row: 672
+[2024-03-03 13:46:14] udpate moving average: yfinance.Ticker object <326030.KS>, row: 672
+[2024-03-03 13:46:17] udpate moving average: yfinance.Ticker object <042660.KS>, row: 672
+[2024-03-03 13:46:19] udpate moving average: yfinance.Ticker object <086280.KS>, row: 672
+[2024-03-03 13:46:22] udpate moving average: yfinance.Ticker object <090430.KS>, row: 672
+[2024-03-03 13:46:26] udpate moving average: yfinance.Ticker object <005830.KS>, row: 672
+[2024-03-03 13:46:29] udpate moving average: yfinance.Ticker object <010140.KS>, row: 672
+[2024-03-03 13:46:32] udpate moving average: yfinance.Ticker object <161390.KS>, row: 672
+[2024-03-03 13:46:35] udpate moving average: yfinance.Ticker object <066970.KS>, row: 672
+[2024-03-03 13:46:37] udpate moving average: yfinance.Ticker object <377300.KS>, row: 572
+[2024-03-03 13:46:40] udpate moving average: yfinance.Ticker object <005387.KS>, row: 672
+[2024-03-03 13:46:43] udpate moving average: yfinance.Ticker object <005070.KS>, row: 672
+[2024-03-03 13:46:45] udpate moving average: yfinance.Ticker object <001570.KS>, row: 672
+[2024-03-03 13:46:48] udpate moving average: yfinance.Ticker object <267250.KS>, row: 672
+[2024-03-03 13:46:51] udpate moving average: yfinance.Ticker object <088980.KS>, row: 670
+[2024-03-03 13:46:54] udpate moving average: yfinance.Ticker object <006800.KS>, row: 672
+[2024-03-03 13:46:56] udpate moving average: yfinance.Ticker object <000100.KS>, row: 672
+[2024-03-03 13:46:59] udpate moving average: yfinance.Ticker object <251270.KS>, row: 672
+[2024-03-03 13:47:01] udpate moving average: yfinance.Ticker object <011170.KS>, row: 672
+[2024-03-03 13:47:04] udpate moving average: yfinance.Ticker object <361610.KS>, row: 672
+[2024-03-03 13:47:07] udpate moving average: yfinance.Ticker object <047810.KS>, row: 672
+[2024-03-03 13:47:10] udpate moving average: yfinance.Ticker object <051900.KS>, row: 672
+[2024-03-03 13:47:13] udpate moving average: yfinance.Ticker object <028050.KS>, row: 672
+[2024-03-03 13:47:15] udpate moving average: yfinance.Ticker object <004020.KS>, row: 672
+[2024-03-03 13:47:17] udpate moving average: yfinance.Ticker object <454910.KS>, row: 100
+[2024-03-03 13:47:20] udpate moving average: yfinance.Ticker object <011070.KS>, row: 672
+[2024-03-03 13:47:22] udpate moving average: yfinance.Ticker object <009830.KS>, row: 672
+[2024-03-03 13:47:25] udpate moving average: yfinance.Ticker object <302440.KS>, row: 672
+[2024-03-03 13:47:27] udpate moving average: yfinance.Ticker object <241560.KS>, row: 672
+[2024-03-03 13:47:30] udpate moving average: yfinance.Ticker object <097950.KS>, row: 672
+[2024-03-03 13:47:33] udpate moving average: yfinance.Ticker object <032640.KS>, row: 672
+[2024-03-03 13:47:36] udpate moving average: yfinance.Ticker object <267260.KS>, row: 672
+[2024-03-03 13:47:38] udpate moving average: yfinance.Ticker object <078930.KS>, row: 672
+[2024-03-03 13:47:41] udpate moving average: yfinance.Ticker object <029780.KS>, row: 672
+[2024-03-03 13:47:44] udpate moving average: yfinance.Ticker object <128940.KS>, row: 672
+[2024-03-03 13:47:47] udpate moving average: yfinance.Ticker object <036570.KS>, row: 672
+[2024-03-03 13:47:50] udpate moving average: yfinance.Ticker object <011780.KS>, row: 672
+[2024-03-03 13:47:54] udpate moving average: yfinance.Ticker object <180640.KS>, row: 672
+[2024-03-03 13:47:57] udpate moving average: yfinance.Ticker object <307950.KS>, row: 672
+[2024-03-03 13:48:01] udpate moving average: yfinance.Ticker object <034220.KS>, row: 672
+[2024-03-03 13:48:05] udpate moving average: yfinance.Ticker object <021240.KS>, row: 672
+[2024-03-03 13:48:09] udpate moving average: yfinance.Ticker object <071050.KS>, row: 672
+[2024-03-03 13:48:13] udpate moving average: yfinance.Ticker object <005940.KS>, row: 672
+[2024-03-03 13:48:17] udpate moving average: yfinance.Ticker object <000720.KS>, row: 672
+[2024-03-03 13:48:21] udpate moving average: yfinance.Ticker object <005385.KS>, row: 672
+[2024-03-03 13:48:25] udpate moving average: yfinance.Ticker object <035250.KS>, row: 672
+[2024-03-03 13:48:29] udpate moving average: yfinance.Ticker object <016360.KS>, row: 672
+[2024-03-03 13:48:31] udpate moving average: yfinance.Ticker object <271560.KS>, row: 672
+[2024-03-03 13:48:34] udpate moving average: yfinance.Ticker object <064350.KS>, row: 672
+[2024-03-03 13:48:38] udpate moving average: yfinance.Ticker object <003410.KS>, row: 672
+[2024-03-03 13:48:41] udpate moving average: yfinance.Ticker object <039490.KS>, row: 672
+[2024-03-03 13:48:43] udpate moving average: yfinance.Ticker object <018880.KS>, row: 672
+[2024-03-03 13:48:47] udpate moving average: yfinance.Ticker object <004990.KS>, row: 672
+[2024-03-03 13:48:50] udpate moving average: yfinance.Ticker object <079550.KS>, row: 672
+[2024-03-03 13:48:53] udpate moving average: yfinance.Ticker object <272210.KS>, row: 672
+[2024-03-03 13:48:56] udpate moving average: yfinance.Ticker object <011790.KS>, row: 672
+[2024-03-03 13:48:59] udpate moving average: yfinance.Ticker object <008930.KS>, row: 672
+[2024-03-03 13:49:01] udpate moving average: yfinance.Ticker object <000120.KS>, row: 672
+[2024-03-03 13:49:05] udpate moving average: yfinance.Ticker object <006260.KS>, row: 672
+[2024-03-03 13:49:07] udpate moving average: yfinance.Ticker object <001040.KS>, row: 672
+[2024-03-03 13:49:11] udpate moving average: yfinance.Ticker object <001450.KS>, row: 672
+[2024-03-03 13:49:14] udpate moving average: yfinance.Ticker object <383220.KS>, row: 672
+[2024-03-03 13:49:17] udpate moving average: yfinance.Ticker object <088350.KS>, row: 672
+[2024-03-03 13:49:20] udpate moving average: yfinance.Ticker object <052690.KS>, row: 672
+[2024-03-03 13:49:23] udpate moving average: yfinance.Ticker object <036460.KS>, row: 672
+[2024-03-03 13:49:26] udpate moving average: yfinance.Ticker object <028670.KS>, row: 672
+[2024-03-03 13:49:28] udpate moving average: yfinance.Ticker object <175330.KS>, row: 672
+[2024-03-03 13:49:32] udpate moving average: yfinance.Ticker object <010620.KS>, row: 672
+[2024-03-03 13:49:35] udpate moving average: yfinance.Ticker object <138930.KS>, row: 672
+[2024-03-03 13:49:38] udpate moving average: yfinance.Ticker object <002380.KS>, row: 672
+[2024-03-03 13:49:42] udpate moving average: yfinance.Ticker object <008770.KS>, row: 672
+[2024-03-03 13:49:46] udpate moving average: yfinance.Ticker object <007070.KS>, row: 672
+[2024-03-03 13:49:50] udpate moving average: yfinance.Ticker object <081660.KS>, row: 672
+[2024-03-03 13:49:54] udpate moving average: yfinance.Ticker object <051915.KS>, row: 672
+[2024-03-03 13:49:58] udpate moving average: yfinance.Ticker object <282330.KS>, row: 672
+[2024-03-03 13:59:18] udpate moving average: 005930.KS, row: 0
+[2024-03-03 13:59:21] udpate moving average: 000660.KS, row: 0
+[2024-03-03 13:59:22] udpate moving average: 373220.KS, row: 0
+[2024-03-03 13:59:23] udpate moving average: 207940.KS, row: 0
+[2024-03-03 13:59:23] udpate moving average: 005380.KS, row: 0
+[2024-03-03 13:59:24] udpate moving average: 005935.KS, row: 0
+[2024-03-03 13:59:24] udpate moving average: 000270.KS, row: 0
+[2024-03-03 13:59:25] udpate moving average: 068270.KS, row: 0
+[2024-03-03 13:59:25] udpate moving average: 005490.KS, row: 0
+[2024-03-03 13:59:26] udpate moving average: 051910.KS, row: 0
+[2024-03-03 13:59:27] udpate moving average: 035420.KS, row: 0
+[2024-03-03 13:59:27] udpate moving average: 028260.KS, row: 0
+[2024-03-03 13:59:28] udpate moving average: 006400.KS, row: 0
+[2024-03-03 13:59:28] udpate moving average: 105560.KS, row: 0
+[2024-03-03 13:59:29] udpate moving average: 003670.KS, row: 0
+[2024-03-03 13:59:30] udpate moving average: 035720.KS, row: 0
+[2024-03-03 13:59:30] udpate moving average: 012330.KS, row: 0
+[2024-03-03 13:59:31] udpate moving average: 055550.KS, row: 0
+[2024-03-03 13:59:31] udpate moving average: 032830.KS, row: 0
+[2024-03-03 13:59:32] udpate moving average: 138040.KS, row: 0
+[2024-03-03 13:59:32] udpate moving average: 086790.KS, row: 0
+[2024-03-03 13:59:33] udpate moving average: 015760.KS, row: 0
+[2024-03-03 13:59:34] udpate moving average: 066570.KS, row: 0
+[2024-03-03 13:59:34] udpate moving average: 003550.KS, row: 0
+[2024-03-03 13:59:35] udpate moving average: 000810.KS, row: 0
+[2024-03-03 13:59:35] udpate moving average: 034730.KS, row: 0
+[2024-03-03 13:59:36] udpate moving average: 323410.KS, row: 0
+[2024-03-03 13:59:36] udpate moving average: 450080.KS, row: 0
+[2024-03-03 13:59:37] udpate moving average: 011200.KS, row: 0
+[2024-03-03 13:59:37] udpate moving average: 033780.KS, row: 0
+[2024-03-03 13:59:38] udpate moving average: 018260.KS, row: 0
+[2024-03-03 13:59:38] udpate moving average: 096770.KS, row: 0
+[2024-03-03 13:59:39] udpate moving average: 017670.KS, row: 0
+[2024-03-03 13:59:40] udpate moving average: 316140.KS, row: 0
+[2024-03-03 13:59:40] udpate moving average: 024110.KS, row: 0
+[2024-03-03 13:59:41] udpate moving average: 259960.KS, row: 0
+[2024-03-03 13:59:41] udpate moving average: 329180.KS, row: 0
+[2024-03-03 13:59:42] udpate moving average: 009150.KS, row: 0
+[2024-03-03 13:59:42] udpate moving average: 034020.KS, row: 0
+[2024-03-03 13:59:43] udpate moving average: 030200.KS, row: 0
+[2024-03-03 13:59:43] udpate moving average: 047050.KS, row: 0
+[2024-03-03 13:59:44] udpate moving average: 402340.KS, row: 0
+[2024-03-03 13:59:44] udpate moving average: 012450.KS, row: 0
+[2024-03-03 13:59:45] udpate moving average: 010130.KS, row: 0
+[2024-03-03 13:59:46] udpate moving average: 010950.KS, row: 0
+[2024-03-03 13:59:46] udpate moving average: 003490.KS, row: 0
+[2024-03-03 13:59:47] udpate moving average: 352820.KS, row: 0
+[2024-03-03 13:59:47] udpate moving average: 042700.KS, row: 0
+[2024-03-03 13:59:48] udpate moving average: 022100.KS, row: 0
+[2024-03-03 13:59:49] udpate moving average: 009540.KS, row: 0
+[2024-03-03 13:59:49] udpate moving average: 326030.KS, row: 0
+[2024-03-03 13:59:50] udpate moving average: 042660.KS, row: 0
+[2024-03-03 13:59:50] udpate moving average: 086280.KS, row: 0
+[2024-03-03 13:59:51] udpate moving average: 090430.KS, row: 0
+[2024-03-03 13:59:51] udpate moving average: 005830.KS, row: 0
+[2024-03-03 13:59:52] udpate moving average: 010140.KS, row: 0
+[2024-03-03 13:59:52] udpate moving average: 161390.KS, row: 0
+[2024-03-03 13:59:53] udpate moving average: 066970.KS, row: 0
+[2024-03-03 13:59:54] udpate moving average: 377300.KS, row: 0
+[2024-03-03 13:59:54] udpate moving average: 005387.KS, row: 0
+[2024-03-03 13:59:55] udpate moving average: 005070.KS, row: 0
+[2024-03-03 13:59:55] udpate moving average: 001570.KS, row: 0
+[2024-03-03 13:59:56] udpate moving average: 267250.KS, row: 0
+[2024-03-03 13:59:56] udpate moving average: 088980.KS, row: 0
+[2024-03-03 13:59:57] udpate moving average: 006800.KS, row: 0
+[2024-03-03 13:59:57] udpate moving average: 000100.KS, row: 0
+[2024-03-03 13:59:58] udpate moving average: 251270.KS, row: 0
+[2024-03-03 13:59:59] udpate moving average: 011170.KS, row: 0
+[2024-03-03 13:59:59] udpate moving average: 361610.KS, row: 0
+[2024-03-03 14:00:00] udpate moving average: 047810.KS, row: 0
+[2024-03-03 14:00:00] udpate moving average: 051900.KS, row: 0
+[2024-03-03 14:00:01] udpate moving average: 028050.KS, row: 0
+[2024-03-03 14:00:01] udpate moving average: 004020.KS, row: 0
+[2024-03-03 14:00:02] udpate moving average: 454910.KS, row: 0
+[2024-03-03 14:00:03] udpate moving average: 011070.KS, row: 0
+[2024-03-03 14:00:03] udpate moving average: 009830.KS, row: 0
+[2024-03-03 14:00:04] udpate moving average: 302440.KS, row: 0
+[2024-03-03 14:00:04] udpate moving average: 241560.KS, row: 0
+[2024-03-03 14:00:05] udpate moving average: 097950.KS, row: 0
+[2024-03-03 14:00:05] udpate moving average: 032640.KS, row: 0
+[2024-03-03 14:00:06] udpate moving average: 267260.KS, row: 0
+[2024-03-03 14:00:06] udpate moving average: 078930.KS, row: 0
+[2024-03-03 14:00:07] udpate moving average: 029780.KS, row: 0
+[2024-03-03 14:00:07] udpate moving average: 128940.KS, row: 0
+[2024-03-03 14:00:08] udpate moving average: 036570.KS, row: 0
+[2024-03-03 14:00:08] udpate moving average: 011780.KS, row: 0
+[2024-03-03 14:00:09] udpate moving average: 180640.KS, row: 0
+[2024-03-03 14:00:09] udpate moving average: 307950.KS, row: 0
+[2024-03-03 14:00:10] udpate moving average: 034220.KS, row: 0
+[2024-03-03 14:00:10] udpate moving average: 021240.KS, row: 0
+[2024-03-03 14:00:11] udpate moving average: 071050.KS, row: 0
+[2024-03-03 14:00:12] udpate moving average: 005940.KS, row: 0
+[2024-03-03 14:00:13] udpate moving average: 000720.KS, row: 0
+[2024-03-03 14:00:13] udpate moving average: 005385.KS, row: 0
+[2024-03-03 14:00:14] udpate moving average: 035250.KS, row: 0
+[2024-03-03 14:00:14] udpate moving average: 016360.KS, row: 0
+[2024-03-03 14:00:15] udpate moving average: 271560.KS, row: 0
+[2024-03-03 14:00:15] udpate moving average: 064350.KS, row: 0
+[2024-03-03 14:00:16] udpate moving average: 003410.KS, row: 0
+[2024-03-03 14:00:16] udpate moving average: 039490.KS, row: 0
+[2024-03-03 14:00:17] udpate moving average: 018880.KS, row: 0
+[2024-03-03 14:00:18] udpate moving average: 004990.KS, row: 0
+[2024-03-03 14:00:18] udpate moving average: 079550.KS, row: 0
+[2024-03-03 14:00:19] udpate moving average: 272210.KS, row: 0
+[2024-03-03 14:00:19] udpate moving average: 011790.KS, row: 0
+[2024-03-03 14:00:20] udpate moving average: 008930.KS, row: 0
+[2024-03-03 14:00:20] udpate moving average: 000120.KS, row: 0
+[2024-03-03 14:00:21] udpate moving average: 006260.KS, row: 0
+[2024-03-03 14:00:22] udpate moving average: 001040.KS, row: 0
+[2024-03-03 14:00:22] udpate moving average: 001450.KS, row: 0
+[2024-03-03 14:00:23] udpate moving average: 383220.KS, row: 0
+[2024-03-03 14:00:23] udpate moving average: 088350.KS, row: 0
+[2024-03-03 14:00:24] udpate moving average: 052690.KS, row: 0
+[2024-03-03 14:00:24] udpate moving average: 036460.KS, row: 0
+[2024-03-03 14:00:25] udpate moving average: 028670.KS, row: 0
+[2024-03-03 14:00:25] udpate moving average: 175330.KS, row: 0
+[2024-03-03 14:00:26] udpate moving average: 010620.KS, row: 0
+[2024-03-03 14:00:27] udpate moving average: 138930.KS, row: 0
+[2024-03-03 14:00:27] udpate moving average: 002380.KS, row: 0
+[2024-03-03 14:00:28] udpate moving average: 008770.KS, row: 0
+[2024-03-03 14:00:28] udpate moving average: 007070.KS, row: 0
+[2024-03-03 14:00:29] udpate moving average: 081660.KS, row: 0
+[2024-03-03 14:00:29] udpate moving average: 051915.KS, row: 0
+[2024-03-03 14:00:30] udpate moving average: 282330.KS, row: 0
+[2024-03-03 14:00:30] udpate moving average: 278470.KS, row: 0
+[2024-03-03 14:00:31] udpate moving average: 012750.KS, row: 672
+[2024-03-03 14:00:34] udpate moving average: 000880.KS, row: 672
+[2024-03-03 14:00:37] udpate moving average: 002790.KS, row: 672
+[2024-03-03 14:00:40] udpate moving average: 023530.KS, row: 672
+[2024-03-03 14:00:43] udpate moving average: 112610.KS, row: 672
+[2024-03-03 14:00:46] udpate moving average: 030000.KS, row: 672
+[2024-03-03 14:00:49] udpate moving average: 004370.KS, row: 672
+[2024-03-03 14:00:52] udpate moving average: 139480.KS, row: 672
+[2024-03-03 14:00:55] udpate moving average: 000990.KS, row: 672
+[2024-03-03 14:00:58] udpate moving average: 111770.KS, row: 672
+[2024-03-03 14:01:01] udpate moving average: 007660.KS, row: 672
+[2024-03-03 14:01:04] udpate moving average: 014680.KS, row: 672
+[2024-03-03 14:01:07] udpate moving average: 010120.KS, row: 672
+[2024-03-03 14:01:10] udpate moving average: 010060.KS, row: 672
+[2024-03-03 14:01:13] udpate moving average: 457190.KS, row: 182
+[2024-03-03 14:01:15] udpate moving average: 009420.KS, row: 672
+[2024-03-03 14:01:18] udpate moving average: 073240.KS, row: 672
+[2024-03-03 14:01:21] udpate moving average: 006040.KS, row: 672
+[2024-03-03 14:01:24] udpate moving average: 298040.KS, row: 672
+[2024-03-03 14:01:27] udpate moving average: 002710.KS, row: 672
+[2024-03-03 14:01:30] udpate moving average: 026960.KS, row: 672
+[2024-03-03 14:01:34] udpate moving average: 004170.KS, row: 672
+[2024-03-03 14:01:37] udpate moving average: 051600.KS, row: 672
+[2024-03-03 14:01:43] udpate moving average: 047040.KS, row: 672
+[2024-03-03 14:01:47] udpate moving average: 011210.KS, row: 672
+[2024-03-03 14:01:51] udpate moving average: 000240.KS, row: 672
+[2024-03-03 14:01:56] udpate moving average: 007310.KS, row: 672
+[2024-03-03 14:02:00] udpate moving average: 042670.KS, row: 672
+[2024-03-03 14:02:04] udpate moving average: 020150.KS, row: 672
+[2024-03-03 14:02:08] udpate moving average: 145720.KS, row: 672
+[2024-03-03 14:02:12] udpate moving average: 005850.KS, row: 672
+[2024-03-03 14:02:16] udpate moving average: 137310.KS, row: 644
+[2024-03-03 14:02:20] udpate moving average: 017800.KS, row: 672
+[2024-03-03 14:02:25] udpate moving average: 204320.KS, row: 672
+[2024-03-03 14:02:29] udpate moving average: 001740.KS, row: 672
+[2024-03-03 14:02:33] udpate moving average: 003620.KS, row: 672
+[2024-03-03 14:02:37] udpate moving average: 000150.KS, row: 672
+[2024-03-03 14:02:41] udpate moving average: 139130.KS, row: 672
+[2024-03-03 14:02:45] udpate moving average: 298050.KS, row: 672
+[2024-03-03 14:02:49] udpate moving average: 018670.KS, row: 672
+[2024-03-03 14:02:54] udpate moving average: 006110.KS, row: 672
+[2024-03-03 14:02:58] udpate moving average: 248070.KS, row: 672
+[2024-03-03 14:03:02] udpate moving average: 185750.KS, row: 672
+[2024-03-03 14:03:06] udpate moving average: 000080.KS, row: 672
+[2024-03-03 14:03:10] udpate moving average: 012510.KS, row: 672
+[2024-03-03 14:03:14] udpate moving average: 006280.KS, row: 672
+[2024-03-03 14:03:18] udpate moving average: 006360.KS, row: 672
+[2024-03-03 14:03:21] udpate moving average: 005420.KS, row: 672
+[2024-03-03 14:03:24] udpate moving average: 003690.KS, row: 672
+[2024-03-03 14:03:27] udpate moving average: 069620.KS, row: 672
+[2024-03-03 14:03:30] udpate moving average: 375500.KS, row: 672
+[2024-03-03 14:03:33] udpate moving average: 294870.KS, row: 672
+[2024-03-03 14:03:36] udpate moving average: 336260.KS, row: 672
+[2024-03-03 14:03:39] udpate moving average: 003230.KS, row: 672
+[2024-03-03 14:03:42] udpate moving average: 003090.KS, row: 672
+[2024-03-03 14:03:45] udpate moving average: 004800.KS, row: 672
+[2024-03-03 14:03:48] udpate moving average: 298020.KS, row: 672
+[2024-03-03 14:03:51] udpate moving average: 009970.KS, row: 672
+[2024-03-03 14:03:54] udpate moving average: 280360.KS, row: 672
+[2024-03-03 14:03:57] udpate moving average: 069960.KS, row: 672
+[2024-03-03 14:04:00] udpate moving average: 004000.KS, row: 672
+[2024-03-03 14:04:04] udpate moving average: 108320.KS, row: 672
+[2024-03-03 14:04:07] udpate moving average: 192820.KS, row: 672
+[2024-03-03 14:04:10] udpate moving average: 103140.KS, row: 672
+[2024-03-03 14:04:13] udpate moving average: 285130.KS, row: 672
+[2024-03-03 14:04:16] udpate moving average: 001440.KS, row: 672
+[2024-03-03 14:04:19] udpate moving average: 005300.KS, row: 672
+[2024-03-03 14:04:22] udpate moving average: 009240.KS, row: 672
+[2024-03-03 14:04:25] udpate moving average: 004490.KS, row: 672
+[2024-03-03 14:04:28] udpate moving average: 353200.KS, row: 672
+[2024-03-03 14:04:31] udpate moving average: 161890.KS, row: 672
+[2024-03-03 14:04:34] udpate moving average: 120110.KS, row: 672
+[2024-03-03 14:04:37] udpate moving average: 001120.KS, row: 672
+[2024-03-03 14:04:40] udpate moving average: 267270.KS, row: 672
+[2024-03-03 14:04:42] udpate moving average: 039130.KS, row: 672
+[2024-03-03 14:04:45] udpate moving average: 395400.KS, row: 603
+[2024-03-03 14:04:48] udpate moving average: 017860.KS, row: 45
+[2024-03-03 14:04:49] udpate moving average: 008730.KS, row: 672
+[2024-03-03 14:04:52] udpate moving average: 014820.KS, row: 672
+[2024-03-03 14:04:56] udpate moving average: 000210.KS, row: 672
+[2024-03-03 14:04:59] udpate moving average: 192080.KS, row: 672
+[2024-03-03 14:05:02] udpate moving average: 089860.KS, row: 621
+[2024-03-03 14:05:05] udpate moving average: 023590.KS, row: 672
+[2024-03-03 14:05:07] udpate moving average: 003530.KS, row: 672
+[2024-03-03 14:05:10] udpate moving average: 082640.KS, row: 672
+[2024-03-03 14:05:13] udpate moving average: 000670.KS, row: 672
+[2024-03-03 14:05:16] udpate moving average: 181710.KS, row: 672
+[2024-03-03 14:05:19] udpate moving average: 006650.KS, row: 672
+[2024-03-03 14:05:22] udpate moving average: 001430.KS, row: 672
+[2024-03-03 14:05:25] udpate moving average: 002350.KS, row: 672
+[2024-03-03 14:05:28] udpate moving average: 089590.KS, row: 672
+[2024-03-03 14:05:31] udpate moving average: 001800.KS, row: 672
+[2024-03-03 14:05:34] udpate moving average: 000400.KS, row: 672
+[2024-03-03 14:05:37] udpate moving average: 003030.KS, row: 672
+[2024-03-03 14:05:40] udpate moving average: 214320.KS, row: 672
+[2024-03-03 14:05:43] udpate moving average: 003240.KS, row: 672
+[2024-03-03 14:05:46] udpate moving average: 020560.KS, row: 672
+[2024-03-03 14:05:49] udpate moving average: 085620.KS, row: 672
+[2024-03-03 14:05:52] udpate moving average: 010780.KS, row: 672
+[2024-03-03 14:05:56] udpate moving average: 271940.KS, row: 612
+[2024-03-03 14:06:00] udpate moving average: 336370.KS, row: 672
+[2024-03-03 14:06:04] udpate moving average: 365550.KS, row: 672
+[2024-03-03 14:06:08] udpate moving average: 009900.KS, row: 672
+[2024-03-03 14:06:12] udpate moving average: 300720.KS, row: 672
+[2024-03-03 14:06:16] udpate moving average: 003540.KS, row: 672
+[2024-03-03 14:06:20] udpate moving average: 006120.KS, row: 672
+[2024-03-03 14:06:24] udpate moving average: 007340.KS, row: 672
+[2024-03-03 14:06:28] udpate moving average: 069260.KS, row: 672
+[2024-03-03 14:06:33] udpate moving average: 003850.KS, row: 672
+[2024-03-03 14:06:37] udpate moving average: 105630.KS, row: 672
+[2024-03-03 14:06:42] udpate moving average: 348950.KS, row: 672
+[2024-03-03 14:06:46] udpate moving average: 093370.KS, row: 672
+[2024-03-03 14:06:50] udpate moving average: 195870.KS, row: 672
+[2024-03-03 14:06:53] udpate moving average: 281820.KS, row: 672
+[2024-03-03 14:06:56] udpate moving average: 002840.KS, row: 672
+[2024-03-03 14:06:59] udpate moving average: 005250.KS, row: 672
+[2024-03-03 14:07:03] udpate moving average: 114090.KS, row: 672
+[2024-03-03 14:07:06] udpate moving average: 009450.KS, row: 672
+[2024-03-03 14:07:10] udpate moving average: 100090.KS, row: 672
+[2024-03-03 14:07:13] udpate moving average: 001060.KS, row: 672
+[2024-03-03 14:07:17] udpate moving average: 330590.KS, row: 672
+[2024-03-03 14:07:20] udpate moving average: 456040.KS, row: 185
+[2024-03-03 14:07:22] udpate moving average: 192650.KS, row: 672
+[2024-03-03 14:07:26] udpate moving average: 079160.KS, row: 672
+[2024-03-03 14:07:29] udpate moving average: 066575.KS, row: 672
+[2024-03-03 14:07:33] udpate moving average: 016380.KS, row: 672
+[2024-03-03 14:07:36] udpate moving average: 000815.KS, row: 672
+[2024-03-03 14:07:40] udpate moving average: 001530.KS, row: 672
+[2024-03-03 14:07:44] udpate moving average: 000640.KS, row: 672
+[2024-03-03 14:07:47] udpate moving average: 032350.KS, row: 672
+[2024-03-03 14:07:51] udpate moving average: 001680.KS, row: 672
+[2024-03-03 14:07:54] udpate moving average: 268280.KS, row: 672
+[2024-03-03 14:07:57] udpate moving average: 003280.KS, row: 672
+[2024-03-03 14:08:00] udpate moving average: 025540.KS, row: 672
+[2024-03-03 14:08:04] udpate moving average: 161000.KS, row: 672
+[2024-03-03 14:08:07] udpate moving average: 005440.KS, row: 672
+[2024-03-03 14:08:11] udpate moving average: 005880.KS, row: 672
+[2024-03-03 14:08:14] udpate moving average: 344820.KS, row: 672
+[2024-03-03 14:08:17] udpate moving average: 272450.KS, row: 672
+[2024-03-03 14:08:21] udpate moving average: 082740.KS, row: 672
+[2024-03-03 14:08:24] udpate moving average: 064960.KS, row: 672
+[2024-03-03 14:08:27] udpate moving average: 007700.KS, row: 672
+[2024-03-03 14:08:31] udpate moving average: 170900.KS, row: 672
+[2024-03-03 14:08:34] udpate moving average: 030190.KS, row: 672
+[2024-03-03 14:08:38] udpate moving average: 460860.KS, row: 173
+[2024-03-03 14:08:40] udpate moving average: 019170.KS, row: 672
+[2024-03-03 14:08:43] udpate moving average: 033240.KS, row: 672
+[2024-03-03 14:08:46] udpate moving average: 293940.KS, row: 672
+[2024-03-03 14:08:50] udpate moving average: 000070.KS, row: 672
+[2024-03-03 14:08:53] udpate moving average: 001720.KS, row: 672
+[2024-03-03 14:08:56] udpate moving average: 003570.KS, row: 672
+[2024-03-03 14:08:59] udpate moving average: 178920.KS, row: 672
+[2024-03-03 14:09:03] udpate moving average: 049770.KS, row: 672
+[2024-03-03 14:09:07] udpate moving average: 403550.KS, row: 376
+[2024-03-03 14:09:09] udpate moving average: 030610.KS, row: 672
+[2024-03-03 14:09:12] udpate moving average: 381970.KS, row: 587
+[2024-03-03 14:09:16] udpate moving average: 031430.KS, row: 672
+[2024-03-03 14:09:19] udpate moving average: 090460.KS, row: 672
+[2024-03-03 14:09:22] udpate moving average: 192400.KS, row: 672
+[2024-03-03 14:09:25] udpate moving average: 286940.KS, row: 672
+[2024-03-03 14:09:28] udpate moving average: 002240.KS, row: 672
+[2024-03-03 14:09:32] udpate moving average: 091810.KS, row: 672
+[2024-03-03 14:09:35] udpate moving average: 229640.KS, row: 672
+[2024-03-03 14:09:38] udpate moving average: 00680K.KS, row: 672
+[2024-03-03 14:09:42] udpate moving average: 057050.KS, row: 672
+[2024-03-03 14:09:45] udpate moving average: 000370.KS, row: 672
+[2024-03-03 14:09:49] udpate moving average: 210980.KS, row: 672
+[2024-03-03 14:09:52] udpate moving average: 017960.KS, row: 672
+[2024-03-03 14:09:55] udpate moving average: 003470.KS, row: 672
+[2024-03-03 14:09:59] udpate moving average: 200880.KS, row: 672
+[2024-03-03 14:10:02] udpate moving average: 071320.KS, row: 672
+[2024-03-03 14:10:05] udpate moving average: 383800.KS, row: 672
+[2024-03-03 14:10:08] udpate moving average: 014830.KS, row: 672
+[2024-03-03 14:10:12] udpate moving average: 005180.KS, row: 672
+[2024-03-03 14:10:15] udpate moving average: 950210.KS, row: 672
+[2024-03-03 14:10:19] udpate moving average: 005610.KS, row: 672
+[2024-03-03 14:10:23] udpate moving average: 103590.KS, row: 672
+[2024-03-03 14:10:26] udpate moving average: 145990.KS, row: 672
+[2024-03-03 14:10:30] udpate moving average: 001470.KS, row: 672
+[2024-03-03 14:10:34] udpate moving average: 012630.KS, row: 672
+[2024-03-03 14:10:38] udpate moving average: 034310.KS, row: 672
+[2024-03-03 14:10:43] udpate moving average: 900140.KS, row: 672
+[2024-03-03 14:10:47] udpate moving average: 020000.KS, row: 672
+[2024-03-03 14:10:51] udpate moving average: 003000.KS, row: 672
+[2024-03-03 14:10:55] udpate moving average: 001725.KS, row: 672
+[2024-03-03 14:11:00] udpate moving average: 034120.KS, row: 672
+[2024-03-03 14:11:04] udpate moving average: 097520.KS, row: 672
+[2024-03-03 14:11:08] udpate moving average: 377740.KS, row: 292
+[2024-03-03 14:11:11] udpate moving average: 017940.KS, row: 672
+[2024-03-03 14:11:16] udpate moving average: 284740.KS, row: 672
+[2024-03-03 14:11:21] udpate moving average: 007810.KS, row: 672
+[2024-03-03 14:11:25] udpate moving average: 002030.KS, row: 672
+[2024-03-03 14:11:27] udpate moving average: 058650.KS, row: 672
+[2024-03-03 14:11:29] udpate moving average: 249420.KS, row: 672
+[2024-03-03 14:11:34] udpate moving average: 010690.KS, row: 672
+[2024-03-03 14:11:37] udpate moving average: 183190.KS, row: 672
+[2024-03-03 14:11:41] udpate moving average: 001390.KS, row: 672
+[2024-03-03 14:11:44] udpate moving average: 357120.KS, row: 672
+[2024-03-03 14:11:47] udpate moving average: 002310.KS, row: 672
+[2024-03-03 14:11:51] udpate moving average: 005810.KS, row: 672
+[2024-03-03 14:11:54] udpate moving average: 018250.KS, row: 672
+[2024-03-03 14:11:58] udpate moving average: 241590.KS, row: 672
+[2024-03-03 14:12:01] udpate moving average: 001940.KS, row: 672
+[2024-03-03 14:12:05] udpate moving average: 003920.KS, row: 0
+[2024-03-03 14:12:07] udpate moving average: 123890.KS[2024-05-24 17:13:35] udpate price: 041590.KQ, row: 0
+[2024-05-24 17:13:38] udpate price: 066410.KQ, row: 0
+[2024-05-24 17:13:38] udpate price: 014200.KQ, row: 0
+[2024-05-24 17:13:39] udpate price: 318020.KQ, row: 19
+[2024-05-24 17:13:40] udpate price: 090410.KQ, row: 35
+[2024-05-24 17:13:41] udpate price: 044060.KQ, row: 0
+[2024-05-24 17:13:42] udpate price: 214870.KQ, row: 0
+[2024-05-24 17:13:43] udpate price: 089530.KQ, row: 0
+[2024-05-24 17:13:43] udpate price: 062860.KQ, row: 0
+[2024-05-24 17:13:44] udpate price: 005670.KQ, row: 35
+[2024-05-24 17:13:45] udpate price: 053590.KQ, row: 0
+[2024-05-24 17:13:45] udpate price: 418250.KQ, row: 0
+[2024-05-24 17:13:46] udpate price: 096610.KQ, row: 0
+[2024-05-24 17:13:47] udpate price: 457630.KQ, row: 12
+[2024-05-24 17:13:48] udpate price: 068940.KQ, row: 0
+[2024-05-24 17:13:48] udpate price: 065150.KQ, row: 0
+[2024-05-24 17:13:49] udpate price: 388800.KQ, row: 4
+[2024-05-24 17:13:50] udpate price: 436610.KQ, row: 0
+[2024-05-24 17:13:51] udpate price: 119610.KQ, row: 0
+[2024-05-24 17:13:51] udpate price: 096040.KQ, row: 0
+[2024-05-24 17:13:52] udpate price: 106520.KQ, row: 0
+[2024-05-24 17:13:52] udpate price: 024810.KQ, row: 0
+[2024-05-24 17:13:53] udpate price: 323280.KQ, row: 35
+[2024-05-24 17:13:55] udpate price: 056090.KQ, row: 0
+[2024-05-24 17:13:56] udpate price: 017670.KS, row: 55
+[2024-05-24 17:13:57] udpate price: 030200.KS, row: 55
+[2024-05-24 17:13:58] udpate price: 010950.KS, row: 55
+[2024-05-24 17:13:59] udpate price: 204320.KS, row: 55
+[2024-05-24 17:14:01] udpate price: 009240.KS, row: 55
+[2024-05-24 17:14:02] udpate price: 178920.KS, row: 55
+[2024-05-24 17:14:03] udpate price: 001060.KS, row: 55
+[2024-05-24 17:14:04] udpate price: MCACR, row: 1
+[2024-05-24 17:14:05] udpate price: CHK, row: 39
+[2024-05-24 17:14:07] udpate price: JVSAR, row: 1
+[2024-05-24 17:14:08] udpate price: IMAQR, row: 1
+[2024-05-24 17:14:09] udpate price: PFG, row: 39
+[2024-05-24 17:14:10] udpate price: CLOER, row: 1
+[2024-05-24 17:14:11] udpate price: STNE, row: 39
+[2024-05-24 17:14:12] udpate price: DORM, row: 39
+[2024-05-24 17:14:13] udpate price: HCSG, row: 39
+[2024-05-24 17:14:15] udpate price: KELYA, row: 39
+[2024-05-24 17:14:16] udpate price: PERI, row: 39
+[2024-05-24 17:14:17] udpate price: DENN, row: 39
+[2024-05-24 17:14:19] udpate price: NATR, row: 39
+[2024-05-24 17:14:20] udpate price: GASS, row: 39
+[2024-05-24 17:14:21] udpate price: HLXB, row: 39
+[2024-05-24 17:14:22] udpate price: JAKK, row: 39
+[2024-05-24 17:14:24] udpate price: OVLY, row: 39
+[2024-05-24 17:14:25] udpate price: BRACR, row: 1
+[2024-05-24 17:14:26] udpate price: ORGN, row: 39
+[2024-05-24 17:14:27] udpate price: NOVVR, row: 1
+[2024-05-24 17:14:28] udpate price: CBAT, row: 39
+[2024-05-24 17:14:29] udpate price: CITE, row: 39
+[2024-05-24 17:14:30] udpate price: GPAC, row: 39
+[2024-05-24 17:14:31] udpate price: BKHAU, row: 39
+[2024-05-24 17:14:33] udpate price: CJET, row: 39
+[2024-05-24 17:14:34] udpate price: DHAI, row: 39
+[2024-05-24 17:14:35] udpate price: RFACR, row: 1
+[2024-05-24 17:14:36] udpate price: CLRC, row: 39
+[2024-05-24 17:14:37] udpate price: HHGCR, row: 1
+[2024-05-24 17:14:38] udpate price: MCAGR, row: 1
+[2024-05-24 17:14:39] udpate price: JCSE, row: 39
+[2024-05-24 17:14:40] udpate price: ASCBR, row: 1
+[2024-05-24 17:14:41] udpate price: MSSAR, row: 1
+[2024-05-24 17:14:42] udpate price: EMCGR, row: 1
+[2024-05-24 17:14:43] udpate price: BUJAR, row: 1
+[2024-05-24 17:14:44] udpate price: NNAGR, row: 1
+[2024-05-24 17:14:45] udpate price: GLACR, row: 1
+[2024-05-24 17:14:46] udpate price: VALE, row: 39
+[2024-05-24 17:14:48] udpate price: SU, row: 39
+[2024-05-24 17:14:49] udpate price: BG, row: 39
+[2024-05-24 17:14:50] udpate price: GFI, row: 39
+[2024-05-24 17:14:51] udpate price: MCY, row: 39
+[2024-05-24 17:14:53] udpate price: CRC, row: 39
+[2024-05-24 17:14:54] udpate price: BNL, row: 39
+[2024-05-24 17:14:55] udpate price: WNS, row: 39
+[2024-05-24 17:14:56] udpate price: OBDE, row: 39
+[2024-05-24 17:14:57] udpate price: ASC, row: 39
+[2024-05-24 17:14:58] udpate price: LOMA, row: 39
+[2024-05-24 17:14:59] udpate price: LCW, row: 39
+[2024-05-24 17:15:00] udpate price: AMPY, row: 39
+[2024-05-24 17:15:01] udpate price: LGI, row: 39
+[2024-05-24 17:15:02] udpate price: FT, row: 39
+[2024-05-24 17:15:03] udpate price: KCGI, row: 39
+[2024-05-24 17:15:05] udpate price: EEA, row: 39
+[2024-05-24 17:21:54] udpate price: 058630.KQ, row: 21
+[2024-05-24 17:21:57] udpate price: 052900.KQ, row: 21
+[2024-05-24 17:21:58] udpate price: 170030.KQ, row: 21
+[2024-05-24 17:21:59] udpate price: 052710.KQ, row: 21
+[2024-05-24 17:22:00] udpate price: 038880.KQ, row: 21
+[2024-05-24 17:22:01] udpate price: 187870.KQ, row: 21
+[2024-05-24 17:22:02] udpate price: 043260.KQ, row: 21
+[2024-05-24 17:22:04] udpate price: 056090.KQ, row: 0
+[2024-05-24 17:22:04] udpate price: 217190.KQ, row: 21
+[2024-05-24 17:22:05] udpate price: 053050.KQ, row: 21
+[2024-05-24 17:22:06] udpate price: 078890.KQ, row: 21
+[2024-05-24 17:22:07] udpate price: 126880.KQ, row: 21
+[2024-05-24 17:22:09] udpate price: 069510.KQ, row: 21
+[2024-05-24 17:22:10] udpate price: 041910.KQ, row: 21
+[2024-05-24 17:22:12] udpate price: 263860.KQ, row: 21
+[2024-05-24 17:22:13] udpate price: 302430.KQ, row: 21
+[2024-05-24 17:22:14] udpate price: 007820.KQ, row: 21
+[2024-05-24 17:22:15] udpate price: 041920.KQ, row: 21
+[2024-05-24 17:22:16] udpate price: 072020.KQ, row: 21
+[2024-05-24 17:22:17] udpate price: 361570.KQ, row: 21
+[2024-05-24 17:22:18] udpate price: 123420.KQ, row: 21
+[2024-05-24 17:22:19] udpate price: 340360.KQ, row: 21
+[2024-05-24 17:22:20] udpate price: 241790.KQ, row: 21
+[2024-05-24 17:22:21] udpate price: 241840.KQ, row: 21
+[2024-05-24 17:22:22] udpate price: 094940.KQ, row: 21
+[2024-05-24 17:22:23] udpate price: 407400.KQ, row: 21
+[2024-05-24 17:22:24] udpate price: 263690.KQ, row: 21
+[2024-05-24 17:22:25] udpate price: 027580.KQ, row: 21
+[2024-05-24 17:22:26] udpate price: 289080.KQ, row: 21
+[2024-05-24 17:22:27] udpate price: 104540.KQ, row: 21
+[2024-05-24 17:22:28] udpate price: 093920.KQ, row: 21
+[2024-05-24 17:22:29] udpate price: 218150.KQ, row: 21
+[2024-05-24 17:22:31] udpate price: 171120.KQ, row: 21
+[2024-05-24 17:22:32] udpate price: 216050.KQ, row: 21
+[2024-05-24 17:22:33] udpate price: 052790.KQ, row: 21
+[2024-05-24 17:22:34] udpate price: 040420.KQ, row: 21
+[2024-05-24 17:22:35] udpate price: 141000.KQ, row: 21
+[2024-05-24 17:22:36] udpate price: 408920.KQ, row: 21
+[2024-05-24 17:22:37] udpate price: 041590.KQ, row: 0
+[2024-05-24 17:22:38] udpate price: 065710.KQ, row: 21
+[2024-05-24 17:22:39] udpate price: 054800.KQ, row: 21
+[2024-05-24 17:22:40] udpate price: 093380.KQ, row: 21
+[2024-05-24 17:22:41] udpate price: 065130.KQ, row: 21
+[2024-05-24 17:22:42] udpate price: 330350.KQ, row: 21
+[2024-05-24 17:22:43] udpate price: 043220.KQ, row: 21
+[2024-05-24 17:22:44] udpate price: 082210.KQ, row: 21
+[2024-05-24 17:22:46] udpate price: 064240.KQ, row: 21
+[2024-05-24 17:22:47] udpate price: 083500.KQ, row: 21
+[2024-05-24 17:22:48] udpate price: 065530.KQ, row: 21
+[2024-05-24 17:22:49] udpate price: 053260.KQ, row: 21
+[2024-05-24 17:22:50] udpate price: 094850.KQ, row: 21
+[2024-05-24 17:22:51] udpate price: 900340.KQ, row: 21
+[2024-05-24 17:22:52] udpate price: 093190.KQ, row: 21
+[2024-05-24 17:22:53] udpate price: 232680.KQ, row: 21
+[2024-05-24 17:22:54] udpate price: 448710.KQ, row: 21
+[2024-05-24 17:22:55] udpate price: 241520.KQ, row: 21
+[2024-05-24 17:22:57] udpate price: 006140.KQ, row: 21
+[2024-05-24 17:22:58] udpate price: 270870.KQ, row: 21
+[2024-05-24 17:22:59] udpate price: 059120.KQ, row: 21
+[2024-05-24 17:23:00] udpate price: 088130.KQ, row: 21
+[2024-05-24 17:23:01] udpate price: 365900.KQ, row: 21
+[2024-05-24 17:23:02] udpate price: 032850.KQ, row: 21
+[2024-05-24 17:23:03] udpate price: 348350.KQ, row: 21
+[2024-05-24 17:23:04] udpate price: 067370.KQ, row: 21
+[2024-05-24 17:23:05] udpate price: 001540.KQ, row: 21
+[2024-05-24 17:23:06] udpate price: 018120.KQ, row: 21
+[2024-05-24 17:23:07] udpate price: 033790.KQ, row: 20
+[2024-05-24 17:23:08] udpate price: 050110.KQ, row: 21
+[2024-05-24 17:23:09] udpate price: 234100.KQ, row: 21
+[2024-05-24 17:23:10] udpate price: 064480.KQ, row: 21
+[2024-05-24 17:23:12] udpate price: 131030.KQ, row: 21
+[2024-05-24 17:23:13] udpate price: 066410.KQ, row: 0
+[2024-05-24 17:23:13] udpate price: 094970.KQ, row: 21
+[2024-05-24 17:23:14] udpate price: 043650.KQ, row: 21
+[2024-05-24 17:23:15] udpate price: 263800.KQ, row: 21
+[2024-05-24 17:23:16] udpate price: 021320.KQ, row: 21
+[2024-05-24 17:23:18] udpate price: 234920.KQ, row: 21
+[2024-05-24 17:23:19] udpate price: 057680.KQ, row: 21
+[2024-05-24 17:23:20] udpate price: 036640.KQ, row: 21
+[2024-05-24 17:23:21] udpate price: 396300.KQ, row: 21
+[2024-05-24 17:23:22] udpate price: 122310.KQ, row: 21
+[2024-05-24 17:23:23] udpate price: 010470.KQ, row: 21
+[2024-05-24 17:23:24] udpate price: 260970.KQ, row: 21
+[2024-05-24 17:23:25] udpate price: 071670.KQ, row: 21
+[2024-05-24 17:23:26] udpate price: 036120.KQ, row: 21
+[2024-05-24 17:23:27] udpate price: 265560.KQ, row: 21
+[2024-05-24 17:23:28] udpate price: 359090.KQ, row: 21
+[2024-05-24 17:23:29] udpate price: 087260.KQ, row: 21
+[2024-05-24 17:23:30] udpate price: 430690.KQ, row: 21
+[2024-05-24 17:23:31] udpate price: 155650.KQ, row: 21
+[2024-05-24 17:23:33] udpate price: 054040.KQ, row: 21
+[2024-05-24 17:23:34] udpate price: 105740.KQ, row: 21
+[2024-05-24 17:23:35] udpate price: 226400.KQ, row: 21
+[2024-05-24 17:23:36] udpate price: 064520.KQ, row: 21
+[2024-05-24 17:23:37] udpate price: 014200.KQ, row: 0
+[2024-05-24 17:23:37] udpate price: 052260.KQ, row: 21
+[2024-05-24 17:23:39] udpate price: 224110.KQ, row: 21
+[2024-05-24 17:23:40] udpate price: 043910.KQ, row: 21
+[2024-05-24 17:23:41] udpate price: 424980.KQ, row: 21
+[2024-05-24 17:23:42] udpate price: 048430.KQ, row: 21
+[2024-05-24 17:23:43] udpate price: 417970.KQ, row: 21
+[2024-05-24 17:23:44] udpate price: 064850.KQ, row: 21
+[2024-05-24 17:23:45] udpate price: 066670.KQ, row: 21
+[2024-05-24 17:23:47] udpate price: 192250.KQ, row: 21
+[2024-05-24 17:23:48] udpate price: 130580.KQ, row: 21
+[2024-05-24 17:23:49] udpate price: 049550.KQ, row: 21
+[2024-05-24 17:23:50] udpate price: 450520.KQ, row: 21
+[2024-05-24 17:23:51] udpate price: 333430.KQ, row: 21
+[2024-05-24 17:23:52] udpate price: 347740.KQ, row: 21
+[2024-05-24 17:23:53] udpate price: 320000.KQ, row: 21
+[2024-05-24 17:23:54] udpate price: 033830.KQ, row: 21
+[2024-05-24 17:23:55] udpate price: 241690.KQ, row: 21
+[2024-05-24 17:23:56] udpate price: 217500.KQ, row: 21
+[2024-05-24 17:23:57] udpate price: 066910.KQ, row: 21
+[2024-05-24 17:23:58] udpate price: 041520.KQ, row: 21
+[2024-05-24 17:24:00] udpate price: 339950.KQ, row: 21
+[2024-05-24 17:24:01] udpate price: 219420.KQ, row: 21
+[2024-05-24 17:24:02] udpate price: 101330.KQ, row: 21
+[2024-05-24 17:24:03] udpate price: 333620.KQ, row: 21
+[2024-05-24 17:24:05] udpate price: 095270.KQ, row: 21
+[2024-05-24 17:24:06] udpate price: 352700.KQ, row: 21
+[2024-05-24 17:24:07] udpate price: 352910.KQ, row: 21
+[2024-05-24 17:24:08] udpate price: 200230.KQ, row: 21
+[2024-05-24 17:24:09] udpate price: 089790.KQ, row: 21
+[2024-05-24 17:24:10] udpate price: 020710.KQ, row: 21
+[2024-05-24 17:24:11] udpate price: 037440.KQ, row: 21
+[2024-05-24 17:24:12] udpate price: 012790.KQ, row: 21
+[2024-05-24 17:24:13] udpate price: 039240.KQ, row: 21
+[2024-05-24 17:24:15] udpate price: 109860.KQ, row: 21
+[2024-05-24 17:24:16] udpate price: 036670.KQ, row: 21
+[2024-05-24 17:24:17] udpate price: 389470.KQ, row: 21
+[2024-05-24 17:24:18] udpate price: 066310.KQ, row: 21
+[2024-05-24 17:24:19] udpate price: 318020.KQ, row: 0
+[2024-05-24 17:24:19] udpate price: 250000.KQ, row: 21
+[2024-05-24 17:24:20] udpate price: 083660.KQ, row: 21
+[2024-05-24 17:24:21] udpate price: 330730.KQ, row: 21
+[2024-05-24 17:24:22] udpate price: 017480.KQ, row: 21
+[2024-05-24 17:24:24] udpate price: 201490.KQ, row: 21
+[2024-05-24 17:24:25] udpate price: 054930.KQ, row: 21
+[2024-05-24 17:24:26] udpate price: 115500.KQ, row: 21
+[2024-05-24 17:24:28] udpate price: 080000.KQ, row: 21
+[2024-05-24 17:24:29] udpate price: 046390.KQ, row: 21
+[2024-05-24 17:24:30] udpate price: 237820.KQ, row: 21
+[2024-05-24 17:24:31] udpate price: 039290.KQ, row: 21
+[2024-05-24 17:24:32] udpate price: 024800.KQ, row: 21
+[2024-05-24 17:24:34] udpate price: 063440.KQ, row: 21
+[2024-05-24 17:24:35] udpate price: 136410.KQ, row: 21
+[2024-05-24 17:24:36] udpate price: 049430.KQ, row: 21
+[2024-05-24 17:24:37] udpate price: 038870.KQ, row: 21
+[2024-05-24 17:24:38] udpate price: 002230.KQ, row: 21
+[2024-05-24 17:24:39] udpate price: 212560.KQ, row: 21
+[2024-05-24 17:24:41] udpate price: 090410.KQ, row: 0
+[2024-05-24 17:24:41] udpate price: 290090.KQ, row: 21
+[2024-05-24 17:24:42] udpate price: 163730.KQ, row: 21
+[2024-05-24 17:24:43] udpate price: 220180.KQ, row: 21
+[2024-05-24 17:24:45] udpate price: 260660.KQ, row: 21
+[2024-05-24 17:24:46] udpate price: 123570.KQ, row: 21
+[2024-05-24 17:24:47] udpate price: 098120.KQ, row: 21
+[2024-05-24 17:24:48] udpate price: 092300.KQ, row: 21
+[2024-05-24 17:24:50] udpate price: 096350.KQ, row: 21
+[2024-05-24 17:24:51] udpate price: 101170.KQ, row: 21
+[2024-05-24 17:24:52] udpate price: 041460.KQ, row: 21
+[2024-05-24 17:24:53] udpate price: 150900.KQ, row: 21
+[2024-05-24 17:24:54] udpate price: 100590.KQ, row: 21
+[2024-05-24 17:24:55] udpate price: 056730.KQ, row: 21
+[2024-05-24 17:24:56] udpate price: 068050.KQ, row: 21
+[2024-05-24 17:24:57] udpate price: 115440.KQ, row: 21
+[2024-05-24 17:24:58] udpate price: 290740.KQ, row: 21
+[2024-05-24 17:24:59] udpate price: 303530.KQ, row: 21
+[2024-05-24 17:25:01] udpate price: 053270.KQ, row: 21
+[2024-05-24 17:25:02] udpate price: 053290.KQ, row: 21
+[2024-05-24 17:25:03] udpate price: 429270.KQ, row: 21
+[2024-05-24 17:25:04] udpate price: 015710.KQ, row: 21
+[2024-05-24 17:25:05] udpate price: 094840.KQ, row: 21
+[2024-05-24 17:25:07] udpate price: 050960.KQ, row: 21
+[2024-05-24 17:25:08] udpate price: 017650.KQ, row: 21
+[2024-05-24 17:25:09] udpate price: 019540.KQ, row: 21
+[2024-05-24 17:25:10] udpate price: 039830.KQ, row: 21
+[2024-05-24 17:25:11] udpate price: 081150.KQ, row: 21
+[2024-05-24 17:25:12] udpate price: 314140.KQ, row: 21
+[2024-05-24 17:25:13] udpate price: 189690.KQ, row: 21
+[2024-05-24 17:25:14] udpate price: 042110.KQ, row: 21
+[2024-05-24 17:25:15] udpate price: 072990.KQ, row: 21
+[2024-05-24 17:25:17] udpate price: 265740.KQ, row: 21
+[2024-05-24 17:25:18] udpate price: 060850.KQ, row: 21
+[2024-05-24 17:25:19] udpate price: 388790.KQ, row: 21
+[2024-05-24 17:25:20] udpate price: 122690.KQ, row: 21
+[2024-05-24 17:25:21] udpate price: 024740.KQ, row: 21
+[2024-05-24 17:25:22] udpate price: 044060.KQ, row: 0
+[2024-05-24 17:25:23] udpate price: 053350.KQ, row: 21
+[2024-05-24 17:25:24] udpate price: 306040.KQ, row: 21
+[2024-05-24 17:25:25] udpate price: 277410.KQ, row: 21
+[2024-05-24 17:25:26] udpate price: 347770.KQ, row: 21
+[2024-05-24 17:25:27] udpate price: 052220.KQ, row: 21
+[2024-05-24 17:25:29] udpate price: 115310.KQ, row: 21
+[2024-05-24 17:25:30] udpate price: 084180.KQ, row: 21
+[2024-05-24 17:25:31] udpate price: 010240.KQ, row: 21
+[2024-05-24 17:25:32] udpate price: 238490.KQ, row: 21
+[2024-05-24 17:25:34] udpate price: 376290.KQ, row: 21
+[2024-05-24 17:25:35] udpate price: 088910.KQ, row: 21
+[2024-05-24 17:25:36] udpate price: 024950.KQ, row: 21
+[2024-05-24 17:25:37] udpate price: 419120.KQ, row: 21
+[2024-05-24 17:25:38] udpate price: 037350.KQ, row: 21
+[2024-05-24 17:25:39] udpate price: 075970.KQ, row: 21
+[2024-05-24 17:25:40] udpate price: 004780.KQ, row: 21
+[2024-05-24 17:25:41] udpate price: 066900.KQ, row: 21
+[2024-05-24 17:25:42] udpate price: 100030.KQ, row: 21
+[2024-05-24 17:25:43] udpate price: 039420.KQ, row: 21
+[2024-05-24 17:25:45] udpate price: 057030.KQ, row: 21
+[2024-05-24 17:25:46] udpate price: 318410.KQ, row: 21
+[2024-05-24 17:25:47] udpate price: 318000.KQ, row: 21
+[2024-05-24 17:25:48] udpate price: 214870.KQ, row: 0
+[2024-05-24 17:25:49] udpate price: 128540.KQ, row: 21
+[2024-05-24 17:25:50] udpate price: 073110.KQ, row: 21
+[2024-05-24 17:25:51] udpate price: 147760.KQ, row: 21
+[2024-05-24 17:25:52] udpate price: 053620.KQ, row: 21
+[2024-05-24 17:25:53] udpate price: 057540.KQ, row: 21
+[2024-05-24 17:25:54] udpate price: 019990.KQ, row: 21
+[2024-05-24 17:25:55] udpate price: 900100.KQ, row: 21
+[2024-05-24 17:25:56] udpate price: 014190.KQ, row: 21
+[2024-05-24 17:25:58] udpate price: 067920.KQ, row: 21
+[2024-05-24 17:25:59] udpate price: 273060.KQ, row: 21
+[2024-05-24 17:26:00] udpate price: 097870.KQ, row: 21
+[2024-05-24 17:26:01] udpate price: 007370.KQ, row: 21
+[2024-05-24 17:26:02] udpate price: 023460.KQ, row: 21
+[2024-05-24 17:26:03] udpate price: 148930.KQ, row: 21
+[2024-05-24 17:26:04] udpate price: 204020.KQ, row: 21
+[2024-05-24 17:26:05] udpate price: 299170.KQ, row: 21
+[2024-05-24 17:26:07] udpate price: 047770.KQ, row: 21
+[2024-05-24 17:26:08] udpate price: 004590.KQ, row: 21
+[2024-05-24 17:26:09] udpate price: 024830.KQ, row: 21
+[2024-05-24 17:26:10] udpate price: 003310.KQ, row: 21
+[2024-05-24 17:26:11] udpate price: 022220.KQ, row: 21
+[2024-05-24 17:26:12] udpate price: 373170.KQ, row: 21
+[2024-05-24 17:26:13] udpate price: 256150.KQ, row: 21
+[2024-05-24 17:26:14] udpate price: 348080.KQ, row: 21
+[2024-05-24 17:26:15] udpate price: 309930.KQ, row: 21
+[2024-05-24 17:26:16] udpate price: 138070.KQ, row: 21
+[2024-05-24 17:26:17] udpate price: 440320.KQ, row: 21
+[2024-05-24 17:26:18] udpate price: 014970.KQ, row: 21
+[2024-05-24 17:26:19] udpate price: 195500.KQ, row: 21
+[2024-05-24 17:26:20] udpate price: 056360.KQ, row: 21
+[2024-05-24 17:26:21] udpate price: 068330.KQ, row: 21
+[2024-05-24 17:26:22] udpate price: 417860.KQ, row: 21
+[2024-05-24 17:26:23] udpate price: 038060.KQ, row: 21
+[2024-05-24 17:26:24] udpate price: 089530.KQ, row: 0
+[2024-05-24 17:26:25] udpate price: 285800.KQ, row: 21
+[2024-05-24 17:26:26] udpate price: 101240.KQ, row: 21
+[2024-05-24 17:26:27] udpate price: 062860.KQ, row: 0
+[2024-05-24 17:26:27] udpate price: 007530.KQ, row: 21
+[2024-05-24 17:26:28] udpate price: 080010.KQ, row: 21
+[2024-05-24 17:26:29] udpate price: 238120.KQ, row: 21
+[2024-05-24 17:26:30] udpate price: 053160.KQ, row: 21
+[2024-05-24 17:26:31] udpate price: 054540.KQ, row: 21
+[2024-05-24 17:26:33] udpate price: 262840.KQ, row: 21
+[2024-05-24 17:26:34] udpate price: 340810.KQ, row: 21
+[2024-05-24 17:26:35] udpate price: 016600.KQ, row: 21
+[2024-05-24 17:26:36] udpate price: 031310.KQ, row: 21
+[2024-05-24 17:26:37] udpate price: 040610.KQ, row: 21
+[2024-05-24 17:26:39] udpate price: 023770.KQ, row: 21
+[2024-05-24 17:26:40] udpate price: 060540.KQ, row: 21
+[2024-05-24 17:26:41] udpate price: 005670.KQ, row: 0
+[2024-05-24 17:26:41] udpate price: 100660.KQ, row: 21
+[2024-05-24 17:26:42] udpate price: 263810.KQ, row: 21
+[2024-05-24 17:26:44] udpate price: 039610.KQ, row: 21
+[2024-05-24 17:26:45] udpate price: 126640.KQ, row: 21
+[2024-05-24 17:26:46] udpate price: 246690.KQ, row: 21
+[2024-05-24 17:26:47] udpate price: 153490.KQ, row: 21
+[2024-05-24 17:26:48] udpate price: 036170.KQ, row: 21
+[2024-05-24 17:26:49] udpate price: 189860.KQ, row: 21
+[2024-05-24 17:26:50] udpate price: 267790.KQ, row: 21
+[2024-05-24 17:26:51] udpate price: 900310.KQ, row: 21
+[2024-05-24 17:26:52] udpate price: 038620.KQ, row: 21
+[2024-05-24 17:26:53] udpate price: 140520.KQ, row: 21
+[2024-05-24 17:26:54] udpate price: 039020.KQ, row: 21
+[2024-05-24 17:26:55] udpate price: 046940.KQ, row: 21
+[2024-05-24 17:26:57] udpate price: 048770.KQ, row: 21
+[2024-05-24 17:26:58] udpate price: 114630.KQ, row: 21
+[2024-05-24 17:26:59] udpate price: 008370.KQ, row: 21
+[2024-05-24 17:27:00] udpate price: 053590.KQ, row: 0
+[2024-05-24 17:27:00] udpate price: 052600.KQ, row: 21
+[2024-05-24 17:27:02] udpate price: 418250.KQ, row: 0
+[2024-05-24 17:27:02] udpate price: 083550.KQ, row: 21
+[2024-05-24 17:27:03] udpate price: 318010.KQ, row: 21
+[2024-05-24 17:27:04] udpate price: 045060.KQ, row: 21
+[2024-05-24 17:27:05] udpate price: 052460.KQ, row: 21
+[2024-05-24 17:27:07] udpate price: 080520.KQ, row: 21
+[2024-05-24 17:27:08] udpate price: 096610.KQ, row: 0
+[2024-05-24 17:27:08] udpate price: 050860.KQ, row: 21
+[2024-05-24 17:27:10] udpate price: 109080.KQ, row: 21
+[2024-05-24 17:27:11] udpate price: 221980.KQ, row: 21
+[2024-05-24 17:27:12] udpate price: 035200.KQ, row: 21
+[2024-05-24 17:27:13] udpate price: 032960.KQ, row: 21
+[2024-05-24 17:27:14] udpate price: 032580.KQ, row: 21
+[2024-05-24 17:27:15] udpate price: 169330.KQ, row: 21
+[2024-05-24 17:27:16] udpate price: 199730.KQ, row: 21
+[2024-05-24 17:27:17] udpate price: 148780.KQ, row: 21
+[2024-05-24 17:27:19] udpate price: 090150.KQ, row: 21
+[2024-05-24 17:27:20] udpate price: 340440.KQ, row: 21
+[2024-05-24 17:27:21] udpate price: 115610.KQ, row: 21
+[2024-05-24 17:27:22] udpate price: 187270.KQ, row: 21
+[2024-05-24 17:27:23] udpate price: 085910.KQ, row: 21
+[2024-05-24 17:27:24] udpate price: 065570.KQ, row: 21
+[2024-05-24 17:27:25] udpate price: 065440.KQ, row: 21
+[2024-05-24 17:27:27] udpate price: 137940.KQ, row: 21
+[2024-05-24 17:27:28] udpate price: 222420.KQ, row: 21
+[2024-05-24 17:27:29] udpate price: 052860.KQ, row: 21
+[2024-05-24 17:27:30] udpate price: 051780.KQ, row: 21
+[2024-05-24 17:27:31] udpate price: 025880.KQ, row: 21
+[2024-05-24 17:27:32] udpate price: 079000.KQ, row: 21
+[2024-05-24 17:27:33] udpate price: 210120.KQ, row: 21
+[2024-05-24 17:27:34] udpate price: 328380.KQ, row: 21
+[2024-05-24 17:27:35] udpate price: 076080.KQ, row: 21
+[2024-05-24 17:27:36] udpate price: 010280.KQ, row: 21
+[2024-05-24 17:27:37] udpate price: 095910.KQ, row: 21
+[2024-05-24 17:27:39] udpate price: 228340.KQ, row: 21
+[2024-05-24 17:27:39] udpate price: 036180.KQ, row: 21
+[2024-05-24 17:27:41] udpate price: 032750.KQ, row: 21
+[2024-05-24 17:27:42] udpate price: 072950.KQ, row: 21
+[2024-05-24 17:27:43] udpate price: 089150.KQ, row: 21
+[2024-05-24 17:27:44] udpate price: 297570.KQ, row: 21
+[2024-05-24 17:27:45] udpate price: 054940.KQ, row: 21
+[2024-05-24 17:27:46] udpate price: 021650.KQ, row: 21
+[2024-05-24 17:27:47] udpate price: 038950.KQ, row: 21
+[2024-05-24 17:27:48] udpate price: 036000.KQ, row: 21
+[2024-05-24 17:27:49] udpate price: 332370.KQ, row: 21
+[2024-05-24 17:27:50] udpate price: 051390.KQ, row: 21
+[2024-05-24 17:27:51] udpate price: 263020.KQ, row: 21
+[2024-05-24 17:27:52] udpate price: 069920.KQ, row: 21
+[2024-05-24 17:27:54] udpate price: 019770.KQ, row: 21
+[2024-05-24 17:27:55] udpate price: 131220.KQ, row: 21
+[2024-05-24 17:27:56] udpate price: 081580.KQ, row: 21
+[2024-05-24 17:27:57] udpate price: 203450.KQ, row: 21
+[2024-05-24 17:27:58] udpate price: 024940.KQ, row: 21
+[2024-05-24 17:27:59] udpate price: 079650.KQ, row: 21
+[2024-05-24 17:28:00] udpate price: 012340.KQ, row: 21
+[2024-05-24 17:28:02] udpate price: 296640.KQ, row: 21
+[2024-05-24 17:28:03] udpate price: 114450.KQ, row: 21
+[2024-05-24 17:28:04] udpate price: 131090.KQ, row: 21
+[2024-05-24 17:28:05] udpate price: 143540.KQ, row: 21
+[2024-05-24 17:28:06] udpate price: 353190.KQ, row: 21
+[2024-05-24 17:28:07] udpate price: 006050.KQ, row: 21
+[2024-05-24 17:28:08] udpate price: 252500.KQ, row: 21
+[2024-05-24 17:28:09] udpate price: 119500.KQ, row: 21
+[2024-05-24 17:28:10] udpate price: 083470.KQ, row: 21
+[2024-05-24 17:28:11] udpate price: 238200.KQ, row: 21
+[2024-05-24 17:28:12] udpate price: 067010.KQ, row: 21
+[2024-05-24 17:28:14] udpate price: 303360.KQ, row: 21
+[2024-05-24 17:28:15] udpate price: 053950.KQ, row: 21
+[2024-05-24 17:28:16] udpate price: 031510.KQ, row: 21
+[2024-05-24 17:28:17] udpate price: 058110.KQ, row: 21
+[2024-05-24 17:28:18] udpate price: 900110.KQ, row: 21
+[2024-05-24 17:28:19] udpate price: 075130.KQ, row: 21
+[2024-05-24 17:28:20] udpate price: 237750.KQ, row: 21
+[2024-05-24 17:28:21] udpate price: 290270.KQ, row: 21
+[2024-05-24 17:28:23] udpate price: 045510.KQ, row: 21
+[2024-05-24 17:28:24] udpate price: 048470.KQ, row: 21
+[2024-05-24 17:28:25] udpate price: 079170.KQ, row: 21
+[2024-05-24 17:28:26] udpate price: 037400.KQ, row: 21
+[2024-05-24 17:28:27] udpate price: 082660.KQ, row: 21
+[2024-05-24 17:28:28] udpate price: 331380.KQ, row: 21
+[2024-05-24 17:28:29] udpate price: 092600.KQ, row: 21
+[2024-05-24 17:28:30] udpate price: 016920.KQ, row: 21
+[2024-05-24 17:28:31] udpate price: 014100.KQ, row: 21
+[2024-05-24 17:28:33] udpate price: 060380.KQ, row: 21
+[2024-05-24 17:28:34] udpate price: 012620.KQ, row: 21
+[2024-05-24 17:28:36] udpate price: 452980.KQ, row: 21
+[2024-05-24 17:28:37] udpate price: 246250.KQ, row: 21
+[2024-05-24 17:28:38] udpate price: 104040.KQ, row: 21
+[2024-05-24 17:28:39] udpate price: 039310.KQ, row: 21
+[2024-05-24 17:28:40] udpate price: 115480.KQ, row: 21
+[2024-05-24 17:28:41] udpate price: 208350.KQ, row: 21
+[2024-05-24 17:28:42] udpate price: 099410.KQ, row: 21
+[2024-05-24 17:28:43] udpate price: 086060.KQ, row: 21
+[2024-05-24 17:28:44] udpate price: 291810.KQ, row: 21
+[2024-05-24 17:28:45] udpate price: 083640.KQ, row: 21
+[2024-05-24 17:28:46] udpate price: 018620.KQ, row: 21
+[2024-05-24 17:28:47] udpate price: 017000.KQ, row: 21
+[2024-05-24 17:28:48] udpate price: 333050.KQ, row: 21
+[2024-05-24 17:28:49] udpate price: 043090.KQ, row: 21
+[2024-05-24 17:28:50] udpate price: 054090.KQ, row: 21
+[2024-05-24 17:28:52] udpate price: 080470.KQ, row: 21
+[2024-05-24 17:28:53] udpate price: 103230.KQ, row: 21
+[2024-05-24 17:28:54] udpate price: 091340.KQ, row: 21
+[2024-05-24 17:28:55] udpate price: 067730.KQ, row: 21
+[2024-05-24 17:28:57] udpate price: 131180.KQ, row: 21
+[2024-05-24 17:28:58] udpate price: 050120.KQ, row: 21
+[2024-05-24 17:29:00] udpate price: 033050.KQ, row: 21
+[2024-05-24 17:29:01] udpate price: 032080.KQ, row: 21
+[2024-05-24 17:29:02] udpate price: 900120.KQ, row: 21
+[2024-05-24 17:29:03] udpate price: 030350.KQ, row: 21
+[2024-05-24 17:29:04] udpate price: 331920.KQ, row: 21
+[2024-05-24 17:29:05] udpate price: 068940.KQ, row: 0
+[2024-05-24 17:29:06] udpate price: 310870.KQ, row: 21
+[2024-05-24 17:29:07] udpate price: 038530.KQ, row: 21
+[2024-05-24 17:29:08] udpate price: 101400.KQ, row: 21
+[2024-05-24 17:29:09] udpate price: 050760.KQ, row: 21
+[2024-05-24 17:29:10] udpate price: 232830.KQ, row: 21
+[2024-05-24 17:29:11] udpate price: 032280.KQ, row: 21
+[2024-05-24 17:29:12] udpate price: 049470.KQ, row: None
+[2024-05-24 17:29:13] udpate price: 043710.KQ, row: 21
+[2024-05-24 17:29:14] udpate price: 063760.KQ, row: 21
+[2024-05-24 17:29:15] udpate price: 225590.KQ, row: 21
+[2024-05-24 17:29:17] udpate price: 044780.KQ, row: 21
+[2024-05-24 17:29:18] udpate price: 085810.KQ, row: 21
+[2024-05-24 17:29:19] udpate price: 079190.KQ, row: 21
+[2024-05-24 17:29:20] udpate price: 043100.KQ, row: 21
+[2024-05-24 17:29:22] udpate price: 053060.KQ, row: 21
+[2024-05-24 17:29:23] udpate price: 065770.KQ, row: 21
+[2024-05-24 17:29:24] udpate price: 098660.KQ, row: 21
+[2024-05-24 17:29:25] udpate price: 067770.KQ, row: 21
+[2024-05-24 17:29:26] udpate price: 335870.KQ, row: 21
+[2024-05-24 17:29:27] udpate price: 008290.KQ, row: 21
+[2024-05-24 17:29:28] udpate price: 134060.KQ, row: 21
+[2024-05-24 17:29:29] udpate price: 039740.KQ, row: 21
+[2024-05-24 17:29:30] udpate price: 079950.KQ, row: 21
+[2024-05-24 17:29:31] udpate price: 275630.KQ, row: 21
+[2024-05-24 17:29:32] udpate price: 900070.KQ, row: 21
+[2024-05-24 17:29:33] udpate price: 225430.KQ, row: 21
+[2024-05-24 17:29:34] udpate price: 016670.KQ, row: None
+[2024-05-24 17:29:35] udpate price: 106240.KQ, row: 21
+[2024-05-24 17:29:36] udpate price: 043360.KQ, row: 21
+[2024-05-24 17:29:38] udpate price: 011080.KQ, row: 21
+[2024-05-24 17:29:39] udpate price: 073540.KQ, row: 21
+[2024-05-24 17:29:40] udpate price: 101680.KQ, row: 21
+[2024-05-24 17:29:41] udpate price: 023790.KQ, row: 21
+[2024-05-24 17:29:42] udpate price: 065150.KQ, row: 0
+[2024-05-24 17:29:42] udpate price: 457630.KQ, row: 0
+[2024-05-24 17:29:43] udpate price: 106520.KQ, row: 0
+[2024-05-24 17:29:44] udpate price: 065420.KQ, row: 21
+[2024-05-24 17:29:45] udpate price: 457390.KQ, row: 21
+[2024-05-24 17:29:46] udpate price: 422040.KQ, row: 15
+[2024-05-24 17:29:47] udpate price: 436610.KQ, row: 0
+[2024-05-24 17:29:47] udpate price: 400840.KQ, row: 21
+[2024-05-24 17:29:48] udpate price: 455310.KQ, row: 21
+[2024-05-24 17:29:49] udpate price: 430700.KQ, row: 21
+[2024-05-24 17:29:50] udpate price: 444920.KQ, row: 21
+[2024-05-24 17:29:51] udpate price: 108230.KQ, row: 21
+[2024-05-24 17:29:53] udpate price: 413600.KQ, row: 21
+[2024-05-24 17:29:54] udpate price: 462020.KQ, row: 21
+[2024-05-24 17:29:55] udpate price: 458610.KQ, row: 21
+[2024-05-24 17:29:56] udpate price: 026150.KQ, row: 21
+[2024-05-24 17:29:57] udpate price: 114840.KQ, row: 21
+[2024-05-24 17:29:58] udpate price: 078600.KQ, row: 21
+[2024-05-24 17:30:00] udpate price: 388800.KQ, row: 0
+[2024-05-24 17:30:00] udpate price: 458320.KQ, row: 4
+[2024-05-24 17:30:01] udpate price: 069080.KQ, row: 21
+[2024-05-24 17:30:02] udpate price: 439730.KQ, row: 21
+[2024-05-24 17:30:03] udpate price: 095340.KQ, row: 21
+[2024-05-24 17:30:04] udpate price: 112040.KQ, row: 21
+[2024-05-24 17:30:05] udpate price: 452670.KQ, row: 21
+[2024-05-24 17:30:06] udpate price: 036930.KQ, row: 21
+[2024-05-24 17:30:08] udpate price: 403870.KQ, row: 21
+[2024-05-24 17:30:09] udpate price: 000250.KQ, row: 21
+[2024-05-24 17:30:10] udpate price: 263750.KQ, row: 21
+[2024-05-24 17:30:11] udpate price: 145020.KQ, row: 21
+[2024-05-24 17:30:12] udpate price: 039030.KQ, row: 21
+[2024-05-24 17:30:13] udpate price: 357780.KQ, row: 21
+[2024-05-24 17:30:14] udpate price: 041510.KQ, row: 21
+[2024-05-24 17:30:15] udpate price: 417200.KQ, row: 21
+[2024-05-24 17:30:17] udpate price: 237690.KQ, row: 21
+[2024-05-24 17:30:18] udpate price: 214450.KQ, row: 21
+[2024-05-24 17:30:19] udpate price: 253450.KQ, row: 21
+[2024-05-24 17:30:20] udpate price: 067160.KQ, row: 21
+[2024-05-24 17:30:21] udpate price: 036830.KQ, row: 21
+[2024-05-24 17:30:22] udpate price: 232140.KQ, row: 21
+[2024-05-24 17:30:24] udpate price: 064760.KQ, row: 21
+[2024-05-24 17:30:25] udpate price: 121600.KQ, row: 21
+[2024-05-24 17:30:26] udpate price: 140860.KQ, row: 21
+[2024-05-24 17:30:27] udpate price: 039200.KQ, row: 21
+[2024-05-24 17:30:28] udpate price: 067310.KQ, row: 21
+[2024-05-24 17:30:30] udpate price: 084370.KQ, row: 21
+[2024-05-24 17:30:31] udpate price: 140410.KQ, row: 21
+[2024-05-24 17:30:32] udpate price: 393890.KQ, row: 21
+[2024-05-24 17:30:33] udpate price: 096530.KQ, row: 21
+[2024-05-24 17:30:34] udpate price: 031980.KQ, row: 21
+[2024-05-24 17:30:35] udpate price: 166090.KQ, row: 21
+[2024-05-24 17:30:36] udpate price: 213420.KQ, row: 21
+[2024-05-24 17:30:37] udpate price: 056190.KQ, row: 21
+[2024-05-24 17:30:38] udpate price: 098460.KQ, row: 21
+[2024-05-24 17:30:40] udpate price: 950160.KQ, row: 21
+[2024-05-24 17:30:41] udpate price: 204270.KQ, row: 21
+[2024-05-24 17:30:42] udpate price: 067630.KQ, row: 21
+[2024-05-24 17:30:43] udpate price: 086900.KQ, row: 21
+[2024-05-24 17:30:44] udpate price: 319660.KQ, row: 21
+[2024-05-24 17:30:45] udpate price: 101490.KQ, row: 21
+[2024-05-24 17:30:46] udpate price: 025320.KQ, row: 21
+[2024-05-24 17:30:47] udpate price: 399720.KQ, row: 21
+[2024-05-24 17:30:49] udpate price: 086450.KQ, row: 21
+[2024-05-24 17:30:50] udpate price: 009520.KQ, row: 21
+[2024-05-24 17:30:51] udpate price: 122870.KQ, row: 21
+[2024-05-24 17:30:53] udpate price: 119860.KQ, row: 21
+[2024-05-24 17:30:54] udpate price: 420770.KQ, row: 21
+[2024-05-24 17:30:55] udpate price: 418170.KQ, row: 7
+[2024-05-24 17:30:56] udpate price: 007390.KQ, row: 21
+[2024-05-24 17:30:57] udpate price: 064550.KQ, row: 21
+[2024-05-24 17:30:58] udpate price: 131970.KQ, row: 21
+[2024-05-24 17:30:59] udpate price: 189300.KQ, row: 21
+[2024-05-24 17:31:00] udpate price: 237880.KQ, row: 21
+[2024-05-24 17:31:01] udpate price: 087010.KQ, row: 21
+[2024-05-24 17:31:02] udpate price: 080220.KQ, row: 21
+[2024-05-24 17:31:03] udpate price: 030520.KQ, row: 21
+[2024-05-24 17:31:04] udpate price: 131290.KQ, row: 21
+[2024-05-24 17:31:05] udpate price: 418550.KQ, row: 21
+[2024-05-24 17:31:06] udpate price: 272290.KQ, row: 21
+[2024-05-24 17:31:08] udpate price: 053800.KQ, row: 21
+[2024-05-24 17:31:09] udpate price: 376300.KQ, row: 21
+[2024-05-24 17:31:10] udpate price: 058610.KQ, row: 21
+[2024-05-24 17:31:11] udpate price: 099320.KQ, row: 21
+[2024-05-24 17:31:12] udpate price: 079370.KQ, row: 21
+[2024-05-24 17:31:13] udpate price: 358570.KQ, row: 21
+[2024-05-24 17:31:14] udpate price: 025980.KQ, row: 21
+[2024-05-24 17:31:15] udpate price: 460930.KQ, row: 21
+[2024-05-24 17:31:19] udpate price: 091120.KQ, row: 21
+[2024-05-24 17:31:20] udpate price: 099190.KQ, row: 21
+[2024-05-24 17:31:21] udpate price: 039440.KQ, row: 21
+[2024-05-24 17:31:22] udpate price: 394280.KQ, row: 21
+[2024-05-24 17:31:23] udpate price: 241710.KQ, row: 21
+[2024-05-24 17:31:24] udpate price: 372170.KQ, row: 21
+[2024-05-24 17:31:25] udpate price: 445090.KQ, row: 21
+[2024-05-24 17:31:26] udpate price: 095660.KQ, row: 21
+[2024-05-24 17:31:27] udpate price: 200130.KQ, row: 21
+[2024-05-24 17:31:28] udpate price: 215000.KQ, row: 21
+[2024-05-24 17:31:29] udpate price: 091700.KQ, row: 21
+[2024-05-24 17:31:30] udpate price: 089010.KQ, row: 21
+[2024-05-24 17:31:31] udpate price: 095500.KQ, row: 21
+[2024-05-24 17:31:33] udpate price: 110990.KQ, row: 21
+[2024-05-24 17:31:34] udpate price: 053030.KQ, row: 21
+[2024-05-24 17:31:35] udpate price: 032190.KQ, row: 21
+[2024-05-24 17:31:36] udpate price: 095610.KQ, row: 21
+[2024-05-24 17:31:37] udpate price: 060280.KQ, row: 21
+[2024-05-24 17:31:38] udpate price: 218410.KQ, row: 21
+[2024-05-24 17:31:39] udpate price: 082920.KQ, row: 21
+[2024-05-24 17:31:40] udpate price: 950140.KQ, row: 21
+[2024-05-24 17:31:41] udpate price: 082270.KQ, row: 21
+[2024-05-24 17:31:42] udpate price: 049070.KQ, row: 21
+[2024-05-24 17:31:43] udpate price: 089980.KQ, row: 21
+[2024-05-24 17:31:44] udpate price: 253590.KQ, row: 21
+[2024-05-24 17:31:45] udpate price: 200710.KQ, row: 21
+[2024-05-24 17:31:46] udpate price: 094360.KQ, row: 21
+[2024-05-24 17:31:48] udpate price: 043150.KQ, row: 0
+[2024-05-24 17:31:48] udpate price: 041020.KQ[2024-05-24 17:31:55] udpate price: 058630.KQ, row: 0
+[2024-05-24 17:31:57] udpate price: 052900.KQ, row: 0
+[2024-05-24 17:31:58] udpate price: 170030.KQ, row: 0
+[2024-05-24 17:31:58] udpate price: 052710.KQ, row: 0
+[2024-05-24 17:31:59] udpate price: 038880.KQ, row: 0
+[2024-05-24 17:31:59] udpate price: 187870.KQ, row: 0
+[2024-05-24 17:32:00] udpate price: 043260.KQ, row: 0
+[2024-05-24 17:32:01] udpate price: 056090.KQ, row: 0
+[2024-05-24 17:32:01] udpate price: 217190.KQ, row: 0
+[2024-05-24 17:32:02] udpate price: 053050.KQ, row: 0
+[2024-05-24 17:32:02] udpate price: 078890.KQ, row: 0
+[2024-05-24 17:32:03] udpate price: 126880.KQ, row: 0
+[2024-05-24 17:32:04] udpate price: 069510.KQ, row: 0
+[2024-05-24 17:32:04] udpate price: 041910.KQ, row: 0
+[2024-05-24 17:32:05] udpate price: 263860.KQ, row: 0
+[2024-05-24 17:32:06] udpate price: 302430.KQ, row: 0
+[2024-05-24 17:32:06] udpate price: 007820.KQ[2024-05-24 17:32:42] udpate price: 058630.KQ, row: 0
+[2024-05-24 17:32:44] udpate price: 052900.KQ, row: 0
+[2024-05-24 17:32:44] udpate price: 170030.KQ, row: 0
+[2024-05-24 17:32:45] udpate price: 052710.KQ, row: 0
+[2024-05-24 17:32:46] udpate price: 038880.KQ, row: 0
+[2024-05-24 17:32:46] udpate price: 187870.KQ, row: 0
+[2024-05-24 17:32:47] udpate price: 043260.KQ, row: 0
+[2024-05-24 17:32:47] udpate price: 056090.KQ[2024-05-24 19:46:37] udpate price: 058630.KQ, row: 0
+[2024-05-24 19:46:39] udpate price: 052900.KQ, row: 0
+[2024-05-24 19:46:40] udpate price: 170030.KQ, row: 0
+[2024-05-24 19:46:40] udpate price: 052710.KQ, row: 0
+[2024-05-24 19:46:40] udpate price: 038880.KQ, row: 0
+[2024-05-24 19:46:41] udpate price: 187870.KQ, row: 0
+[2024-05-24 19:46:41] udpate price: 043260.KQ, row: 0
+[2024-05-24 19:46:42] udpate price: 056090.KQ, row: 0
+[2024-05-24 19:46:42] udpate price: 217190.KQ, row: 0
+[2024-05-24 19:46:43] udpate price: 053050.KQ, row: 0
+[2024-05-24 19:46:43] udpate price: 078890.KQ, row: 0
+[2024-05-24 19:46:44] udpate price: 126880.KQ, row: 0
+[2024-05-24 19:46:44] udpate price: 069510.KQ, row: 0
+[2024-05-24 19:46:44] udpate price: 041910.KQ, row: 0
+[2024-05-24 19:46:45] udpate price: 263860.KQ, row: 0
+[2024-05-24 19:46:45] udpate price: 302430.KQ, row: 0
+[2024-05-24 19:46:46] udpate price: 007820.KQ, row: 0
+[2024-05-24 19:46:46] udpate price: 041920.KQ, row: 0
+[2024-05-24 19:46:46] udpate price: 072020.KQ, row: 0
+[2024-05-24 19:46:47] udpate price: 361570.KQ, row: 0
+[2024-05-24 19:46:47] udpate price: 123420.KQ, row: 0
+[2024-05-24 19:46:48] udpate price: 340360.KQ, row: 0
+[2024-05-24 19:46:48] udpate price: 241790.KQ, row: 0
+[2024-05-24 19:46:48] udpate price: 241840.KQ, row: 0
+[2024-05-24 19:46:49] udpate price: 094940.KQ, row: 0
+[2024-05-24 19:46:49] udpate price: 407400.KQ, row: 0
+[2024-05-24 19:46:50] udpate price: 263690.KQ, row: 0
+[2024-05-24 19:46:50] udpate price: 027580.KQ, row: 0
+[2024-05-24 19:46:50] udpate price: 289080.KQ, row: 0
+[2024-05-24 19:46:51] udpate price: 104540.KQ, row: 0
+[2024-05-24 19:46:51] udpate price: 093920.KQ, row: 0
+[2024-05-24 19:46:52] udpate price: 218150.KQ, row: 0
+[2024-05-24 19:46:52] udpate price: 171120.KQ, row: 0
+[2024-05-24 19:46:53] udpate price: 216050.KQ, row: 0
+[2024-05-24 19:46:53] udpate price: 052790.KQ, row: 0
+[2024-05-24 19:46:53] udpate price: 040420.KQ, row: 0
+[2024-05-24 19:46:54] udpate price: 141000.KQ, row: 0
+[2024-05-24 19:46:54] udpate price: 408920.KQ, row: 0
+[2024-05-24 19:46:55] udpate price: 041590.KQ, row: 0
+[2024-05-24 19:46:55] udpate price: 065710.KQ, row: 0
+[2024-05-24 19:46:55] udpate price: 054800.KQ, row: 0
+[2024-05-24 19:46:56] udpate price: 093380.KQ, row: 0
+[2024-05-24 19:46:56] udpate price: 065130.KQ, row: 0
+[2024-05-24 19:46:57] udpate price: 330350.KQ, row: 0
+[2024-05-24 19:46:57] udpate price: 043220.KQ, row: 0
+[2024-05-24 19:46:57] udpate price: 082210.KQ, row: 0
+[2024-05-24 19:46:58] udpate price: 064240.KQ, row: 0
+[2024-05-24 19:46:58] udpate price: 083500.KQ, row: 0
+[2024-05-24 19:46:59] udpate price: 065530.KQ, row: 0
+[2024-05-24 19:46:59] udpate price: 053260.KQ, row: 0
+[2024-05-24 19:46:59] udpate price: 094850.KQ, row: 0
+[2024-05-24 19:47:00] udpate price: 900340.KQ, row: 0
+[2024-05-24 19:47:00] udpate price: 093190.KQ, row: 0
+[2024-05-24 19:47:01] udpate price: 232680.KQ, row: 0
+[2024-05-24 19:47:01] udpate price: 448710.KQ, row: 0
+[2024-05-24 19:47:02] udpate price: 241520.KQ, row: 0
+[2024-05-24 19:47:02] udpate price: 006140.KQ, row: 0
+[2024-05-24 19:47:02] udpate price: 270870.KQ, row: 0
+[2024-05-24 19:47:03] udpate price: 059120.KQ, row: 0
+[2024-05-24 19:47:03] udpate price: 088130.KQ, row: 0
+[2024-05-24 19:47:04] udpate price: 365900.KQ, row: 0
+[2024-05-24 19:47:04] udpate price: 032850.KQ, row: 0
+[2024-05-24 19:47:04] udpate price: 348350.KQ, row: 0
+[2024-05-24 19:47:05] udpate price: 067370.KQ, row: 0
+[2024-05-24 19:47:05] udpate price: 001540.KQ, row: 0
+[2024-05-24 19:47:06] udpate price: 018120.KQ, row: 0
+[2024-05-24 19:47:06] udpate price: 033790.KQ, row: 0
+[2024-05-24 19:47:06] udpate price: 050110.KQ, row: 0
+[2024-05-24 19:47:07] udpate price: 234100.KQ, row: 0
+[2024-05-24 19:47:07] udpate price: 064480.KQ, row: 0
+[2024-05-24 19:47:08] udpate price: 131030.KQ, row: 0
+[2024-05-24 19:47:08] udpate price: 066410.KQ, row: 0
+[2024-05-24 19:47:08] udpate price: 094970.KQ, row: 0
+[2024-05-24 19:47:09] udpate price: 043650.KQ, row: 0
+[2024-05-24 19:47:09] udpate price: 263800.KQ, row: 0
+[2024-05-24 19:47:10] udpate price: 021320.KQ, row: 0
+[2024-05-24 19:47:10] udpate price: 234920.KQ, row: 0
+[2024-05-24 19:47:11] udpate price: 057680.KQ, row: 0
+[2024-05-24 19:47:11] udpate price: 036640.KQ, row: 0
+[2024-05-24 19:47:11] udpate price: 396300.KQ, row: 0
+[2024-05-24 19:47:12] udpate price: 122310.KQ, row: 0
+[2024-05-24 19:47:12] udpate price: 010470.KQ, row: 0
+[2024-05-24 19:47:13] udpate price: 260970.KQ, row: 0
+[2024-05-24 19:47:13] udpate price: 071670.KQ, row: 0
+[2024-05-24 19:47:13] udpate price: 036120.KQ, row: 0
+[2024-05-24 19:47:14] udpate price: 265560.KQ, row: 0
+[2024-05-24 19:47:14] udpate price: 359090.KQ, row: 0
+[2024-05-24 19:47:15] udpate price: 087260.KQ, row: 0
+[2024-05-24 19:47:15] udpate price: 430690.KQ, row: 0
+[2024-05-24 19:47:16] udpate price: 155650.KQ, row: 0
+[2024-05-24 19:47:16] udpate price: 054040.KQ, row: 0
+[2024-05-24 19:47:17] udpate price: 105740.KQ, row: 0
+[2024-05-24 19:47:17] udpate price: 226400.KQ, row: 0
+[2024-05-24 19:47:17] udpate price: 064520.KQ, row: 0
+[2024-05-24 19:47:18] udpate price: 014200.KQ, row: 0
+[2024-05-24 19:47:18] udpate price: 052260.KQ, row: 0
+[2024-05-24 19:47:19] udpate price: 224110.KQ, row: 0
+[2024-05-24 19:47:19] udpate price: 043910.KQ, row: 0
+[2024-05-24 19:47:19] udpate price: 424980.KQ, row: 0
+[2024-05-24 19:47:20] udpate price: 048430.KQ, row: 0
+[2024-05-24 19:47:20] udpate price: 417970.KQ, row: 0
+[2024-05-24 19:47:21] udpate price: 064850.KQ, row: 0
+[2024-05-24 19:47:21] udpate price: 066670.KQ, row: 0
+[2024-05-24 19:47:22] udpate price: 192250.KQ, row: 0
+[2024-05-24 19:47:22] udpate price: 130580.KQ, row: 0
+[2024-05-24 19:47:22] udpate price: 049550.KQ, row: 0
+[2024-05-24 19:47:23] udpate price: 450520.KQ, row: 0
+[2024-05-24 19:47:23] udpate price: 333430.KQ, row: 0
+[2024-05-24 19:47:24] udpate price: 347740.KQ, row: 0
+[2024-05-24 19:47:24] udpate price: 320000.KQ, row: 0
+[2024-05-24 19:47:24] udpate price: 033830.KQ, row: 0
+[2024-05-24 19:47:25] udpate price: 241690.KQ, row: 0
+[2024-05-24 19:47:25] udpate price: 217500.KQ, row: 0
+[2024-05-24 19:47:26] udpate price: 066910.KQ, row: 0
+[2024-05-24 19:47:26] udpate price: 041520.KQ, row: 0
+[2024-05-24 19:47:26] udpate price: 339950.KQ, row: 0
+[2024-05-24 19:47:27] udpate price: 219420.KQ, row: 0
+[2024-05-24 19:47:27] udpate price: 101330.KQ, row: 0
+[2024-05-24 19:47:27] udpate price: 333620.KQ, row: 0
+[2024-05-24 19:47:28] udpate price: 095270.KQ, row: 0
+[2024-05-24 19:47:28] udpate price: 352700.KQ, row: 0
+[2024-05-24 19:47:29] udpate price: 352910.KQ, row: 0
+[2024-05-24 19:47:29] udpate price: 200230.KQ, row: 0
+[2024-05-24 19:47:30] udpate price: 089790.KQ, row: 0
+[2024-05-24 19:47:30] udpate price: 020710.KQ, row: 0
+[2024-05-24 19:47:30] udpate price: 037440.KQ, row: 0
+[2024-05-24 19:47:31] udpate price: 012790.KQ, row: 0
+[2024-05-24 19:47:31] udpate price: 039240.KQ, row: 0
+[2024-05-24 19:47:32] udpate price: 109860.KQ, row: 0
+[2024-05-24 19:47:32] udpate price: 036670.KQ, row: 0
+[2024-05-24 19:47:33] udpate price: 389470.KQ, row: 0
+[2024-05-24 19:47:33] udpate price: 066310.KQ, row: 0
+[2024-05-24 19:47:33] udpate price: 318020.KQ, row: 0
+[2024-05-24 19:47:34] udpate price: 250000.KQ, row: 0
+[2024-05-24 19:47:34] udpate price: 083660.KQ, row: 0
+[2024-05-24 19:47:35] udpate price: 330730.KQ, row: 0
+[2024-05-24 19:47:35] udpate price: 017480.KQ, row: 0
+[2024-05-24 19:47:35] udpate price: 201490.KQ, row: 0
+[2024-05-24 19:47:36] udpate price: 054930.KQ, row: 0
+[2024-05-24 19:47:36] udpate price: 115500.KQ, row: 0
+[2024-05-24 19:47:37] udpate price: 080000.KQ, row: 0
+[2024-05-24 19:47:37] udpate price: 046390.KQ, row: 0
+[2024-05-24 19:47:37] udpate price: 237820.KQ, row: 0
+[2024-05-24 19:47:38] udpate price: 039290.KQ, row: 0
+[2024-05-24 19:47:38] udpate price: 024800.KQ, row: 0
+[2024-05-24 19:47:39] udpate price: 063440.KQ, row: 0
+[2024-05-24 19:47:39] udpate price: 136410.KQ, row: 0
+[2024-05-24 19:47:40] udpate price: 049430.KQ, row: 0
+[2024-05-24 19:47:40] udpate price: 038870.KQ, row: 0
+[2024-05-24 19:47:41] udpate price: 002230.KQ, row: 0
+[2024-05-24 19:47:41] udpate price: 212560.KQ, row: 0
+[2024-05-24 19:47:41] udpate price: 090410.KQ, row: 0
+[2024-05-24 19:47:42] udpate price: 290090.KQ, row: 0
+[2024-05-24 19:47:42] udpate price: 163730.KQ, row: 0
+[2024-05-24 19:47:43] udpate price: 220180.KQ, row: 0
+[2024-05-24 19:47:43] udpate price: 260660.KQ, row: 0
+[2024-05-24 19:47:43] udpate price: 123570.KQ, row: 0
+[2024-05-24 19:47:44] udpate price: 098120.KQ, row: 0
+[2024-05-24 19:47:44] udpate price: 092300.KQ, row: 0
+[2024-05-24 19:47:45] udpate price: 096350.KQ, row: 0
+[2024-05-24 19:47:45] udpate price: 101170.KQ, row: 0
+[2024-05-24 19:47:45] udpate price: 041460.KQ, row: 0
+[2024-05-24 19:47:46] udpate price: 150900.KQ, row: 0
+[2024-05-24 19:47:46] udpate price: 100590.KQ, row: 0
+[2024-05-24 19:47:47] udpate price: 056730.KQ, row: 0
+[2024-05-24 19:47:47] udpate price: 068050.KQ, row: 0
+[2024-05-24 19:47:47] udpate price: 115440.KQ, row: 0
+[2024-05-24 19:47:48] udpate price: 290740.KQ, row: 0
+[2024-05-24 19:47:48] udpate price: 303530.KQ, row: 0
+[2024-05-24 19:47:49] udpate price: 053270.KQ, row: 0
+[2024-05-24 19:47:49] udpate price: 053290.KQ, row: 0
+[2024-05-24 19:47:49] udpate price: 429270.KQ, row: 0
+[2024-05-24 19:47:50] udpate price: 015710.KQ, row: 0
+[2024-05-24 19:47:50] udpate price: 094840.KQ, row: 0
+[2024-05-24 19:47:50] udpate price: 050960.KQ, row: 0
+[2024-05-24 19:47:51] udpate price: 017650.KQ, row: 0
+[2024-05-24 19:47:51] udpate price: 019540.KQ, row: 0
+[2024-05-24 19:47:52] udpate price: 039830.KQ, row: 0
+[2024-05-24 19:47:52] udpate price: 081150.KQ, row: 0
+[2024-05-24 19:47:53] udpate price: 314140.KQ, row: 0
+[2024-05-24 19:47:53] udpate price: 189690.KQ, row: 0
+[2024-05-24 19:47:53] udpate price: 042110.KQ, row: 0
+[2024-05-24 19:47:54] udpate price: 072990.KQ, row: 0
+[2024-05-24 19:47:54] udpate price: 265740.KQ, row: 0
+[2024-05-24 19:47:55] udpate price: 060850.KQ, row: 0
+[2024-05-24 19:47:55] udpate price: 388790.KQ, row: 0
+[2024-05-24 19:47:55] udpate price: 122690.KQ, row: 0
+[2024-05-24 19:47:56] udpate price: 024740.KQ, row: 0
+[2024-05-24 19:47:56] udpate price: 044060.KQ, row: 0
+[2024-05-24 19:47:56] udpate price: 053350.KQ, row: 0
+[2024-05-24 19:47:57] udpate price: 306040.KQ, row: 0
+[2024-05-24 19:47:57] udpate price: 277410.KQ, row: 0
+[2024-05-24 19:47:58] udpate price: 347770.KQ, row: 0
+[2024-05-24 19:47:58] udpate price: 052220.KQ, row: 0
+[2024-05-24 19:47:58] udpate price: 115310.KQ, row: 0
+[2024-05-24 19:47:59] udpate price: 084180.KQ, row: 0
+[2024-05-24 19:47:59] udpate price: 010240.KQ, row: 0
+[2024-05-24 19:48:00] udpate price: 238490.KQ, row: 0
+[2024-05-24 19:48:00] udpate price: 376290.KQ, row: 0
+[2024-05-24 19:48:00] udpate price: 088910.KQ, row: 0
+[2024-05-24 19:48:01] udpate price: 024950.KQ, row: 0
+[2024-05-24 19:48:01] udpate price: 419120.KQ, row: 0
+[2024-05-24 19:48:01] udpate price: 037350.KQ, row: 0
+[2024-05-24 19:48:02] udpate price: 075970.KQ, row: 0
+[2024-05-24 19:48:02] udpate price: 004780.KQ, row: 0
+[2024-05-24 19:48:03] udpate price: 066900.KQ, row: 0
+[2024-05-24 19:48:03] udpate price: 100030.KQ, row: 0
+[2024-05-24 19:48:03] udpate price: 039420.KQ, row: 0
+[2024-05-24 19:48:04] udpate price: 057030.KQ, row: 0
+[2024-05-24 19:48:04] udpate price: 318410.KQ, row: 0
+[2024-05-24 19:48:05] udpate price: 318000.KQ, row: 0
+[2024-05-24 19:48:05] udpate price: 214870.KQ, row: 0
+[2024-05-24 19:48:05] udpate price: 128540.KQ, row: 0
+[2024-05-24 19:48:06] udpate price: 073110.KQ, row: 0
+[2024-05-24 19:48:06] udpate price: 147760.KQ, row: 0
+[2024-05-24 19:48:07] udpate price: 053620.KQ, row: 0
+[2024-05-24 19:48:07] udpate price: 057540.KQ, row: 0
+[2024-05-24 19:48:07] udpate price: 019990.KQ, row: 0
+[2024-05-24 19:48:08] udpate price: 900100.KQ, row: 0
+[2024-05-24 19:48:08] udpate price: 014190.KQ, row: 0
+[2024-05-24 19:48:09] udpate price: 067920.KQ, row: 0
+[2024-05-24 19:48:09] udpate price: 273060.KQ, row: 0
+[2024-05-24 19:48:09] udpate price: 097870.KQ, row: 0
+[2024-05-24 19:48:10] udpate price: 007370.KQ, row: 0
+[2024-05-24 19:48:10] udpate price: 023460.KQ, row: 0
+[2024-05-24 19:48:11] udpate price: 148930.KQ, row: 0
+[2024-05-24 19:48:11] udpate price: 204020.KQ, row: 0
+[2024-05-24 19:48:11] udpate price: 299170.KQ, row: 0
+[2024-05-24 19:48:12] udpate price: 047770.KQ, row: 0
+[2024-05-24 19:48:12] udpate price: 004590.KQ, row: 0
+[2024-05-24 19:48:12] udpate price: 024830.KQ, row: 0
+[2024-05-24 19:48:13] udpate price: 003310.KQ, row: 0
+[2024-05-24 19:48:13] udpate price: 022220.KQ, row: 0
+[2024-05-24 19:48:14] udpate price: 373170.KQ, row: 0
+[2024-05-24 19:48:14] udpate price: 256150.KQ, row: 0
+[2024-05-24 19:48:14] udpate price: 348080.KQ, row: 0
+[2024-05-24 19:48:15] udpate price: 309930.KQ, row: 0
+[2024-05-24 19:48:15] udpate price: 138070.KQ, row: 0
+[2024-05-24 19:48:15] udpate price: 440320.KQ, row: 0
+[2024-05-24 19:48:16] udpate price: 014970.KQ, row: 0
+[2024-05-24 19:48:16] udpate price: 195500.KQ, row: 0
+[2024-05-24 19:48:17] udpate price: 056360.KQ, row: 0
+[2024-05-24 19:48:17] udpate price: 068330.KQ, row: 0
+[2024-05-24 19:48:17] udpate price: 417860.KQ, row: 0
+[2024-05-24 19:48:18] udpate price: 038060.KQ, row: 0
+[2024-05-24 19:48:18] udpate price: 089530.KQ, row: 0
+[2024-05-24 19:48:19] udpate price: 285800.KQ, row: 0
+[2024-05-24 19:48:19] udpate price: 101240.KQ, row: 0
+[2024-05-24 19:48:19] udpate price: 062860.KQ, row: 0
+[2024-05-24 19:48:20] udpate price: 007530.KQ, row: 0
+[2024-05-24 19:48:20] udpate price: 080010.KQ, row: 0
+[2024-05-24 19:48:21] udpate price: 238120.KQ, row: 0
+[2024-05-24 19:48:21] udpate price: 053160.KQ, row: 0
+[2024-05-24 19:48:21] udpate price: 054540.KQ, row: 0
+[2024-05-24 19:48:22] udpate price: 262840.KQ, row: 0
+[2024-05-24 19:48:22] udpate price: 340810.KQ, row: 0
+[2024-05-24 19:48:22] udpate price: 016600.KQ, row: 0
+[2024-05-24 19:48:23] udpate price: 031310.KQ, row: 0
+[2024-05-24 19:48:23] udpate price: 040610.KQ, row: 0
+[2024-05-24 19:48:24] udpate price: 023770.KQ, row: 0
+[2024-05-24 19:48:24] udpate price: 060540.KQ, row: 0
+[2024-05-24 19:48:24] udpate price: 005670.KQ, row: 0
+[2024-05-24 19:48:25] udpate price: 100660.KQ, row: 0
+[2024-05-24 19:48:25] udpate price: 263810.KQ, row: 0
+[2024-05-24 19:48:26] udpate price: 039610.KQ, row: 0
+[2024-05-24 19:48:26] udpate price: 126640.KQ, row: 0
+[2024-05-24 19:48:26] udpate price: 246690.KQ, row: 0
+[2024-05-24 19:48:27] udpate price: 153490.KQ, row: 0
+[2024-05-24 19:48:27] udpate price: 036170.KQ, row: 0
+[2024-05-24 19:48:27] udpate price: 189860.KQ, row: 0
+[2024-05-24 19:48:28] udpate price: 267790.KQ, row: 0
+[2024-05-24 19:48:28] udpate price: 900310.KQ, row: 0
+[2024-05-24 19:48:29] udpate price: 038620.KQ, row: 0
+[2024-05-24 19:48:29] udpate price: 140520.KQ, row: 0
+[2024-05-24 19:48:29] udpate price: 039020.KQ, row: 0
+[2024-05-24 19:48:30] udpate price: 046940.KQ, row: 0
+[2024-05-24 19:48:30] udpate price: 048770.KQ, row: 0
+[2024-05-24 19:48:31] udpate price: 114630.KQ, row: 0
+[2024-05-24 19:48:31] udpate price: 008370.KQ, row: 0
+[2024-05-24 19:48:32] udpate price: 053590.KQ, row: 0
+[2024-05-24 19:48:32] udpate price: 052600.KQ, row: 0
+[2024-05-24 19:48:32] udpate price: 418250.KQ, row: 0
+[2024-05-24 19:48:33] udpate price: 083550.KQ, row: 0
+[2024-05-24 19:48:33] udpate price: 318010.KQ, row: 0
+[2024-05-24 19:48:33] udpate price: 045060.KQ, row: 0
+[2024-05-24 19:48:34] udpate price: 052460.KQ, row: 0
+[2024-05-24 19:48:34] udpate price: 080520.KQ, row: 0
+[2024-05-24 19:48:35] udpate price: 096610.KQ, row: 0
+[2024-05-24 19:48:35] udpate price: 050860.KQ, row: 0
+[2024-05-24 19:48:36] udpate price: 109080.KQ, row: 0
+[2024-05-24 19:48:36] udpate price: 221980.KQ, row: 0
+[2024-05-24 19:48:36] udpate price: 035200.KQ, row: 0
+[2024-05-24 19:48:37] udpate price: 032960.KQ, row: 0
+[2024-05-24 19:48:37] udpate price: 032580.KQ, row: 0
+[2024-05-24 19:48:38] udpate price: 169330.KQ, row: 0
+[2024-05-24 19:48:38] udpate price: 199730.KQ, row: 0
+[2024-05-24 19:48:38] udpate price: 148780.KQ, row: 0
+[2024-05-24 19:48:39] udpate price: 090150.KQ, row: 0
+[2024-05-24 19:48:39] udpate price: 340440.KQ, row: 0
+[2024-05-24 19:48:39] udpate price: 115610.KQ, row: 0
+[2024-05-24 19:48:40] udpate price: 187270.KQ, row: 0
+[2024-05-24 19:48:40] udpate price: 085910.KQ, row: 0
+[2024-05-24 19:48:41] udpate price: 065570.KQ, row: 0
+[2024-05-24 19:48:41] udpate price: 065440.KQ, row: 0
+[2024-05-24 19:48:41] udpate price: 137940.KQ, row: 0
+[2024-05-24 19:48:42] udpate price: 222420.KQ, row: 0
+[2024-05-24 19:48:42] udpate price: 052860.KQ, row: 0
+[2024-05-24 19:48:43] udpate price: 051780.KQ, row: 0
+[2024-05-24 19:48:43] udpate price: 025880.KQ, row: 0
+[2024-05-24 19:48:44] udpate price: 079000.KQ, row: 0
+[2024-05-24 19:48:44] udpate price: 210120.KQ, row: 0
+[2024-05-24 19:48:44] udpate price: 328380.KQ, row: 0
+[2024-05-24 19:48:45] udpate price: 076080.KQ, row: 0
+[2024-05-24 19:48:45] udpate price: 010280.KQ, row: 0
+[2024-05-24 19:48:45] udpate price: 095910.KQ, row: 0
+[2024-05-24 19:48:46] udpate price: 228340.KQ, row: 0
+[2024-05-24 19:48:46] udpate price: 036180.KQ, row: 0
+[2024-05-24 19:48:47] udpate price: 032750.KQ, row: 0
+[2024-05-24 19:48:47] udpate price: 072950.KQ, row: 0
+[2024-05-24 19:48:47] udpate price: 089150.KQ, row: 0
+[2024-05-24 19:48:48] udpate price: 297570.KQ, row: 0
+[2024-05-24 19:48:48] udpate price: 054940.KQ, row: 0
+[2024-05-24 19:48:48] udpate price: 021650.KQ, row: 0
+[2024-05-24 19:48:49] udpate price: 038950.KQ, row: 0
+[2024-05-24 19:48:49] udpate price: 036000.KQ, row: 0
+[2024-05-24 19:48:50] udpate price: 332370.KQ, row: 0
+[2024-05-24 19:48:50] udpate price: 051390.KQ, row: 0
+[2024-05-24 19:48:50] udpate price: 263020.KQ, row: 0
+[2024-05-24 19:48:51] udpate price: 069920.KQ, row: 0
+[2024-05-24 19:48:51] udpate price: 019770.KQ, row: 0
+[2024-05-24 19:48:52] udpate price: 131220.KQ, row: 0
+[2024-05-24 19:48:52] udpate price: 081580.KQ, row: 0
+[2024-05-24 19:48:52] udpate price: 203450.KQ, row: 0
+[2024-05-24 19:48:53] udpate price: 024940.KQ, row: 0
+[2024-05-24 19:48:53] udpate price: 079650.KQ, row: 0
+[2024-05-24 19:48:54] udpate price: 012340.KQ, row: 0
+[2024-05-24 19:48:54] udpate price: 296640.KQ, row: 0
+[2024-05-24 19:48:54] udpate price: 114450.KQ, row: 0
+[2024-05-24 19:48:55] udpate price: 131090.KQ, row: 0
+[2024-05-24 19:48:55] udpate price: 143540.KQ, row: 0
+[2024-05-24 19:48:56] udpate price: 353190.KQ, row: 0
+[2024-05-24 19:48:56] udpate price: 006050.KQ, row: 0
+[2024-05-24 19:48:56] udpate price: 252500.KQ, row: 0
+[2024-05-24 19:48:57] udpate price: 119500.KQ, row: 0
+[2024-05-24 19:48:57] udpate price: 083470.KQ, row: 0
+[2024-05-24 19:48:57] udpate price: 238200.KQ, row: 0
+[2024-05-24 19:48:58] udpate price: 067010.KQ, row: 0
+[2024-05-24 19:48:58] udpate price: 303360.KQ, row: 0
+[2024-05-24 19:48:59] udpate price: 053950.KQ, row: 0
+[2024-05-24 19:48:59] udpate price: 031510.KQ, row: 0
+[2024-05-24 19:48:59] udpate price: 058110.KQ, row: 0
+[2024-05-24 19:49:00] udpate price: 900110.KQ, row: 0
+[2024-05-24 19:49:00] udpate price: 075130.KQ, row: 0
+[2024-05-24 19:49:01] udpate price: 237750.KQ, row: 0
+[2024-05-24 19:49:01] udpate price: 290270.KQ, row: 0
+[2024-05-24 19:49:01] udpate price: 045510.KQ, row: 0
+[2024-05-24 19:49:02] udpate price: 048470.KQ, row: 0
+[2024-05-24 19:49:02] udpate price: 079170.KQ, row: 0
+[2024-05-24 19:49:03] udpate price: 037400.KQ, row: 0
+[2024-05-24 19:49:03] udpate price: 082660.KQ, row: 0
+[2024-05-24 19:49:03] udpate price: 331380.KQ, row: 0
+[2024-05-24 19:49:04] udpate price: 092600.KQ, row: 0
+[2024-05-24 19:49:04] udpate price: 016920.KQ, row: 0
+[2024-05-24 19:49:05] udpate price: 014100.KQ, row: 0
+[2024-05-24 19:49:05] udpate price: 060380.KQ, row: 0
+[2024-05-24 19:49:06] udpate price: 012620.KQ, row: 0
+[2024-05-24 19:49:06] udpate price: 452980.KQ, row: 0
+[2024-05-24 19:49:06] udpate price: 246250.KQ, row: 0
+[2024-05-24 19:49:07] udpate price: 104040.KQ, row: 0
+[2024-05-24 19:49:07] udpate price: 039310.KQ, row: 0
+[2024-05-24 19:49:08] udpate price: 115480.KQ, row: 0
+[2024-05-24 19:49:08] udpate price: 208350.KQ, row: 0
+[2024-05-24 19:49:08] udpate price: 099410.KQ, row: 0
+[2024-05-24 19:49:09] udpate price: 086060.KQ, row: 0
+[2024-05-24 19:49:09] udpate price: 291810.KQ, row: 0
+[2024-05-24 19:49:09] udpate price: 083640.KQ, row: 0
+[2024-05-24 19:49:10] udpate price: 018620.KQ, row: 0
+[2024-05-24 19:49:10] udpate price: 017000.KQ, row: 0
+[2024-05-24 19:49:11] udpate price: 333050.KQ, row: 0
+[2024-05-24 19:49:11] udpate price: 043090.KQ, row: 0
+[2024-05-24 19:49:11] udpate price: 054090.KQ, row: 0
+[2024-05-24 19:49:12] udpate price: 080470.KQ, row: 0
+[2024-05-24 19:49:12] udpate price: 103230.KQ, row: 0
+[2024-05-24 19:49:13] udpate price: 091340.KQ, row: 0
+[2024-05-24 19:49:13] udpate price: 067730.KQ, row: 0
+[2024-05-24 19:49:13] udpate price: 131180.KQ, row: 0
+[2024-05-24 19:49:14] udpate price: 050120.KQ, row: 0
+[2024-05-24 19:49:14] udpate price: 033050.KQ, row: 0
+[2024-05-24 19:49:15] udpate price: 032080.KQ, row: 0
+[2024-05-24 19:49:15] udpate price: 900120.KQ, row: 0
+[2024-05-24 19:49:15] udpate price: 030350.KQ, row: 0
+[2024-05-24 19:49:16] udpate price: 331920.KQ, row: 0
+[2024-05-24 19:49:16] udpate price: 068940.KQ, row: 0
+[2024-05-24 19:49:16] udpate price: 310870.KQ, row: 0
+[2024-05-24 19:49:17] udpate price: 038530.KQ, row: 0
+[2024-05-24 19:49:17] udpate price: 101400.KQ, row: 0
+[2024-05-24 19:49:18] udpate price: 050760.KQ, row: 0
+[2024-05-24 19:49:18] udpate price: 232830.KQ, row: 0
+[2024-05-24 19:49:18] udpate price: 032280.KQ, row: 0
+[2024-05-24 19:49:19] udpate price: 049470.KQ, row: None
+[2024-05-24 19:49:20] udpate price: 043710.KQ, row: 0
+[2024-05-24 19:49:20] udpate price: 063760.KQ, row: 0
+[2024-05-24 19:49:21] udpate price: 225590.KQ, row: 0
+[2024-05-24 19:49:21] udpate price: 044780.KQ, row: 0
+[2024-05-24 19:49:21] udpate price: 085810.KQ, row: 0
+[2024-05-24 19:49:22] udpate price: 079190.KQ, row: 0
+[2024-05-24 19:49:22] udpate price: 043100.KQ, row: 0
+[2024-05-24 19:49:23] udpate price: 053060.KQ, row: 0
+[2024-05-24 19:49:23] udpate price: 065770.KQ, row: 0
+[2024-05-24 19:49:23] udpate price: 098660.KQ, row: 0
+[2024-05-24 19:49:24] udpate price: 067770.KQ, row: 0
+[2024-05-24 19:49:24] udpate price: 335870.KQ, row: 0
+[2024-05-24 19:49:25] udpate price: 008290.KQ, row: 0
+[2024-05-24 19:49:25] udpate price: 134060.KQ, row: 0
+[2024-05-24 19:49:25] udpate price: 039740.KQ, row: 0
+[2024-05-24 19:49:26] udpate price: 079950.KQ, row: 0
+[2024-05-24 19:49:26] udpate price: 275630.KQ, row: 0
+[2024-05-24 19:49:27] udpate price: 900070.KQ, row: 0
+[2024-05-24 19:49:27] udpate price: 225430.KQ, row: 0
+[2024-05-24 19:49:27] udpate price: 016670.KQ, row: None
+[2024-05-24 19:49:28] udpate price: 106240.KQ, row: 0
+[2024-05-24 19:49:28] udpate price: 043360.KQ, row: 0
+[2024-05-24 19:49:29] udpate price: 011080.KQ, row: 0
+[2024-05-24 19:49:29] udpate price: 073540.KQ, row: 0
+[2024-05-24 19:49:30] udpate price: 101680.KQ, row: 0
+[2024-05-24 19:49:30] udpate price: 023790.KQ, row: 0
+[2024-05-24 19:49:30] udpate price: 065150.KQ, row: 0
+[2024-05-24 19:49:31] udpate price: 457630.KQ, row: 0
+[2024-05-24 19:49:31] udpate price: 106520.KQ, row: 0
+[2024-05-24 19:49:32] udpate price: 065420.KQ, row: 0
+[2024-05-24 19:49:32] udpate price: 457390.KQ, row: 0
+[2024-05-24 19:49:32] udpate price: 422040.KQ, row: 0
+[2024-05-24 19:49:33] udpate price: 436610.KQ, row: 0
+[2024-05-24 19:49:33] udpate price: 400840.KQ, row: 0
+[2024-05-24 19:49:33] udpate price: 455310.KQ, row: 0
+[2024-05-24 19:49:34] udpate price: 430700.KQ, row: 0
+[2024-05-24 19:49:34] udpate price: 444920.KQ, row: 0
+[2024-05-24 19:49:34] udpate price: 108230.KQ, row: 0
+[2024-05-24 19:49:35] udpate price: 413600.KQ, row: 0
+[2024-05-24 19:49:35] udpate price: 462020.KQ, row: 0
+[2024-05-24 19:49:36] udpate price: 458610.KQ, row: 0
+[2024-05-24 19:49:36] udpate price: 026150.KQ, row: 0
+[2024-05-24 19:49:36] udpate price: 114840.KQ, row: 0
+[2024-05-24 19:49:37] udpate price: 078600.KQ, row: 0
+[2024-05-24 19:49:37] udpate price: 388800.KQ, row: 0
+[2024-05-24 19:49:37] udpate price: 458320.KQ, row: 0
+[2024-05-24 19:49:38] udpate price: 069080.KQ, row: 0
+[2024-05-24 19:49:38] udpate price: 439730.KQ, row: 0
+[2024-05-24 19:49:38] udpate price: 095340.KQ, row: 0
+[2024-05-24 19:49:39] udpate price: 112040.KQ, row: 0
+[2024-05-24 19:49:39] udpate price: 452670.KQ, row: 0
+[2024-05-24 19:49:40] udpate price: 036930.KQ, row: 0
+[2024-05-24 19:49:40] udpate price: 403870.KQ, row: 0
+[2024-05-24 19:49:40] udpate price: 000250.KQ, row: 0
+[2024-05-24 19:49:41] udpate price: 263750.KQ, row: 0
+[2024-05-24 19:49:41] udpate price: 145020.KQ, row: 0
+[2024-05-24 19:49:42] udpate price: 039030.KQ, row: 0
+[2024-05-24 19:49:42] udpate price: 357780.KQ, row: 0
+[2024-05-24 19:49:43] udpate price: 041510.KQ, row: 0
+[2024-05-24 19:49:43] udpate price: 417200.KQ, row: 0
+[2024-05-24 19:49:43] udpate price: 237690.KQ, row: 0
+[2024-05-24 19:49:44] udpate price: 214450.KQ, row: 0
+[2024-05-24 19:49:44] udpate price: 253450.KQ, row: 0
+[2024-05-24 19:49:45] udpate price: 067160.KQ, row: 0
+[2024-05-24 19:49:45] udpate price: 036830.KQ, row: 0
+[2024-05-24 19:49:45] udpate price: 232140.KQ, row: 0
+[2024-05-24 19:49:46] udpate price: 064760.KQ, row: 0
+[2024-05-24 19:49:46] udpate price: 121600.KQ, row: 0
+[2024-05-24 19:49:46] udpate price: 140860.KQ, row: 0
+[2024-05-24 19:49:47] udpate price: 039200.KQ, row: 0
+[2024-05-24 19:49:47] udpate price: 067310.KQ, row: 0
+[2024-05-24 19:49:48] udpate price: 084370.KQ, row: 0
+[2024-05-24 19:49:48] udpate price: 140410.KQ, row: 0
+[2024-05-24 19:49:48] udpate price: 393890.KQ, row: 0
+[2024-05-24 19:49:49] udpate price: 096530.KQ, row: 0
+[2024-05-24 19:49:49] udpate price: 031980.KQ, row: 0
+[2024-05-24 19:49:49] udpate price: 166090.KQ, row: 0
+[2024-05-24 19:49:50] udpate price: 213420.KQ, row: 0
+[2024-05-24 19:49:50] udpate price: 056190.KQ, row: 0
+[2024-05-24 19:49:51] udpate price: 098460.KQ, row: 0
+[2024-05-24 19:49:51] udpate price: 950160.KQ, row: 0
+[2024-05-24 19:49:51] udpate price: 204270.KQ, row: 0
+[2024-05-24 19:49:52] udpate price: 067630.KQ, row: 0
+[2024-05-24 19:49:52] udpate price: 086900.KQ, row: 0
+[2024-05-24 19:49:53] udpate price: 319660.KQ, row: 0
+[2024-05-24 19:49:53] udpate price: 101490.KQ, row: 0
+[2024-05-24 19:49:53] udpate price: 025320.KQ, row: 0
+[2024-05-24 19:49:54] udpate price: 399720.KQ, row: 0
+[2024-05-24 19:49:54] udpate price: 086450.KQ, row: 0
+[2024-05-24 19:49:54] udpate price: 009520.KQ, row: 0
+[2024-05-24 19:49:55] udpate price: 122870.KQ, row: 0
+[2024-05-24 19:49:55] udpate price: 119860.KQ, row: 0
+[2024-05-24 19:49:56] udpate price: 420770.KQ, row: 0
+[2024-05-24 19:49:56] udpate price: 418170.KQ, row: 0
+[2024-05-24 19:49:56] udpate price: 007390.KQ, row: 0
+[2024-05-24 19:49:57] udpate price: 064550.KQ, row: 0
+[2024-05-24 19:49:57] udpate price: 131970.KQ, row: 0
+[2024-05-24 19:49:57] udpate price: 189300.KQ, row: 0
+[2024-05-24 19:49:58] udpate price: 237880.KQ, row: 0
+[2024-05-24 19:49:58] udpate price: 087010.KQ, row: 0
+[2024-05-24 19:49:58] udpate price: 080220.KQ, row: 0
+[2024-05-24 19:49:59] udpate price: 030520.KQ, row: 0
+[2024-05-24 19:49:59] udpate price: 131290.KQ, row: 0
+[2024-05-24 19:50:00] udpate price: 418550.KQ, row: 0
+[2024-05-24 19:50:00] udpate price: 272290.KQ, row: 0
+[2024-05-24 19:50:00] udpate price: 053800.KQ, row: 0
+[2024-05-24 19:50:01] udpate price: 376300.KQ, row: 0
+[2024-05-24 19:50:01] udpate price: 058610.KQ, row: 0
+[2024-05-24 19:50:01] udpate price: 099320.KQ, row: 0
+[2024-05-24 19:50:02] udpate price: 079370.KQ, row: 0
+[2024-05-24 19:50:02] udpate price: 358570.KQ, row: 0
+[2024-05-24 19:50:03] udpate price: 025980.KQ, row: 0
+[2024-05-24 19:50:03] udpate price: 460930.KQ, row: 0
+[2024-05-24 19:50:03] udpate price: 091120.KQ, row: 0
+[2024-05-24 19:50:04] udpate price: 099190.KQ, row: 0
+[2024-05-24 19:50:04] udpate price: 039440.KQ, row: 0
+[2024-05-24 19:50:04] udpate price: 394280.KQ, row: 0
+[2024-05-24 19:50:05] udpate price: 241710.KQ, row: 0
+[2024-05-24 19:50:05] udpate price: 372170.KQ, row: 0
+[2024-05-24 19:50:06] udpate price: 445090.KQ, row: 0
+[2024-05-24 19:50:06] udpate price: 095660.KQ, row: 0
+[2024-05-24 19:50:06] udpate price: 200130.KQ, row: 0
+[2024-05-24 19:50:07] udpate price: 215000.KQ, row: 0
+[2024-05-24 19:50:07] udpate price: 091700.KQ, row: 0
+[2024-05-24 19:50:07] udpate price: 089010.KQ, row: 0
+[2024-05-24 19:50:08] udpate price: 095500.KQ, row: 0
+[2024-05-24 19:50:08] udpate price: 110990.KQ, row: 0
+[2024-05-24 19:50:09] udpate price: 053030.KQ, row: 0
+[2024-05-24 19:50:09] udpate price: 032190.KQ, row: 0
+[2024-05-24 19:50:09] udpate price: 095610.KQ, row: 0
+[2024-05-24 19:50:10] udpate price: 060280.KQ, row: 0
+[2024-05-24 19:50:10] udpate price: 218410.KQ, row: 0
+[2024-05-24 19:50:11] udpate price: 082920.KQ, row: 0
+[2024-05-24 19:50:11] udpate price: 950140.KQ, row: 0
+[2024-05-24 19:50:11] udpate price: 082270.KQ, row: 0
+[2024-05-24 19:50:12] udpate price: 049070.KQ, row: 0
+[2024-05-24 19:50:12] udpate price: 089980.KQ, row: 0
+[2024-05-24 19:50:13] udpate price: 253590.KQ, row: 0
+[2024-05-24 19:50:13] udpate price: 200710.KQ, row: 0
+[2024-05-24 19:50:13] udpate price: 094360.KQ, row: 0
+[2024-05-24 19:50:14] udpate price: 043150.KQ, row: 21
+[2024-05-24 19:50:14] udpate price: 041020.KQ, row: 21
+[2024-05-24 19:50:15] udpate price: 148150.KQ, row: 21
+[2024-05-24 19:50:16] udpate price: 104830.KQ, row: 21
+[2024-05-24 19:50:17] udpate price: 036620.KQ, row: 21
+[2024-05-24 19:50:17] udpate price: 083450.KQ, row: 21
+[2024-05-24 19:50:18] udpate price: 060370.KQ, row: 21
+[2024-05-24 19:50:19] udpate price: 093320.KQ, row: 21
+[2024-05-24 19:50:20] udpate price: 360070.KQ, row: 21
+[2024-05-24 19:50:20] udpate price: 060250.KQ, row: 21
+[2024-05-24 19:50:21] udpate price: 044490.KQ, row: 21
+[2024-05-24 19:50:22] udpate price: 243070.KQ, row: 21
+[2024-05-24 19:50:23] udpate price: 114810.KQ, row: 21
+[2024-05-24 19:50:23] udpate price: 151860.KQ, row: 21
+[2024-05-24 19:50:24] udpate price: 425040.KQ, row: 21
+[2024-05-24 19:50:25] udpate price: 206640.KQ, row: 21
+[2024-05-24 19:50:26] udpate price: 200670.KQ, row: 21
+[2024-05-24 19:50:27] udpate price: 439090.KQ, row: 21
+[2024-05-24 19:50:27] udpate price: 299900.KQ, row: 21
+[2024-05-24 19:50:28] udpate price: 102710.KQ, row: 21
+[2024-05-24 19:50:29] udpate price: 251970.KQ, row: 21
+[2024-05-24 19:50:30] udpate price: 053610.KQ, row: 21
+[2024-05-24 19:50:30] udpate price: 033500.KQ, row: 21
+[2024-05-24 19:50:31] udpate price: 101160.KQ, row: 21
+[2024-05-24 19:50:32] udpate price: 013030.KQ, row: 21
+[2024-05-24 19:50:33] udpate price: 041830.KQ, row: 21
+[2024-05-24 19:50:33] udpate price: 060720.KQ, row: 21
+[2024-05-24 19:50:34] udpate price: 050890.KQ, row: 21
+[2024-05-24 19:50:35] udpate price: 051370.KQ, row: 21
+[2024-05-24 19:50:36] udpate price: 425420.KQ, row: 21
+[2024-05-24 19:50:37] udpate price: 077360.KQ, row: 21
+[2024-05-24 19:50:37] udpate price: 256840.KQ, row: 21
+[2024-05-24 19:50:38] udpate price: 032820.KQ, row: 21
+[2024-05-24 19:50:39] udpate price: 086390.KQ, row: 21
+[2024-05-24 19:50:40] udpate price: 267980.KQ, row: 21
+[2024-05-24 19:50:40] udpate price: 263720.KQ, row: 21
+[2024-05-24 19:50:41] udpate price: 126340.KQ, row: 21
+[2024-05-24 19:50:42] udpate price: 029960.KQ, row: 21
+[2024-05-24 19:50:43] udpate price: 054950.KQ, row: 21
+[2024-05-24 19:50:43] udpate price: 045100.KQ, row: 21
+[2024-05-24 19:50:44] udpate price: 319400.KQ, row: 21
+[2024-05-24 19:50:45] udpate price: 031330.KQ, row: 21
+[2024-05-24 19:50:46] udpate price: 101730.KQ, row: 21
+[2024-05-24 19:50:47] udpate price: 119610.KQ, row: 0
+[2024-05-24 19:50:47] udpate price: 023160.KQ, row: 21
+[2024-05-24 19:50:48] udpate price: 357550.KQ, row: 21
+[2024-05-24 19:50:49] udpate price: 138580.KQ, row: 21
+[2024-05-24 19:50:49] udpate price: 014620.KQ, row: 21
+[2024-05-24 19:50:50] udpate price: 083650.KQ, row: 21
+[2024-05-24 19:50:51] udpate price: 060150.KQ, row: 21
+[2024-05-24 19:50:52] udpate price: 025770.KQ, row: 21
+[2024-05-24 19:50:52] udpate price: 035890.KQ, row: 21
+[2024-05-24 19:50:53] udpate price: 397030.KQ, row: 21
+[2024-05-24 19:50:54] udpate price: 035600.KQ, row: 21
+[2024-05-24 19:50:55] udpate price: 100790.KQ, row: 21
+[2024-05-24 19:50:56] udpate price: 083310.KQ, row: 21
+[2024-05-24 19:50:56] udpate price: 041960.KQ, row: 21
+[2024-05-24 19:50:57] udpate price: 036200.KQ, row: 21
+[2024-05-24 19:50:58] udpate price: 056080.KQ, row: 21
+[2024-05-24 19:50:59] udpate price: 003800.KQ, row: 21
+[2024-05-24 19:50:59] udpate price: 270660.KQ, row: 21
+[2024-05-24 19:51:00] udpate price: 052020.KQ, row: 21
+[2024-05-24 19:51:01] udpate price: 080160.KQ, row: 21
+[2024-05-24 19:51:02] udpate price: 100120.KQ, row: 21
+[2024-05-24 19:51:02] udpate price: 090360.KQ, row: 21
+[2024-05-24 19:51:03] udpate price: 078020.KQ, row: 21
+[2024-05-24 19:51:04] udpate price: 058820.KQ, row: 21
+[2024-05-24 19:51:05] udpate price: 047560.KQ, row: 21
+[2024-05-24 19:51:06] udpate price: 448280.KQ, row: 21
+[2024-05-24 19:51:06] udpate price: 084110.KQ, row: 21
+[2024-05-24 19:51:07] udpate price: 211270.KQ, row: 21
+[2024-05-24 19:51:08] udpate price: 067290.KQ, row: 21
+[2024-05-24 19:51:09] udpate price: 214430.KQ, row: 21
+[2024-05-24 19:51:09] udpate price: 083930.KQ, row: 21
+[2024-05-24 19:51:10] udpate price: 047310.KQ, row: 21
+[2024-05-24 19:51:11] udpate price: 402030.KQ, row: 21
+[2024-05-24 19:51:12] udpate price: 112290.KQ, row: 21
+[2024-05-24 19:51:12] udpate price: 179290.KQ, row: 21
+[2024-05-24 19:51:13] udpate price: 094480.KQ, row: 21
+[2024-05-24 19:51:14] udpate price: 043370.KQ, row: 21
+[2024-05-24 19:51:15] udpate price: 013120.KQ, row: 21
+[2024-05-24 19:51:16] udpate price: 405100.KQ, row: 21
+[2024-05-24 19:51:16] udpate price: 052400.KQ, row: 21
+[2024-05-24 19:51:17] udpate price: 101670.KQ, row: 21
+[2024-05-24 19:51:18] udpate price: 036030.KQ, row: 21
+[2024-05-24 19:51:18] udpate price: 032620.KQ, row: 21
+[2024-05-24 19:51:19] udpate price: 102940.KQ, row: 21
+[2024-05-24 19:51:20] udpate price: 417010.KQ, row: 21
+[2024-05-24 19:51:21] udpate price: 254490.KQ, row: 21
+[2024-05-24 19:51:21] udpate price: 039980.KQ, row: 21
+[2024-05-24 19:51:22] udpate price: 096040.KQ, row: 0
+[2024-05-24 19:51:23] udpate price: 123860.KQ, row: 21
+[2024-05-24 19:51:23] udpate price: 356860.KQ, row: 21
+[2024-05-24 19:51:24] udpate price: 388720.KQ, row: 21
+[2024-05-24 19:51:25] udpate price: 089890.KQ, row: 21
+[2024-05-24 19:51:26] udpate price: 282880.KQ, row: 21
+[2024-05-24 19:51:26] udpate price: 122990.KQ, row: 21
+[2024-05-24 19:51:27] udpate price: 086890.KQ, row: 21
+[2024-05-24 19:51:28] udpate price: 049950.KQ, row: 21
+[2024-05-24 19:51:29] udpate price: 038290.KQ, row: 21
+[2024-05-24 19:51:30] udpate price: 416180.KQ, row: 21
+[2024-05-24 19:51:30] udpate price: 078160.KQ, row: 21
+[2024-05-24 19:51:31] udpate price: 102120.KQ, row: 21
+[2024-05-24 19:51:32] udpate price: 432720.KQ, row: 21
+[2024-05-24 19:51:33] udpate price: 093640.KQ, row: 21
+[2024-05-24 19:51:33] udpate price: 092070.KQ, row: 21
+[2024-05-24 19:51:34] udpate price: 092730.KQ, row: 21
+[2024-05-24 19:51:35] udpate price: 079810.KQ, row: 21
+[2024-05-24 19:51:36] udpate price: 104460.KQ, row: 21
+[2024-05-24 19:51:37] udpate price: 396270.KQ, row: 21
+[2024-05-24 19:51:38] udpate price: 086040.KQ, row: 21
+[2024-05-24 19:51:38] udpate price: 024850.KQ, row: 21
+[2024-05-24 19:51:39] udpate price: 382900.KQ, row: 21
+[2024-05-24 19:51:40] udpate price: 048870.KQ, row: 21
+[2024-05-24 19:51:41] udpate price: 160980.KQ, row: 21
+[2024-05-24 19:51:42] udpate price: 036800.KQ, row: 21
+[2024-05-24 19:51:43] udpate price: 402490.KQ, row: 21
+[2024-05-24 19:51:43] udpate price: 190510.KQ, row: 21
+[2024-05-24 19:51:44] udpate price: 017890.KQ, row: 21
+[2024-05-24 19:51:45] udpate price: 382840.KQ, row: 21
+[2024-05-24 19:51:46] udpate price: 086980.KQ, row: 21
+[2024-05-24 19:51:47] udpate price: 078070.KQ, row: 21
+[2024-05-24 19:51:47] udpate price: 045390.KQ, row: 21
+[2024-05-24 19:51:48] udpate price: 089600.KQ, row: 21
+[2024-05-24 19:51:49] udpate price: 079940.KQ, row: 21
+[2024-05-24 19:51:50] udpate price: 219130.KQ, row: 21
+[2024-05-24 19:51:50] udpate price: 048550.KQ, row: 21
+[2024-05-24 19:51:51] udpate price: 036890.KQ, row: 21
+[2024-05-24 19:51:52] udpate price: 298540.KQ, row: 21
+[2024-05-24 19:51:52] udpate price: 143240.KQ, row: 21
+[2024-05-24 19:51:53] udpate price: 149950.KQ, row: 21
+[2024-05-24 19:51:54] udpate price: 092870.KQ, row: 21
+[2024-05-24 19:51:55] udpate price: 032300.KQ, row: 21
+[2024-05-24 19:51:56] udpate price: 006620.KQ, row: 21
+[2024-05-24 19:51:57] udpate price: 094820.KQ, row: 21
+[2024-05-24 19:51:57] udpate price: 067280.KQ, row: 21
+[2024-05-24 19:51:58] udpate price: 046440.KQ, row: 21
+[2024-05-24 19:51:59] udpate price: 066790.KQ, row: 21
+[2024-05-24 19:52:00] udpate price: 084990.KQ, row: 21
+[2024-05-24 19:52:00] udpate price: 096240.KQ, row: 21
+[2024-05-24 19:52:01] udpate price: 006910.KQ, row: 21
+[2024-05-24 19:52:02] udpate price: 053300.KQ, row: 21
+[2024-05-24 19:52:03] udpate price: 011040.KQ, row: 21
+[2024-05-24 19:52:03] udpate price: 264850.KQ, row: 21
+[2024-05-24 19:52:04] udpate price: 083790.KQ, row: 21
+[2024-05-24 19:52:05] udpate price: 084650.KQ, row: 21
+[2024-05-24 19:52:06] udpate price: 068930.KQ, row: 21
+[2024-05-24 19:52:06] udpate price: 370090.KQ, row: 21
+[2024-05-24 19:52:07] udpate price: 131370.KQ, row: 21
+[2024-05-24 19:52:08] udpate price: 025950.KQ, row: 21
+[2024-05-24 19:52:09] udpate price: 063080.KQ, row: 21
+[2024-05-24 19:52:09] udpate price: 123410.KQ, row: 21
+[2024-05-24 19:52:10] udpate price: 377450.KQ, row: 21
+[2024-05-24 19:52:11] udpate price: 036560.KQ, row: 21
+[2024-05-24 19:52:12] udpate price: 085670.KQ, row: 21
+[2024-05-24 19:52:12] udpate price: 093520.KQ, row: 21
+[2024-05-24 19:52:13] udpate price: 027710.KQ, row: 21
+[2024-05-24 19:52:14] udpate price: 225530.KQ, row: 21
+[2024-05-24 19:52:15] udpate price: 236200.KQ, row: 21
+[2024-05-24 19:52:15] udpate price: 024060.KQ, row: 21
+[2024-05-24 19:52:16] udpate price: 063570.KQ, row: 21
+[2024-05-24 19:52:17] udpate price: 071280.KQ, row: 21
+[2024-05-24 19:52:18] udpate price: 143160.KQ, row: 21
+[2024-05-24 19:52:19] udpate price: 239890.KQ, row: 21
+[2024-05-24 19:52:19] udpate price: 073490.KQ, row: 21
+[2024-05-24 19:52:20] udpate price: 038110.KQ, row: 21
+[2024-05-24 19:52:21] udpate price: 100130.KQ, row: 21
+[2024-05-24 19:52:21] udpate price: 064820.KQ, row: 21
+[2024-05-24 19:52:22] udpate price: 024810.KQ, row: 0
+[2024-05-24 19:52:23] udpate price: 192440.KQ, row: 21
+[2024-05-24 19:52:23] udpate price: 445180.KQ, row: 21
+[2024-05-24 19:52:24] udpate price: 088390.KQ, row: 21
+[2024-05-24 19:52:25] udpate price: 294570.KQ, row: 21
+[2024-05-24 19:52:26] udpate price: 214180.KQ, row: 21
+[2024-05-24 19:52:26] udpate price: 043610.KQ, row: 21
+[2024-05-24 19:52:27] udpate price: 045970.KQ, row: 21
+[2024-05-24 19:52:28] udpate price: 136540.KQ, row: 21
+[2024-05-24 19:52:29] udpate price: 038540.KQ, row: 21
+[2024-05-24 19:52:30] udpate price: 073010.KQ, row: 21
+[2024-05-24 19:52:30] udpate price: 365590.KQ, row: 21
+[2024-05-24 19:52:31] udpate price: 023910.KQ, row: 21
+[2024-05-24 19:52:32] udpate price: 223250.KQ, row: 21
+[2024-05-24 19:52:33] udpate price: 065510.KQ, row: 21
+[2024-05-24 19:52:34] udpate price: 220260.KQ, row: 21
+[2024-05-24 19:52:34] udpate price: 042420.KQ, row: 21
+[2024-05-24 19:52:35] udpate price: 013990.KQ, row: 21
+[2024-05-24 19:52:36] udpate price: 205100.KQ, row: 21
+[2024-05-24 19:52:37] udpate price: 418470.KQ, row: 21
+[2024-05-24 19:52:38] udpate price: 106190.KQ, row: 21
+[2024-05-24 19:52:38] udpate price: 051160.KQ, row: 21
+[2024-05-24 19:52:39] udpate price: 234690.KQ, row: 21
+[2024-05-24 19:52:40] udpate price: 065680.KQ, row: 21
+[2024-05-24 19:52:41] udpate price: 194700.KQ, row: 21
+[2024-05-24 19:52:41] udpate price: 068790.KQ, row: 21
+[2024-05-24 19:52:42] udpate price: 032540.KQ, row: 21
+[2024-05-24 19:52:43] udpate price: 264450.KQ, row: 21
+[2024-05-24 19:52:44] udpate price: 096630.KQ, row: 21
+[2024-05-24 19:52:45] udpate price: 023600.KQ, row: 21
+[2024-05-24 19:52:46] udpate price: 393210.KQ, row: 21
+[2024-05-24 19:52:46] udpate price: 044340.KQ, row: 21
+[2024-05-24 19:52:47] udpate price: 023900.KQ, row: 21
+[2024-05-24 19:52:48] udpate price: 091440.KQ, row: 21
+[2024-05-24 19:52:49] udpate price: 092130.KQ, row: 21
+[2024-05-24 19:52:49] udpate price: 049520.KQ, row: 21
+[2024-05-24 19:52:50] udpate price: 121440.KQ, row: 21
+[2024-05-24 19:52:51] udpate price: 900250.KQ, row: 21
+[2024-05-24 19:52:52] udpate price: 376190.KQ, row: 21
+[2024-05-24 19:52:52] udpate price: 030960.KQ, row: 21
+[2024-05-24 19:52:53] udpate price: 149980.KQ, row: 21
+[2024-05-24 19:52:54] udpate price: 036190.KQ, row: 21
+[2024-05-24 19:52:55] udpate price: 079960.KQ, row: 21
+[2024-05-24 19:52:55] udpate price: 234340.KQ, row: 21
+[2024-05-24 19:52:56] udpate price: 366030.KQ, row: 21
+[2024-05-24 19:52:57] udpate price: 353810.KQ, row: 21
+[2024-05-24 19:52:58] udpate price: 084730.KQ, row: 21
+[2024-05-24 19:52:58] udpate price: 108380.KQ, row: 21
+[2024-05-24 19:52:59] udpate price: 072770.KQ, row: 21
+[2024-05-24 19:53:00] udpate price: 063170.KQ, row: 21
+[2024-05-24 19:53:01] udpate price: 164060.KQ, row: 21
+[2024-05-24 19:53:01] udpate price: 417500.KQ, row: 21
+[2024-05-24 19:53:02] udpate price: 090850.KQ, row: 21
+[2024-05-24 19:53:03] udpate price: 408900.KQ, row: 21
+[2024-05-24 19:53:04] udpate price: 045660.KQ, row: 21
+[2024-05-24 19:53:05] udpate price: 065660.KQ, row: 21
+[2024-05-24 19:53:06] udpate price: 396470.KQ, row: 21
+[2024-05-24 19:53:06] udpate price: 027050.KQ, row: 21
+[2024-05-24 19:53:08] udpate price: 191420.KQ, row: 21
+[2024-05-24 19:53:10] udpate price: 037460.KQ, row: 21
+[2024-05-24 19:53:11] udpate price: 337930.KQ, row: 21
+[2024-05-24 19:53:12] udpate price: 090470.KQ, row: 21
+[2024-05-24 19:53:13] udpate price: 082850.KQ, row: 21
+[2024-05-24 19:53:15] udpate price: 119850.KQ, row: 21
+[2024-05-24 19:53:17] udpate price: 323280.KQ, row: 0
+[2024-05-24 19:53:18] udpate price: 019550.KQ, row: 21
+[2024-05-24 19:53:19] udpate price: 273640.KQ, row: 21
+[2024-05-24 19:53:20] udpate price: 356680.KQ, row: 21
+[2024-05-24 19:53:21] udpate price: 389500.KQ, row: 21
+[2024-05-24 19:53:22] udpate price: 199820.KQ, row: 21
+[2024-05-24 19:53:23] udpate price: 021080.KQ, row: 21
+[2024-05-24 19:53:24] udpate price: 950190.KQ, row: 21
+[2024-05-24 19:53:25] udpate price: 027830.KQ, row: 21
+[2024-05-24 19:53:26] udpate price: 264660.KQ, row: 21
+[2024-05-24 19:53:28] udpate price: 038390.KQ, row: 21
+[2024-05-24 19:53:29] udpate price: 260930.KQ, row: 21
+[2024-05-24 19:53:30] udpate price: 368770.KQ, row: 21
+[2024-05-24 19:53:31] udpate price: 228850.KQ, row: 21
+[2024-05-24 19:53:34] udpate price: 039340.KQ, row: 21
+[2024-05-24 19:53:35] udpate price: 452400.KQ, row: 21
+[2024-05-24 19:53:36] udpate price: 011560.KQ, row: 21
+[2024-05-24 19:53:37] udpate price: 072870.KQ, row: 21
+[2024-05-24 19:53:40] udpate price: 054620.KQ, row: 21
+[2024-05-24 19:53:43] udpate price: 041930.KQ, row: 21
+[2024-05-24 19:53:45] udpate price: 042510.KQ, row: 21
+[2024-05-24 19:53:46] udpate price: 311320.KQ, row: 21
+[2024-05-24 19:53:47] udpate price: 100700.KQ, row: 21
+[2024-05-24 19:53:48] udpate price: 432470.KQ, row: 21
+[2024-05-24 19:53:50] udpate price: 067900.KQ, row: 21
+[2024-05-24 19:53:54] udpate price: 088800.KQ, row: 21
+[2024-05-24 19:53:55] udpate price: 066980.KQ, row: 21
+[2024-05-24 19:53:57] udpate price: 038460.KQ, row: 21
+[2024-05-24 19:53:57] udpate price: 095190.KQ, row: 21
+[2024-05-24 19:53:58] udpate price: 138080.KQ, row: 21
+[2024-05-24 19:54:00] udpate price: 124560.KQ, row: 21
+[2024-05-24 19:54:02] udpate price: 251120.KQ, row: 21
+[2024-05-24 19:54:04] udpate price: 142210.KQ, row: 21
+[2024-05-24 19:54:05] udpate price: 054050.KQ, row: 21
+[2024-05-24 19:54:06] udpate price: 014470.KQ, row: 21
+[2024-05-24 19:54:07] udpate price: 391710.KQ, row: 21
+[2024-05-24 19:54:08] udpate price: 267320.KQ, row: 21
+[2024-05-24 19:54:09] udpate price: 074430.KQ, row: 21
+[2024-05-24 19:54:10] udpate price: 066700.KQ, row: 21
+[2024-05-24 19:54:11] udpate price: 061040.KQ, row: 21
+[2024-05-24 19:54:12] udpate price: 310200.KQ, row: 21
+[2024-05-24 19:54:13] udpate price: 147830.KQ, row: 21
+[2024-05-24 19:54:14] udpate price: 071200.KQ, row: 21
+[2024-05-24 19:54:15] udpate price: 054780.KQ, row: 21
+[2024-05-24 19:54:16] udpate price: 046210.KQ, row: 21
+[2024-05-24 19:54:17] udpate price: 005710.KQ, row: 21
+[2024-05-24 19:54:18] udpate price: 048910.KQ, row: 21
+[2024-05-24 19:54:20] udpate price: 060310.KQ, row: 21
+[2024-05-24 19:54:21] udpate price: 215100.KQ, row: 21
+[2024-05-24 19:54:22] udpate price: 105330.KQ, row: 21
+[2024-05-24 19:54:23] udpate price: 052420.KQ, row: 21
+[2024-05-24 19:54:23] udpate price: 104620.KQ, row: 21
+[2024-05-24 19:54:24] udpate price: 361390.KQ, row: 21
+[2024-05-24 19:54:25] udpate price: 053580.KQ, row: 21
+[2024-05-24 19:54:26] udpate price: 052330.KQ, row: 21
+[2024-05-24 19:54:27] udpate price: 347890.KQ, row: 21
+[2024-05-24 19:54:28] udpate price: 078140.KQ, row: 21
+[2024-05-24 19:54:29] udpate price: 092460.KQ, row: 21
+[2024-05-24 19:54:30] udpate price: 000440.KQ, row: 21
+[2024-05-24 19:54:31] udpate price: 111710.KQ, row: 21
+[2024-05-24 19:54:32] udpate price: 066620.KQ, row: 21
+[2024-05-24 19:54:33] udpate price: 284620.KQ, row: 21
+[2024-05-24 19:54:33] udpate price: 086670.KQ, row: 21
+[2024-05-24 19:54:34] udpate price: 061250.KQ, row: 21
+[2024-05-24 19:54:35] udpate price: 041440.KQ, row: 21
+[2024-05-24 19:54:36] udpate price: 120240.KQ, row: 21
+[2024-05-24 19:54:38] udpate price: 099220.KQ, row: 21
+[2024-05-24 19:54:39] udpate price: 208370.KQ, row: 21
+[2024-05-24 19:54:39] udpate price: 042500.KQ, row: 21
+[2024-05-24 19:54:40] udpate price: 053700.KQ, row: 21
+[2024-05-24 19:54:41] udpate price: 443250.KQ, row: 21
+[2024-05-24 19:54:42] udpate price: 059210.KQ, row: 21
+[2024-05-24 19:54:43] udpate price: 417790.KQ, row: 21
+[2024-05-24 19:54:44] udpate price: 403490.KQ, row: 21
+[2024-05-24 19:54:45] udpate price: 049960.KQ, row: 21
+[2024-05-24 19:54:46] udpate price: 058400.KQ, row: 21
+[2024-05-24 19:54:47] udpate price: 037950.KQ, row: 21
+[2024-05-24 19:54:48] udpate price: 005990.KQ, row: 21
+[2024-05-24 19:54:49] udpate price: 33637L.KS, row: 21
+[2024-05-24 19:54:50] udpate price: 005930.KS, row: 21
+[2024-05-24 19:54:51] udpate price: 373220.KS, row: 21
+[2024-05-24 19:54:51] udpate price: 207940.KS, row: 21
+[2024-05-24 19:54:52] udpate price: 005935.KS, row: 21
+[2024-05-24 19:54:53] udpate price: 068270.KS, row: 21
+[2024-05-24 19:54:54] udpate price: 005490.KS, row: 21
+[2024-05-24 19:54:55] udpate price: 105560.KS, row: 21
+[2024-05-24 19:54:56] udpate price: 035420.KS, row: 21
+[2024-05-24 19:54:56] udpate price: 051910.KS, row: 21
+[2024-05-24 19:54:57] udpate price: 006400.KS, row: 21
+[2024-05-24 19:54:58] udpate price: 028260.KS, row: 21
+[2024-05-24 19:54:59] udpate price: 055550.KS, row: 21
+[2024-05-24 19:55:00] udpate price: 012330.KS, row: 21
+[2024-05-24 19:55:01] udpate price: 086790.KS, row: 21
+[2024-05-24 19:55:02] udpate price: 032830.KS, row: 21
+[2024-05-24 19:55:02] udpate price: 000810.KS, row: 21
+[2024-05-24 19:55:03] udpate price: 018260.KS, row: 21
+[2024-05-24 19:55:04] udpate price: 259960.KS, row: 21
+[2024-05-24 19:55:05] udpate price: 003550.KS, row: 21
+[2024-05-24 19:55:06] udpate price: 009150.KS, row: 21
+[2024-05-24 19:55:07] udpate price: 034020.KS, row: 21
+[2024-05-24 19:55:08] udpate price: 011200.KS, row: 21
+[2024-05-24 19:55:09] udpate price: 033780.KS, row: 21
+[2024-05-24 19:55:10] udpate price: 017670.KS, row: 0
+[2024-05-24 19:55:10] udpate price: 024110.KS, row: 21
+[2024-05-24 19:55:11] udpate price: 090430.KS, row: 21
+[2024-05-24 19:55:12] udpate price: 323410.KS, row: 21
+[2024-05-24 19:55:13] udpate price: 010130.KS, row: 21
+[2024-05-24 19:55:14] udpate price: 316140.KS, row: 21
+[2024-05-24 19:55:15] udpate price: 009540.KS, row: 21
+[2024-05-24 19:55:16] udpate price: 030200.KS, row: 0
+[2024-05-24 19:55:16] udpate price: 352820.KS, row: 21
+[2024-05-24 19:55:17] udpate price: 010950.KS, row: 0
+[2024-05-24 19:55:17] udpate price: 051900.KS, row: 21
+[2024-05-24 19:55:18] udpate price: 005830.KS, row: 21
+[2024-05-24 19:55:19] udpate price: 086280.KS, row: 21
+[2024-05-24 19:55:20] udpate price: 010120.KS, row: 21
+[2024-05-24 19:55:21] udpate price: 241560.KS, row: 21
+[2024-05-24 19:55:22] udpate price: 450080.KS, row: 21
+[2024-05-24 19:55:23] udpate price: 000100.KS, row: 21
+[2024-05-24 19:55:23] udpate price: 011070.KS, row: 21
+[2024-05-24 19:55:24] udpate price: 088980.KS, row: 21
+[2024-05-24 19:55:25] udpate price: 161390.KS, row: 21
+[2024-05-24 19:55:26] udpate price: 047810.KS, row: 21
+[2024-05-24 19:55:27] udpate price: 036570.KS, row: 21
+[2024-05-24 19:55:28] udpate price: 302440.KS, row: 21
+[2024-05-24 19:55:29] udpate price: 064350.KS, row: 21
+[2024-05-24 19:55:30] udpate price: 307950.KS, row: 21
+[2024-05-24 19:55:31] udpate price: 021240.KS, row: 21
+[2024-05-24 19:55:31] udpate price: 004020.KS, row: 21
+[2024-05-24 19:55:32] udpate price: 011780.KS, row: 21
+[2024-05-24 19:55:33] udpate price: 180640.KS, row: 21
+[2024-05-24 19:55:34] udpate price: 128940.KS, row: 21
+[2024-05-24 19:55:35] udpate price: 071050.KS, row: 21
+[2024-05-24 19:55:36] udpate price: 000720.KS, row: 21
+[2024-05-24 19:55:37] udpate price: 271560.KS, row: 21
+[2024-05-24 19:55:38] udpate price: 001440.KS, row: 21
+[2024-05-24 19:55:39] udpate price: 079550.KS, row: 21
+[2024-05-24 19:55:40] udpate price: 272210.KS, row: 21
+[2024-05-24 19:55:40] udpate price: 361610.KS, row: 21
+[2024-05-24 19:55:41] udpate price: 035250.KS, row: 21
+[2024-05-24 19:55:42] udpate price: 001450.KS, row: 21
+[2024-05-24 19:55:43] udpate price: 002790.KS, row: 21
+[2024-05-24 19:55:44] udpate price: 138930.KS, row: 21
+[2024-05-24 19:55:45] udpate price: 052690.KS, row: 21
+[2024-05-24 19:55:46] udpate price: 175330.KS, row: 21
+[2024-05-24 19:55:47] udpate price: 004370.KS, row: 21
+[2024-05-24 19:55:49] udpate price: 012030.KS, row: 21
+[2024-05-24 19:55:50] udpate price: 081660.KS, row: 21
+[2024-05-24 19:55:51] udpate price: 012750.KS, row: 21
+[2024-05-24 19:55:52] udpate price: 028670.KS, row: 21
+[2024-05-24 19:55:53] udpate price: 030000.KS, row: 21
+[2024-05-24 19:55:54] udpate price: 008930.KS, row: 21
+[2024-05-24 19:55:55] udpate price: 051915.KS, row: 21
+[2024-05-24 19:55:56] udpate price: 014680.KS, row: 21
+[2024-05-24 19:55:58] udpate price: 010060.KS, row: 21
+[2024-05-24 19:56:02] udpate price: 000880.KS, row: 21
+[2024-05-24 19:56:02] udpate price: 000990.KS, row: 21
+[2024-05-24 19:56:03] udpate price: 009420.KS, row: 21
+[2024-05-24 19:56:04] udpate price: 026960.KS, row: 21
+[2024-05-24 19:56:05] udpate price: 377190.KS, row: 21
+[2024-05-24 19:56:06] udpate price: 103140.KS, row: 21
+[2024-05-24 19:56:07] udpate price: 007310.KS, row: 21
+[2024-05-24 19:56:07] udpate price: 204320.KS, row: 0
+[2024-05-24 19:56:08] udpate price: 051600.KS, row: 21
+[2024-05-24 19:56:09] udpate price: 005850.KS, row: 21
+[2024-05-24 19:56:09] udpate price: 011210.KS, row: 21
+[2024-05-24 19:56:10] udpate price: 111770.KS, row: 21
+[2024-05-24 19:56:11] udpate price: 000240.KS, row: 21
+[2024-05-24 19:56:12] udpate price: 009240.KS, row: 0
+[2024-05-24 19:56:12] udpate price: 004490.KS, row: 21
+[2024-05-24 19:56:13] udpate price: 139130.KS, row: 21
+[2024-05-24 19:56:14] udpate price: 003690.KS, row: 21
+[2024-05-24 19:56:15] udpate price: 375500.KS, row: 21
+[2024-05-24 19:56:16] udpate price: 069620.KS, row: 21
+[2024-05-24 19:56:17] udpate price: 004000.KS, row: 21
+[2024-05-24 19:56:18] udpate price: 103590.KS, row: 21
+[2024-05-24 19:56:19] udpate price: 395400.KS, row: 21
+[2024-05-24 19:56:19] udpate price: 353200.KS, row: 21
+[2024-05-24 19:56:20] udpate price: 336370.KS, row: 21
+[2024-05-24 19:56:21] udpate price: 108320.KS, row: 21
+[2024-05-24 19:56:22] udpate price: 009970.KS, row: 21
+[2024-05-24 19:56:22] udpate price: 003620.KS, row: 21
+[2024-05-24 19:56:23] udpate price: 006110.KS, row: 21
+[2024-05-24 19:56:24] udpate price: 003090.KS, row: 21
+[2024-05-24 19:56:25] udpate price: 365550.KS, row: 21
+[2024-05-24 19:56:26] udpate price: 267270.KS, row: 21
+[2024-05-24 19:56:26] udpate price: 192080.KS, row: 21
+[2024-05-24 19:56:27] udpate price: 085620.KS, row: 21
+[2024-05-24 19:56:28] udpate price: 300720.KS, row: 21
+[2024-05-24 19:56:29] udpate price: 001800.KS, row: 21
+[2024-05-24 19:56:30] udpate price: 285130.KS, row: 21
+[2024-05-24 19:56:31] udpate price: 100090.KS, row: 21
+[2024-05-24 19:56:32] udpate price: 002840.KS, row: 21
+[2024-05-24 19:56:33] udpate price: 003030.KS, row: 21
+[2024-05-24 19:56:33] udpate price: 005180.KS, row: 21
+[2024-05-24 19:56:34] udpate price: 214320.KS, row: 21
+[2024-05-24 19:56:35] udpate price: 023590.KS, row: 21
+[2024-05-24 19:56:36] udpate price: 000815.KS, row: 21
+[2024-05-24 19:56:37] udpate price: 456040.KS, row: 21
+[2024-05-24 19:56:38] udpate price: 114090.KS, row: 21
+[2024-05-24 19:56:39] udpate price: 001430.KS, row: 21
+[2024-05-24 19:56:39] udpate price: 195870.KS, row: 21
+[2024-05-24 19:56:40] udpate price: 33637K.KS, row: 21
+[2024-05-24 19:56:41] udpate price: 082640.KS, row: 21
+[2024-05-24 19:56:42] udpate price: 348950.KS, row: 21
+[2024-05-24 19:56:43] udpate price: 330590.KS, row: 21
+[2024-05-24 19:56:43] udpate price: 090460.KS, row: 21
+[2024-05-24 19:56:44] udpate price: 268280.KS, row: 21
+[2024-05-24 19:56:45] udpate price: 069260.KS, row: 21
+[2024-05-24 19:56:46] udpate price: 281820.KS, row: 21
+[2024-05-24 19:56:47] udpate price: 014830.KS, row: 21
+[2024-05-24 19:56:47] udpate price: 192400.KS, row: 21
+[2024-05-24 19:56:48] udpate price: 178920.KS, row: 0
+[2024-05-24 19:56:49] udpate price: 003850.KS, row: 21
+[2024-05-24 19:56:49] udpate price: 009450.KS, row: 21
+[2024-05-24 19:56:50] udpate price: 025540.KS, row: 21
+[2024-05-24 19:56:51] udpate price: 064960.KS, row: 21
+[2024-05-24 19:56:52] udpate price: 001060.KS, row: 0
+[2024-05-24 19:56:53] udpate price: 016380.KS, row: 21
+[2024-05-24 19:56:53] udpate price: 030190.KS, row: 21
+[2024-05-24 19:56:54] udpate price: 192650.KS, row: 21
+[2024-05-24 19:56:55] udpate price: 057050.KS, row: 21
+[2024-05-24 19:56:56] udpate price: 161000.KS, row: 21
+[2024-05-24 19:56:57] udpate price: 344820.KS, row: 21
+[2024-05-24 19:56:58] udpate price: 272450.KS, row: 21
+[2024-05-24 19:56:59] udpate price: 018250.KS, row: 21
+[2024-05-24 19:56:59] udpate price: 031430.KS, row: 21
+[2024-05-24 19:57:00] udpate price: 001530.KS, row: 21
+[2024-05-24 19:57:01] udpate price: 000070.KS, row: 21
+[2024-05-24 19:57:02] udpate price: 003570.KS, row: 21
+[2024-05-24 19:57:03] udpate price: 000370.KS, row: 21
+[2024-05-24 19:57:03] udpate price: 007700.KS, row: 21
+[2024-05-24 19:57:04] udpate price: 090435.KS, row: 21
+[2024-05-24 19:57:05] udpate price: 002030.KS, row: 21
+[2024-05-24 19:57:06] udpate price: 002240.KS, row: 21
+[2024-05-24 19:57:07] udpate price: 003160.KS, row: 21
+[2024-05-24 19:57:07] udpate price: 170900.KS, row: 21
+[2024-05-24 19:57:08] udpate price: 145990.KS, row: 21
+[2024-05-24 19:57:09] udpate price: 383800.KS, row: 21
+[2024-05-24 19:57:10] udpate price: 460860.KS, row: 21
+[2024-05-24 19:57:11] udpate price: 284740.KS, row: 21
+[2024-05-24 19:57:11] udpate price: 001820.KS, row: 21
+[2024-05-24 19:57:12] udpate price: 200880.KS, row: 21
+[2024-05-24 19:57:13] udpate price: 104700.KS, row: 21
+[2024-05-24 19:57:14] udpate price: 016800.KS, row: 21
+[2024-05-24 19:57:15] udpate price: 009470.KS, row: 21
+[2024-05-24 19:57:16] udpate price: 026890.KS, row: 21
+[2024-05-24 19:57:17] udpate price: 286940.KS, row: 21
+[2024-05-24 19:57:17] udpate price: 432320.KS, row: 21
+[2024-05-24 19:57:18] udpate price: 071970.KS, row: 21
+[2024-05-24 19:57:19] udpate price: 093050.KS, row: 21
+[2024-05-24 19:57:20] udpate price: 000500.KS, row: 21
+[2024-05-24 19:57:21] udpate price: 020000.KS, row: 21
+[2024-05-24 19:57:22] udpate price: 357120.KS, row: 21
+[2024-05-24 19:57:23] udpate price: 005810.KS, row: 21
+[2024-05-24 19:57:23] udpate price: 097520.KS, row: 21
+[2024-05-24 19:57:24] udpate price: 003960.KS, row: 21
+[2024-05-24 19:57:25] udpate price: 003300.KS, row: 21
+[2024-05-24 19:57:26] udpate price: 058650.KS, row: 21
+[2024-05-24 19:57:27] udpate price: 453340.KS, row: 21
+[2024-05-24 19:57:28] udpate price: 033270.KS, row: 21
+[2024-05-24 19:57:28] udpate price: 006220.KS, row: 21
+[2024-05-24 19:57:29] udpate price: 051905.KS, row: 21
+[2024-05-24 19:57:30] udpate price: 448730.KS, row: 21
+[2024-05-24 19:57:31] udpate price: 036530.KS, row: 21
+[2024-05-24 19:57:31] udpate price: 034120.KS, row: 21
+[2024-05-24 19:57:32] udpate price: 006405.KS, row: 21
+[2024-05-24 19:57:33] udpate price: 029530.KS, row: 21
+[2024-05-24 19:57:34] udpate price: 003520.KS, row: 21
+[2024-05-24 19:57:35] udpate price: 123890.KS, row: 21
+[2024-05-24 19:57:36] udpate price: 002310.KS, row: 21
+[2024-05-24 19:57:37] udpate price: 126720.KS, row: 21
+[2024-05-24 19:57:37] udpate price: 451800.KS, row: 21
+[2024-05-24 19:57:38] udpate price: 001390.KS, row: 21
+[2024-05-24 19:57:39] udpate price: 226320.KS, row: 21
+[2024-05-24 19:57:40] udpate price: 025860.KS, row: 21
+[2024-05-24 19:57:41] udpate price: 009290.KS, row: 21
+[2024-05-24 19:57:42] udpate price: 027410.KS, row: 21
+[2024-05-24 19:57:42] udpate price: 001940.KS, row: 21
+[2024-05-24 19:57:43] udpate price: 004700.KS, row: 21
+[2024-05-24 19:57:44] udpate price: 00088K.KS, row: 21
+[2024-05-24 19:57:45] udpate price: 000430.KS, row: 21
+[2024-05-24 19:57:46] udpate price: 006340.KS, row: 21
+[2024-05-24 19:57:47] udpate price: 003220.KS, row: 21
+[2024-05-24 19:57:48] udpate price: 004430.KS, row: 21
+[2024-05-24 19:57:49] udpate price: 072710.KS, row: 21
+[2024-05-24 19:57:49] udpate price: 029460.KS, row: 21
+[2024-05-24 19:57:50] udpate price: 138490.KS, row: 21
+[2024-05-24 19:57:51] udpate price: 084010.KS, row: 21
+[2024-05-24 19:57:52] udpate price: 001630.KS, row: 21
+[2024-05-24 19:57:53] udpate price: 088260.KS, row: 21
+[2024-05-24 19:57:53] udpate price: 122900.KS, row: 21
+[2024-05-24 19:57:54] udpate price: 017390.KS, row: 21
+[2024-05-24 19:57:55] udpate price: 009680.KS, row: 21
+[2024-05-24 19:57:56] udpate price: 016580.KS, row: 21
+[2024-05-24 19:57:57] udpate price: 272550.KS, row: 21
+[2024-05-24 19:57:58] udpate price: 071055.KS, row: 21
+[2024-05-24 19:57:58] udpate price: 130660.KS, row: 21
+[2024-05-24 19:57:59] udpate price: 058430.KS, row: 21
+[2024-05-24 19:58:00] udpate price: 005500.KS, row: 21
+[2024-05-24 19:58:01] udpate price: 334890.KS, row: 21
+[2024-05-24 19:58:02] udpate price: 001230.KS, row: 21
+[2024-05-24 19:58:03] udpate price: 002150.KS, row: 21
+[2024-05-24 19:58:03] udpate price: 081000.KS, row: 21
+[2024-05-24 19:58:04] udpate price: 000540.KS, row: 21
+[2024-05-24 19:58:05] udpate price: 016590.KS, row: 21
+[2024-05-24 19:58:06] udpate price: 117580.KS, row: 21
+[2024-05-24 19:58:07] udpate price: 011500.KS, row: 21
+[2024-05-24 19:58:08] udpate price: 092230.KS, row: 21
+[2024-05-24 19:58:09] udpate price: 037270.KS, row: 21
+[2024-05-24 19:58:09] udpate price: 005010.KS, row: 21
+[2024-05-24 19:58:10] udpate price: 002810.KS, row: 21
+[2024-05-24 19:58:11] udpate price: 037710.KS, row: 21
+[2024-05-24 19:58:12] udpate price: 271980.KS, row: 21
+[2024-05-24 19:58:13] udpate price: 001460.KS, row: 21
+[2024-05-24 19:58:13] udpate price: 039570.KS, row: 21
+[2024-05-24 19:58:14] udpate price: 078520.KS, row: 21
+[2024-05-24 19:58:15] udpate price: 404990.KS, row: 21
+[2024-05-24 19:58:16] udpate price: 000390.KS, row: 21
+[2024-05-24 19:58:17] udpate price: 004360.KS, row: 21
+[2024-05-24 19:58:17] udpate price: 001130.KS, row: 21
+[2024-05-24 19:58:18] udpate price: 000020.KS, row: 21
+[2024-05-24 19:58:19] udpate price: 339770.KS, row: 21
+[2024-05-24 19:58:20] udpate price: 102260.KS, row: 21
+[2024-05-24 19:58:21] udpate price: 025000.KS, row: 21
+[2024-05-24 19:58:22] udpate price: 015860.KS, row: 21
+[2024-05-24 19:58:22] udpate price: 071840.KS, row: 21
+[2024-05-24 19:58:23] udpate price: 005430.KS, row: 21
+[2024-05-24 19:58:24] udpate price: 009155.KS, row: 21
+[2024-05-24 19:58:25] udpate price: 107590.KS, row: 21
+[2024-05-24 19:58:26] udpate price: 109070.KS, row: 21
+[2024-05-24 19:58:27] udpate price: 001520.KS, row: 21
+[2024-05-24 19:58:27] udpate price: 007860.KS, row: 21
+[2024-05-24 19:58:28] udpate price: 008060.KS, row: 21
+[2024-05-24 19:58:29] udpate price: 012320.KS, row: 21
+[2024-05-24 19:58:30] udpate price: 100840.KS, row: 21
+[2024-05-24 19:58:31] udpate price: 460850.KS, row: 21
+[2024-05-24 19:58:32] udpate price: 011785.KS, row: 21
+[2024-05-24 19:58:33] udpate price: 417310.KS, row: 21
+[2024-05-24 19:58:34] udpate price: 003200.KS, row: 21
+[2024-05-24 19:58:34] udpate price: 083420.KS, row: 21
+[2024-05-24 19:58:35] udpate price: 005680.KS, row: 21
+[2024-05-24 19:58:36] udpate price: 002100.KS, row: 21
+[2024-05-24 19:58:37] udpate price: 001080.KS, row: 21
+[2024-05-24 19:58:38] udpate price: 234080.KS, row: 21
+[2024-05-24 19:58:38] udpate price: 090350.KS, row: 21
+[2024-05-24 19:58:39] udpate price: 011280.KS, row: 21
+[2024-05-24 19:58:40] udpate price: 004250.KS, row: 21
+[2024-05-24 19:58:41] udpate price: 035510.KS, row: 21
+[2024-05-24 19:58:42] udpate price: 007160.KS, row: 21
+[2024-05-24 19:58:42] udpate price: 105840.KS, row: 21
+[2024-05-24 19:58:43] udpate price: 015230.KS, row: 21
+[2024-05-24 19:58:44] udpate price: 028100.KS, row: 21
+[2024-05-24 19:58:45] udpate price: 100250.KS, row: 21
+[2024-05-24 19:58:46] udpate price: 003555.KS, row: 21
+[2024-05-24 19:58:46] udpate price: 068290.KS, row: 21
+[2024-05-24 19:58:47] udpate price: 004090.KS, row: 21
+[2024-05-24 19:58:48] udpate price: 011150.KS, row: 21
+[2024-05-24 19:58:49] udpate price: 214390.KS, row: 21
+[2024-05-24 19:58:50] udpate price: 015890.KS, row: 21
+[2024-05-24 19:58:51] udpate price: 000860.KS, row: 21
+[2024-05-24 19:58:51] udpate price: 053690.KS, row: 21
+[2024-05-24 19:58:52] udpate price: 134380.KS, row: 21
+[2024-05-24 19:58:53] udpate price: 282690.KS, row: 21
+[2024-05-24 19:58:54] udpate price: 010580.KS, row: 21
+[2024-05-24 19:58:55] udpate price: 000320.KS, row: 21
+[2024-05-24 19:58:56] udpate price: 004970.KS, row: 21
+[2024-05-24 19:58:57] udpate price: 317400.KS, row: 21
+[2024-05-24 19:58:58] udpate price: 006890.KS, row: 21
+[2024-05-24 19:58:58] udpate price: 008110.KS, row: 21
+[2024-05-24 19:58:59] udpate price: 00279K.KS, row: 21
+[2024-05-24 19:59:00] udpate price: 014580.KS, row: 21
+[2024-05-24 19:59:01] udpate price: 033920.KS, row: 21
+[2024-05-24 19:59:02] udpate price: 123690.KS, row: 21
+[2024-05-24 19:59:02] udpate price: 02826K.KS, row: 21
+[2024-05-24 19:59:03] udpate price: 024900.KS, row: 21
+[2024-05-24 19:59:04] udpate price: 007540.KS, row: 21
+[2024-05-24 19:59:05] udpate price: 400760.KS, row: 21
+[2024-05-24 19:59:06] udpate price: 070960.KS, row: 21
+[2024-05-24 19:59:06] udpate price: 372910.KS, row: 21
+[2024-05-24 19:59:07] udpate price: 013570.KS, row: 21
+[2024-05-24 19:59:08] udpate price: 000970.KS, row: 21
+[2024-05-24 19:59:09] udpate price: 001020.KS, row: 21
+[2024-05-24 19:59:10] udpate price: 003830.KS, row: 21
+[2024-05-24 19:59:11] udpate price: 002170.KS, row: 21
+[2024-05-24 19:59:11] udpate price: 000700.KS, row: 21
+[2024-05-24 19:59:12] udpate price: 010100.KS, row: 21
+[2024-05-24 19:59:13] udpate price: 077500.KS, row: 21
+[2024-05-24 19:59:14] udpate price: 210540.KS, row: 21
+[2024-05-24 19:59:15] udpate price: 248170.KS, row: 21
+[2024-05-24 19:59:16] udpate price: 007210.KS, row: 21
+[2024-05-24 19:59:16] udpate price: 058850.KS, row: 21
+[2024-05-24 19:59:17] udpate price: 008700.KS, row: 21
+[2024-05-24 19:59:18] udpate price: 003650.KS, row: 21
+[2024-05-24 19:59:19] udpate price: 004080.KS, row: 21
+[2024-05-24 19:59:20] udpate price: 014160.KS, row: 21
+[2024-05-24 19:59:21] udpate price: 089470.KS, row: 21
+[2024-05-24 19:59:21] udpate price: 004830.KS, row: 21
+[2024-05-24 19:59:22] udpate price: 017550.KS, row: 21
+[2024-05-24 19:59:23] udpate price: 003460.KS, row: 21
+[2024-05-24 19:59:24] udpate price: 024090.KS, row: 21
+[2024-05-24 19:59:25] udpate price: 396690.KS, row: 21
+[2024-05-24 19:59:25] udpate price: 350520.KS, row: 21
+[2024-05-24 19:59:26] udpate price: 055490.KS, row: 21
+[2024-05-24 19:59:27] udpate price: 002700.KS, row: 21
+[2024-05-24 19:59:28] udpate price: 120030.KS, row: 21
+[2024-05-24 19:59:29] udpate price: 016740.KS, row: 21
+[2024-05-24 19:59:30] udpate price: 004310.KS, row: 21
+[2024-05-24 19:59:31] udpate price: 004150.KS, row: 21
+[2024-05-24 19:59:31] udpate price: 032560.KS, row: 21
+[2024-05-24 19:59:32] udpate price: 267290.KS, row: 21
+[2024-05-24 19:59:33] udpate price: 034590.KS, row: 21
+[2024-05-24 19:59:34] udpate price: 023000.KS, row: 21
+[2024-05-24 19:59:35] udpate price: 004840.KS, row: 21
+[2024-05-24 19:59:36] udpate price: 264900.KS, row: 21
+[2024-05-24 19:59:36] udpate price: 035000.KS, row: 21
+[2024-05-24 19:59:37] udpate price: 163560.KS, row: 21
+[2024-05-24 19:59:38] udpate price: 002200.KS, row: 21
+[2024-05-24 19:59:39] udpate price: 227840.KS, row: 21
+[2024-05-24 19:59:40] udpate price: 017040.KS, row: 21
+[2024-05-24 19:59:41] udpate price: 078000.KS, row: 21
+[2024-05-24 19:59:42] udpate price: 058860.KS, row: 21
+[2024-05-24 19:59:42] udpate price: 004720.KS, row: 21
+[2024-05-24 19:59:43] udpate price: 067830.KS, row: 21
+[2024-05-24 19:59:44] udpate price: 101140.KS, row: 21
+[2024-05-24 19:59:45] udpate price: 244920.KS, row: 21
+[2024-05-24 19:59:46] udpate price: 005740.KS, row: 21
+[2024-05-24 19:59:46] udpate price: 006090.KS, row: 21
+[2024-05-24 19:59:47] udpate price: 001560.KS, row: 21
+[2024-05-24 19:59:48] udpate price: 016090.KS, row: 21
+[2024-05-24 19:59:49] udpate price: 092440.KS, row: 21
+[2024-05-24 19:59:50] udpate price: 010960.KS, row: 21
+[2024-05-24 19:59:51] udpate price: 007590.KS, row: 21
+[2024-05-24 19:59:52] udpate price: 010660.KS, row: 21
+[2024-05-24 19:59:53] udpate price: 003780.KS, row: 21
+[2024-05-24 19:59:53] udpate price: 021820.KS, row: 21
+[2024-05-24 19:59:54] udpate price: 005800.KS, row: 21
+[2024-05-24 19:59:55] udpate price: 338100.KS, row: 21
+[2024-05-24 19:59:56] udpate price: 031820.KS, row: 21
+[2024-05-24 19:59:56] udpate price: 357250.KS, row: 21
+[2024-05-24 19:59:57] udpate price: 002795.KS, row: 21
+[2024-05-24 19:59:58] udpate price: 001380.KS, row: 21
+[2024-05-24 19:59:59] udpate price: 007110.KS, row: 21
+[2024-05-24 20:00:00] udpate price: 357430.KS, row: 21
+[2024-05-24 20:00:00] udpate price: 009180.KS, row: 21
+[2024-05-24 20:00:01] udpate price: 000590.KS, row: 21
+[2024-05-24 20:00:02] udpate price: 071090.KS, row: 21
+[2024-05-24 20:00:03] udpate price: 075180.KS, row: 21
+[2024-05-24 20:00:04] udpate price: 014440.KS, row: 21
+[2024-05-24 20:00:05] udpate price: 000105.KS, row: 21
+[2024-05-24 20:00:06] udpate price: 006660.KS, row: 21
+[2024-05-24 20:00:06] udpate price: 004770.KS, row: 21
+[2024-05-24 20:00:07] udpate price: 002760.KS, row: 21
+[2024-05-24 20:00:08] udpate price: 002920.KS, row: 21
+[2024-05-24 20:00:09] udpate price: 155660.KS, row: 21
+[2024-05-24 20:00:10] udpate price: 129260.KS, row: 21
+[2024-05-24 20:00:11] udpate price: 000850.KS, row: 21
+[2024-05-24 20:00:11] udpate price: 010640.KS, row: 21
+[2024-05-24 20:00:12] udpate price: 002220.KS, row: 21
+[2024-05-24 20:00:13] udpate price: 009770.KS, row: 21
+[2024-05-24 20:00:14] udpate price: 009320.KS, row: 21
+[2024-05-24 20:00:14] udpate price: 001260.KS, row: 21
+[2024-05-24 20:00:15] udpate price: 026940.KS, row: 21
+[2024-05-24 20:00:16] udpate price: 003080.KS, row: 21
+[2024-05-24 20:00:17] udpate price: 069730.KS, row: 21
+[2024-05-24 20:00:18] udpate price: 011390.KS, row: 21
+[2024-05-24 20:00:18] udpate price: 008420.KS, row: 21
+[2024-05-24 20:00:19] udpate price: 023350.KS, row: 21
+[2024-05-24 20:00:20] udpate price: 465770.KS, row: 21
+[2024-05-24 20:00:21] udpate price: 004440.KS, row: 21
+[2024-05-24 20:00:22] udpate price: 025530.KS, row: 21
+[2024-05-24 20:00:23] udpate price: 28513K.KS, row: 21
+[2024-05-24 20:00:23] udpate price: 123700.KS, row: 21
+[2024-05-24 20:00:24] udpate price: 134790.KS, row: 21
+[2024-05-24 20:00:25] udpate price: 000725.KS, row: 21
+[2024-05-24 20:00:26] udpate price: 37550L.KS, row: 21
+[2024-05-24 20:00:27] udpate price: 145270.KS, row: 21
+[2024-05-24 20:00:28] udpate price: 072130.KS, row: 21
+[2024-05-24 20:00:29] udpate price: 005820.KS, row: 21
+[2024-05-24 20:00:30] udpate price: 013000.KS, row: 21
+[2024-05-24 20:00:30] udpate price: 009140.KS, row: 21
+[2024-05-24 20:00:31] udpate price: 003465.KS, row: 21
+[2024-05-24 20:00:32] udpate price: 37550K.KS, row: 21
+[2024-05-24 20:00:33] udpate price: 093240.KS, row: 21
+[2024-05-24 20:00:34] udpate price: 010400.KS, row: 21
+[2024-05-24 20:00:35] udpate price: 001465.KS, row: 21
+[2024-05-24 20:00:35] udpate price: 084870.KS, row: 21
+[2024-05-24 20:00:36] udpate price: 000300.KS, row: 21
+[2024-05-24 20:00:37] udpate price: 088790.KS, row: 21
+[2024-05-24 20:00:38] udpate price: 204210.KS, row: 21
+[2024-05-24 20:00:39] udpate price: 004365.KS, row: 21
+[2024-05-24 20:00:39] udpate price: 025890.KS, row: 21
+[2024-05-24 20:00:40] udpate price: 35320K.KS, row: 21
+[2024-05-24 20:00:41] udpate price: 004835.KS, row: 21
+[2024-05-24 20:00:42] udpate price: 006345.KS, row: 21
+[2024-05-24 20:00:43] udpate price: 000075.KS, row: 21
+[2024-05-24 20:00:43] udpate price: 004255.KS, row: 21
+[2024-05-24 20:00:44] udpate price: 000885.KS, row: 21
+[2024-05-24 20:00:45] udpate price: 38380K.KS, row: 21
+[2024-05-24 20:00:46] udpate price: 18064K.KS, row: 21
+[2024-05-24 20:00:47] udpate price: 145995.KS, row: 21
+[2024-05-24 20:00:47] udpate price: 000325.KS, row: 21
+[2024-05-24 20:00:48] udpate price: 00806K.KS, row: 21
+[2024-05-24 20:00:49] udpate price: 26490K.KS, row: 21
+[2024-05-24 20:00:50] udpate price: 090355.KS, row: 21
+[2024-05-24 20:00:51] udpate price: 005745.KS, row: 21
+[2024-05-24 20:00:52] udpate price: 000545.KS, row: 21
+[2024-05-24 20:00:52] udpate price: 011155.KS, row: 21
+[2024-05-24 20:00:53] udpate price: 001527.KS, row: 21
+[2024-05-24 20:00:54] udpate price: 001525.KS, row: 21
+[2024-05-24 20:00:55] udpate price: MCAAU, row: 24
+[2024-05-24 20:00:56] udpate price: WYNN, row: 24
+[2024-05-24 20:00:57] udpate price: GODNR, row: 1
+[2024-05-24 20:00:58] udpate price: MCACR, row: 0
+[2024-05-24 20:00:58] udpate price: GNTX, row: 24
+[2024-05-24 20:00:59] udpate price: AAL, row: 24
+[2024-05-24 20:01:00] udpate price: EWBC, row: 24
+[2024-05-24 20:01:01] udpate price: BLEUU, row: 24
+[2024-05-24 20:01:02] udpate price: MTCH, row: 24
+[2024-05-24 20:01:02] udpate price: PAA, row: 24
+[2024-05-24 20:01:03] udpate price: FUTU, row: 24
+[2024-05-24 20:01:04] udpate price: DJT, row: 24
+[2024-05-24 20:01:05] udpate price: CHK, row: 0
+[2024-05-24 20:01:05] udpate price: JVSAR, row: 0
+[2024-05-24 20:01:05] udpate price: JD, row: 24
+[2024-05-24 20:01:06] udpate price: IMAQR, row: 0
+[2024-05-24 20:01:06] udpate price: KHC, row: 24
+[2024-05-24 20:01:07] udpate price: BIDU, row: 24
+[2024-05-24 20:01:08] udpate price: CTSH, row: 24
+[2024-05-24 20:01:09] udpate price: BKR, row: 24
+[2024-05-24 20:01:10] udpate price: TROW, row: 24
+[2024-05-24 20:01:11] udpate price: FITB, row: 24
+[2024-05-24 20:01:11] udpate price: HBAN, row: 24
+[2024-05-24 20:01:12] udpate price: PFG, row: 0
+[2024-05-24 20:01:13] udpate price: NTRS, row: 24
+[2024-05-24 20:01:14] udpate price: SWKS, row: 24
+[2024-05-24 20:01:14] udpate price: INCY, row: 24
+[2024-05-24 20:01:15] udpate price: SIRI, row: 24
+[2024-05-24 20:01:16] udpate price: DOX, row: 24
+[2024-05-24 20:01:17] udpate price: BRKHU, row: 24
+[2024-05-24 20:01:18] udpate price: DBX, row: 24
+[2024-05-24 20:01:19] udpate price: UFPI, row: 24
+[2024-05-24 20:01:20] udpate price: CBSH, row: 24
+[2024-05-24 20:01:21] udpate price: VNOM, row: 24
+[2024-05-24 20:01:21] udpate price: BPOP, row: 24
+[2024-05-24 20:01:22] udpate price: ZION, row: 24
+[2024-05-24 20:01:23] udpate price: CLOER, row: 0
+[2024-05-24 20:01:24] udpate price: LBRDK, row: 24
+[2024-05-24 20:01:24] udpate price: PNFP, row: 24
+[2024-05-24 20:01:25] udpate price: CYTK, row: 24
+[2024-05-24 20:01:26] udpate price: WTFC, row: 24
+[2024-05-24 20:01:27] udpate price: BOKF, row: 24
+[2024-05-24 20:01:28] udpate price: SIGI, row: 24
+[2024-05-24 20:01:28] udpate price: ONB, row: 24
+[2024-05-24 20:01:29] udpate price: OZK, row: 24
+[2024-05-24 20:01:30] udpate price: ACT, row: 24
+[2024-05-24 20:01:31] udpate price: IBRX, row: 24
+[2024-05-24 20:01:32] udpate price: UBSI, row: 24
+[2024-05-24 20:01:33] udpate price: STNE, row: 0
+[2024-05-24 20:01:33] udpate price: PTEN, row: 24
+[2024-05-24 20:01:34] udpate price: ALVO, row: 24
+[2024-05-24 20:01:35] udpate price: UMBF, row: 24
+[2024-05-24 20:01:35] udpate price: HWC, row: 24
+[2024-05-24 20:01:36] udpate price: COLB, row: 24
+[2024-05-24 20:01:37] udpate price: GGAL, row: 24
+[2024-05-24 20:01:38] udpate price: VLY, row: 24
+[2024-05-24 20:01:39] udpate price: SANM, row: 24
+[2024-05-24 20:01:40] udpate price: URBN, row: 24
+[2024-05-24 20:01:40] udpate price: IBOC, row: 24
+[2024-05-24 20:01:41] udpate price: DIOD, row: 24
+[2024-05-24 20:01:42] udpate price: ABCB, row: 24
+[2024-05-24 20:01:43] udpate price: PLTK, row: 24
+[2024-05-24 20:01:44] udpate price: UCBI, row: 24
+[2024-05-24 20:01:45] udpate price: FULT, row: 24
+[2024-05-24 20:01:45] udpate price: CVCO, row: 24
+[2024-05-24 20:01:46] udpate price: BANF, row: 24
+[2024-05-24 20:01:47] udpate price: CALM, row: 24
+[2024-05-24 20:01:48] udpate price: FIBK, row: 24
+[2024-05-24 20:01:49] udpate price: DORM, row: 0
+[2024-05-24 20:01:49] udpate price: TCBI, row: 24
+[2024-05-24 20:01:50] udpate price: FHB, row: 24
+[2024-05-24 20:01:51] udpate price: CATY, row: 24
+[2024-05-24 20:01:52] udpate price: WSFS, row: 24
+[2024-05-24 20:01:53] udpate price: HUBG, row: 24
+[2024-05-24 20:01:53] udpate price: NMIH, row: 24
+[2024-05-24 20:01:54] udpate price: CSQ, row: 24
+[2024-05-24 20:01:55] udpate price: LLYVK, row: 24
+[2024-05-24 20:01:56] udpate price: HELE, row: 24
+[2024-05-24 20:01:56] udpate price: PSEC, row: 24
+[2024-05-24 20:01:57] udpate price: CVBF, row: 24
+[2024-05-24 20:01:58] udpate price: WAFD, row: 24
+[2024-05-24 20:01:59] udpate price: INDB, row: 24
+[2024-05-24 20:02:00] udpate price: SFNC, row: 24
+[2024-05-24 20:02:01] udpate price: ROCK, row: 24
+[2024-05-24 20:02:02] udpate price: FFBC, row: 24
+[2024-05-24 20:02:02] udpate price: PLUS, row: 24
+[2024-05-24 20:02:03] udpate price: TOWN, row: 24
+[2024-05-24 20:02:04] udpate price: SBCF, row: 24
+[2024-05-24 20:02:05] udpate price: GTX, row: 24
+[2024-05-24 20:02:06] udpate price: FRME, row: 24
+[2024-05-24 20:02:07] udpate price: YY, row: 24
+[2024-05-24 20:02:07] udpate price: MBIN, row: 24
+[2024-05-24 20:02:08] udpate price: TRMK, row: 24
+[2024-05-24 20:02:09] udpate price: NBTB, row: 24
+[2024-05-24 20:02:10] udpate price: NWLI, row: 24
+[2024-05-24 20:02:11] udpate price: ANDE, row: 24
+[2024-05-24 20:02:11] udpate price: CVIIU, row: 24
+[2024-05-24 20:02:12] udpate price: MGPI, row: 24
+[2024-05-24 20:02:13] udpate price: WSBC, row: 24
+[2024-05-24 20:02:14] udpate price: PLAB, row: 24
+[2024-05-24 20:02:15] udpate price: BANR, row: 24
+[2024-05-24 20:02:16] udpate price: LKFN, row: 24
+[2024-05-24 20:02:16] udpate price: CHCO, row: 24
+[2024-05-24 20:02:17] udpate price: AMWD, row: 24
+[2024-05-24 20:02:18] udpate price: EFSC, row: 24
+[2024-05-24 20:02:19] udpate price: SKWD, row: 24
+[2024-05-24 20:02:20] udpate price: NWBI, row: 24
+[2024-05-24 20:02:21] udpate price: IMKTA, row: 24
+[2024-05-24 20:02:21] udpate price: SYBT, row: 24
+[2024-05-24 20:02:22] udpate price: HOLI, row: 24
+[2024-05-24 20:02:23] udpate price: FBNC, row: 24
+[2024-05-24 20:02:24] udpate price: BUSE, row: 24
+[2024-05-24 20:02:25] udpate price: HOPE, row: 24
+[2024-05-24 20:02:26] udpate price: SRCE, row: 24
+[2024-05-24 20:02:27] udpate price: STBA, row: 24
+[2024-05-24 20:02:27] udpate price: GIII, row: 24
+[2024-05-24 20:02:28] udpate price: SCSC, row: 24
+[2024-05-24 20:02:29] udpate price: FORTY, row: 24
+[2024-05-24 20:02:30] udpate price: MCRI, row: 24
+[2024-05-24 20:02:31] udpate price: OPRA, row: 24
+[2024-05-24 20:02:31] udpate price: GSM, row: 24
+[2024-05-24 20:02:32] udpate price: PEBO, row: 24
+[2024-05-24 20:02:33] udpate price: LLYVA, row: 24
+[2024-05-24 20:02:34] udpate price: GABC, row: 24
+[2024-05-24 20:02:35] udpate price: GHIXU, row: 24
+[2024-05-24 20:02:36] udpate price: HCSG, row: 0
+[2024-05-24 20:02:36] udpate price: BFC, row: 24
+[2024-05-24 20:02:37] udpate price: EMBC, row: 24
+[2024-05-24 20:02:38] udpate price: FMBH, row: 24
+[2024-05-24 20:02:39] udpate price: DCOM, row: 24
+[2024-05-24 20:02:40] udpate price: HSII, row: 24
+[2024-05-24 20:02:41] udpate price: KELYA, row: 0
+[2024-05-24 20:02:41] udpate price: UVSP, row: 24
+[2024-05-24 20:02:42] udpate price: HFWA, row: 24
+[2024-05-24 20:02:43] udpate price: PLPC, row: 24
+[2024-05-24 20:02:43] udpate price: MBWM, row: 24
+[2024-05-24 20:02:44] udpate price: EGBN, row: 24
+[2024-05-24 20:02:45] udpate price: PHAT, row: 24
+[2024-05-24 20:02:46] udpate price: VINP, row: 24
+[2024-05-24 20:02:47] udpate price: ACTG, row: 24
+[2024-05-24 20:02:48] udpate price: PERI, row: 0
+[2024-05-24 20:02:48] udpate price: CMPO, row: 24
+[2024-05-24 20:02:49] udpate price: MGIC, row: 24
+[2024-05-24 20:02:50] udpate price: CAC, row: 24
+[2024-05-24 20:02:50] udpate price: FMNB, row: 24
+[2024-05-24 20:02:51] udpate price: CCBG, row: 24
+[2024-05-24 20:02:52] udpate price: LYTS, row: 24
+[2024-05-24 20:02:53] udpate price: SPFI, row: 24
+[2024-05-24 20:02:54] udpate price: FFIC, row: 24
+[2024-05-24 20:02:55] udpate price: RGP, row: 24
+[2024-05-24 20:02:56] udpate price: DENN, row: 0
+[2024-05-24 20:02:56] udpate price: CHSCP, row: 24
+[2024-05-24 20:02:57] udpate price: QTTB, row: 24
+[2024-05-24 20:02:58] udpate price: MOFG, row: 24
+[2024-05-24 20:02:58] udpate price: RRBI, row: 24
+[2024-05-24 20:02:59] udpate price: CWBC, row: 24
+[2024-05-24 20:03:00] udpate price: ACABU, row: 24
+[2024-05-24 20:03:01] udpate price: FRBA, row: 24
+[2024-05-24 20:03:02] udpate price: HBCP, row: 24
+[2024-05-24 20:03:03] udpate price: GILT, row: 24
+[2024-05-24 20:03:04] udpate price: TCBX, row: 24
+[2024-05-24 20:03:04] udpate price: NRIM, row: 24
+[2024-05-24 20:03:05] udpate price: GAMB, row: 24
+[2024-05-24 20:03:06] udpate price: NATR, row: 0
+[2024-05-24 20:03:07] udpate price: FISI, row: 24
+[2024-05-24 20:03:08] udpate price: FBIZ, row: 24
+[2024-05-24 20:03:09] udpate price: WEYS, row: 24
+[2024-05-24 20:03:10] udpate price: IVCAU, row: 24
+[2024-05-24 20:03:10] udpate price: BSVN, row: 24
+[2024-05-24 20:03:11] udpate price: FDBC, row: 24
+[2024-05-24 20:03:12] udpate price: TLSI, row: 24
+[2024-05-24 20:03:13] udpate price: PBFS, row: 24
+[2024-05-24 20:03:14] udpate price: QDROU, row: 24
+[2024-05-24 20:03:14] udpate price: GASS, row: 0
+[2024-05-24 20:03:15] udpate price: AEAEU, row: 24
+[2024-05-24 20:03:16] udpate price: CMCAU, row: 24
+[2024-05-24 20:03:16] udpate price: VBNK, row: 24
+[2024-05-24 20:03:17] udpate price: CIVB, row: 24
+[2024-05-24 20:03:18] udpate price: HLXB, row: 0
+[2024-05-24 20:03:18] udpate price: FUND, row: 24
+[2024-05-24 20:03:19] udpate price: IXAQU, row: 24
+[2024-05-24 20:03:20] udpate price: CNGLU, row: 24
+[2024-05-24 20:03:21] udpate price: SVIIU, row: 24
+[2024-05-24 20:03:22] udpate price: PCB, row: 24
+[2024-05-24 20:03:23] udpate price: PTWOU, row: 24
+[2024-05-24 20:03:24] udpate price: JAKK, row: 0
+[2024-05-24 20:03:24] udpate price: COFS, row: 24
+[2024-05-24 20:03:25] udpate price: APXIU, row: 24
+[2024-05-24 20:03:26] udpate price: OVLY, row: 0
+[2024-05-24 20:03:26] udpate price: BWFG, row: 24
+[2024-05-24 20:03:27] udpate price: KNDI, row: 24
+[2024-05-24 20:03:28] udpate price: ATLO, row: 24
+[2024-05-24 20:03:29] udpate price: ESCA, row: 24
+[2024-05-24 20:03:30] udpate price: NBSTU, row: 24
+[2024-05-24 20:03:31] udpate price: OTLK, row: 24
+[2024-05-24 20:03:32] udpate price: STI, row: 24
+[2024-05-24 20:03:32] udpate price: BRACR, row: 0
+[2024-05-24 20:03:33] udpate price: CLOEU, row: 24
+[2024-05-24 20:03:34] udpate price: PVBC, row: 24
+[2024-05-24 20:03:34] udpate price: SFWL, row: 24
+[2024-05-24 20:03:35] udpate price: GLLIU, row: 24
+[2024-05-24 20:03:36] udpate price: PWOD, row: 24
+[2024-05-24 20:03:37] udpate price: PROP, row: 24
+[2024-05-24 20:03:38] udpate price: ISRLU, row: 24
+[2024-05-24 20:03:38] udpate price: TETEU, row: 24
+[2024-05-24 20:03:39] udpate price: ORGN, row: 0
+[2024-05-24 20:03:40] udpate price: ISRL, row: 24
+[2024-05-24 20:03:41] udpate price: MNSB, row: 24
+[2024-05-24 20:03:41] udpate price: GODNU, row: 24
+[2024-05-24 20:03:42] udpate price: FINW, row: 24
+[2024-05-24 20:03:43] udpate price: GEOS, row: 24
+[2024-05-24 20:03:44] udpate price: RMBI, row: 24
+[2024-05-24 20:03:45] udpate price: MACAU, row: 24
+[2024-05-24 20:03:46] udpate price: NOVVR, row: 0
+[2024-05-24 20:03:46] udpate price: BANX, row: 24
+[2024-05-24 20:03:47] udpate price: ALSAU, row: 24
+[2024-05-24 20:03:48] udpate price: YOTAU, row: 24
+[2024-05-24 20:03:48] udpate price: TVGN, row: 24
+[2024-05-24 20:03:49] udpate price: XNET, row: 24
+[2024-05-24 20:03:50] udpate price: SGA, row: 24
+[2024-05-24 20:03:51] udpate price: EVGRU, row: 24
+[2024-05-24 20:03:51] udpate price: BRACU, row: 24
+[2024-05-24 20:03:52] udpate price: WINVU, row: 24
+[2024-05-24 20:03:53] udpate price: FRAF, row: 24
+[2024-05-24 20:03:54] udpate price: CZWI, row: 24
+[2024-05-24 20:03:54] udpate price: MSBIP, row: 24
+[2024-05-24 20:03:55] udpate price: COOL, row: 24
+[2024-05-24 20:03:56] udpate price: EMCGU, row: 24
+[2024-05-24 20:03:57] udpate price: KGEI, row: 24
+[2024-05-24 20:03:58] udpate price: CBAT, row: 0
+[2024-05-24 20:03:58] udpate price: CITE, row: 0
+[2024-05-24 20:03:58] udpate price: UNB, row: 24
+[2024-05-24 20:03:59] udpate price: LARK, row: 24
+[2024-05-24 20:04:00] udpate price: MCAC, row: 24
+[2024-05-24 20:04:01] udpate price: GPAC, row: 0
+[2024-05-24 20:04:01] udpate price: CLSD, row: 24
+[2024-05-24 20:04:02] udpate price: FXNC, row: 24
+[2024-05-24 20:04:03] udpate price: UCBIO, row: 24
+[2024-05-24 20:04:04] udpate price: SBFG, row: 24
+[2024-05-24 20:04:05] udpate price: AFJK, row: 24
+[2024-05-24 20:04:05] udpate price: BKHAU, row: 0
+[2024-05-24 20:04:06] udpate price: HHGCU, row: 24
+[2024-05-24 20:04:07] udpate price: BWAQU, row: 24
+[2024-05-24 20:04:08] udpate price: VTVT, row: 24
+[2024-05-24 20:04:09] udpate price: FIAC, row: 24
+[2024-05-24 20:04:09] udpate price: AACI, row: 24
+[2024-05-24 20:04:10] udpate price: WTMAU, row: 24
+[2024-05-24 20:04:11] udpate price: AITR, row: 24
+[2024-05-24 20:04:12] udpate price: NNAGU, row: 24
+[2024-05-24 20:04:13] udpate price: BOWNU, row: 24
+[2024-05-24 20:04:13] udpate price: OCAX, row: 24
+[2024-05-24 20:04:14] udpate price: PTWO, row: 24
+[2024-05-24 20:04:15] udpate price: CJET, row: 0
+[2024-05-24 20:04:15] udpate price: LSBK, row: 24
+[2024-05-24 20:04:16] udpate price: ATMCU, row: 24
+[2024-05-24 20:04:17] udpate price: ACBAU, row: 24
+[2024-05-24 20:04:18] udpate price: IROHU, row: 24
+[2024-05-24 20:04:18] udpate price: MAQC, row: 24
+[2024-05-24 20:04:19] udpate price: CLOE, row: 24
+[2024-05-24 20:04:20] udpate price: OAKU, row: 24
+[2024-05-24 20:04:21] udpate price: DHAI, row: 0
+[2024-05-24 20:04:21] udpate price: GDSTU, row: 24
+[2024-05-24 20:04:22] udpate price: SSBI, row: 24
+[2024-05-24 20:04:23] udpate price: AFJKU, row: 24
+[2024-05-24 20:04:24] udpate price: AQUNU, row: 24
+[2024-05-24 20:04:25] udpate price: JVSAU, row: 24
+[2024-05-24 20:04:25] udpate price: QOMOU, row: 24
+[2024-05-24 20:04:26] udpate price: PBHC, row: 24
+[2024-05-24 20:04:27] udpate price: RFACR, row: 0
+[2024-05-24 20:04:28] udpate price: CRWS, row: 24
+[2024-05-24 20:04:28] udpate price: OCEA, row: 24
+[2024-05-24 20:04:29] udpate price: CLRC, row: 0
+[2024-05-24 20:04:30] udpate price: SEPA, row: 24
+[2024-05-24 20:04:30] udpate price: HHGCR, row: 0
+[2024-05-24 20:04:31] udpate price: BWBBP, row: 24
+[2024-05-24 20:04:32] udpate price: DHAC, row: 24
+[2024-05-24 20:04:32] udpate price: ICCH, row: 24
+[2024-05-24 20:04:33] udpate price: WINV, row: 24
+[2024-05-24 20:04:34] udpate price: MCAG, row: 24
+[2024-05-24 20:04:35] udpate price: ACBA, row: 24
+[2024-05-24 20:04:35] udpate price: CPBI, row: 24
+[2024-05-24 20:04:36] udpate price: BCLI, row: 24
+[2024-05-24 20:04:37] udpate price: DSWL, row: 24
+[2024-05-24 20:04:38] udpate price: INKT, row: 24
+[2024-05-24 20:04:39] udpate price: MCAGR, row: 0
+[2024-05-24 20:04:39] udpate price: ICU, row: 24
+[2024-05-24 20:04:40] udpate price: APWC, row: 24
+[2024-05-24 20:04:41] udpate price: FGBIP, row: 24
+[2024-05-24 20:04:41] udpate price: PRST, row: 24
+[2024-05-24 20:04:42] udpate price: BCTX, row: 24
+[2024-05-24 20:04:43] udpate price: MNSBP, row: 24
+[2024-05-24 20:04:44] udpate price: TAIT, row: 24
+[2024-05-24 20:04:45] udpate price: NERV, row: 24
+[2024-05-24 20:04:46] udpate price: NBST, row: 24
+[2024-05-24 20:04:46] udpate price: AVTX, row: 24
+[2024-05-24 20:04:47] udpate price: HGAS, row: 24
+[2024-05-24 20:04:48] udpate price: SCNI, row: 24
+[2024-05-24 20:04:49] udpate price: GPAK, row: 24
+[2024-05-24 20:04:50] udpate price: VLCN, row: 24
+[2024-05-24 20:04:51] udpate price: AWIN, row: 24
+[2024-05-24 20:04:52] udpate price: OPINL, row: 24
+[2024-05-24 20:04:52] udpate price: JCSE, row: 0
+[2024-05-24 20:04:53] udpate price: SXTP, row: 24
+[2024-05-24 20:04:54] udpate price: NVACR, row: 1
+[2024-05-24 20:04:54] udpate price: ASCBR, row: 0
+[2024-05-24 20:04:55] udpate price: MSSAR, row: 0
+[2024-05-24 20:04:55] udpate price: RWODR, row: 1
+[2024-05-24 20:04:56] udpate price: FLFVR, row: 1
+[2024-05-24 20:04:57] udpate price: EMCGR, row: 0
+[2024-05-24 20:04:57] udpate price: TENKR, row: 1
+[2024-05-24 20:04:58] udpate price: BUJAR, row: 0
+[2024-05-24 20:04:58] udpate price: NNAGR, row: 0
+[2024-05-24 20:04:59] udpate price: GLACR, row: 0
+[2024-05-24 20:04:59] udpate price: AFJKR, row: 1
+[2024-05-24 20:05:00] udpate price: HYI, row: 24
+[2024-05-24 20:05:01] udpate price: CVX, row: 24
+[2024-05-24 20:05:01] udpate price: HDB, row: 24
+[2024-05-24 20:05:02] udpate price: MUFG, row: 24
+[2024-05-24 20:05:03] udpate price: TD, row: 24
+[2024-05-24 20:05:04] udpate price: IBN, row: 24
+[2024-05-24 20:05:05] udpate price: ING, row: 24
+[2024-05-24 20:05:05] udpate price: BNS, row: 24
+[2024-05-24 20:05:06] udpate price: VALE, row: 0
+[2024-05-24 20:05:07] udpate price: COF, row: 24
+[2024-05-24 20:05:07] udpate price: SU, row: 0
+[2024-05-24 20:05:08] udpate price: LYG, row: 24
+[2024-05-24 20:05:09] udpate price: BCS, row: 24
+[2024-05-24 20:05:10] udpate price: LEN, row: 24
+[2024-05-24 20:05:11] udpate price: NWG, row: 24
+[2024-05-24 20:05:11] udpate price: HPQ, row: 24
+[2024-05-24 20:05:12] udpate price: ADM, row: 24
+[2024-05-24 20:05:13] udpate price: KB, row: 24
+[2024-05-24 20:05:14] udpate price: CTRA, row: 24
+[2024-05-24 20:05:15] udpate price: ZTO, row: 24
+[2024-05-24 20:05:16] udpate price: SHG, row: 24
+[2024-05-24 20:05:16] udpate price: RS, row: 24
+[2024-05-24 20:05:17] udpate price: BG, row: 0
+[2024-05-24 20:05:18] udpate price: MRO, row: 24
+[2024-05-24 20:05:19] udpate price: GFI, row: 0
+[2024-05-24 20:05:19] udpate price: RGA, row: 24
+[2024-05-24 20:05:20] udpate price: BBD, row: 24
+[2024-05-24 20:05:21] udpate price: UNM, row: 24
+[2024-05-24 20:05:22] udpate price: WBS, row: 24
+[2024-05-24 20:05:23] udpate price: HRB, row: 24
+[2024-05-24 20:05:23] udpate price: WAL, row: 24
+[2024-05-24 20:05:24] udpate price: CMA, row: 24
+[2024-05-24 20:05:25] udpate price: ACV, row: 24
+[2024-05-24 20:05:26] udpate price: NE, row: 24
+[2024-05-24 20:05:27] udpate price: ESNT, row: 24
+[2024-05-24 20:05:27] udpate price: SSB, row: 24
+[2024-05-24 20:05:28] udpate price: BXSL, row: 24
+[2024-05-24 20:05:29] udpate price: MTG, row: 24
+[2024-05-24 20:05:30] udpate price: JHG, row: 24
+[2024-05-24 20:05:31] udpate price: ALTM, row: 24
+[2024-05-24 20:05:31] udpate price: WTM, row: 24
+[2024-05-24 20:05:32] udpate price: AGO, row: 24
+[2024-05-24 20:05:33] udpate price: MATX, row: 24
+[2024-05-24 20:05:34] udpate price: CIB, row: 24
+[2024-05-24 20:05:35] udpate price: AB, row: 24
+[2024-05-24 20:05:36] udpate price: SDRL, row: 24
+[2024-05-24 20:05:37] udpate price: ALE, row: 24
+[2024-05-24 20:05:38] udpate price: APLE, row: 24
+[2024-05-24 20:05:38] udpate price: ATHM, row: 24
+[2024-05-24 20:05:39] udpate price: VTMX, row: 24
+[2024-05-24 20:05:40] udpate price: MCY, row: 0
+[2024-05-24 20:05:41] udpate price: CRC, row: 0
+[2024-05-24 20:05:41] udpate price: TNL, row: 24
+[2024-05-24 20:05:42] udpate price: AUB, row: 24
+[2024-05-24 20:05:43] udpate price: BNL, row: 0
+[2024-05-24 20:05:43] udpate price: EAT, row: 24
+[2024-05-24 20:05:44] udpate price: CBU, row: 24
+[2024-05-24 20:05:45] udpate price: WNS, row: 0
+[2024-05-24 20:05:45] udpate price: ALG, row: 24
+[2024-05-24 20:05:46] udpate price: DBRG, row: 24
+[2024-05-24 20:05:47] udpate price: SHO, row: 24
+[2024-05-24 20:05:48] udpate price: KMT, row: 24
+[2024-05-24 20:05:48] udpate price: OBDE, row: 0
+[2024-05-24 20:05:49] udpate price: EE, row: 24
+[2024-05-24 20:05:50] udpate price: GAB, row: 24
+[2024-05-24 20:05:51] udpate price: KYN, row: 24
+[2024-05-24 20:05:51] udpate price: NAPA, row: 24
+[2024-05-24 20:05:52] udpate price: HLF, row: 24
+[2024-05-24 20:05:53] udpate price: NX, row: 24
+[2024-05-24 20:05:54] udpate price: BY, row: 24
+[2024-05-24 20:05:55] udpate price: TDCX, row: 24
+[2024-05-24 20:05:56] udpate price: NOAH, row: 24
+[2024-05-24 20:05:57] udpate price: ASC, row: 0
+[2024-05-24 20:05:57] udpate price: ETW, row: 24
+[2024-05-24 20:05:58] udpate price: ECC, row: 24
+[2024-05-24 20:05:59] udpate price: CII, row: 24
+[2024-05-24 20:06:00] udpate price: HQH, row: 24
+[2024-05-24 20:06:01] udpate price: LOMA, row: 0
+[2024-05-24 20:06:01] udpate price: ETD, row: 24
+[2024-05-24 20:06:02] udpate price: PAXS, row: 24
+[2024-05-24 20:06:03] udpate price: PCN, row: 24
+[2024-05-24 20:06:04] udpate price: SMP, row: 24
+[2024-05-24 20:06:05] udpate price: VVR, row: 24
+[2024-05-24 20:06:06] udpate price: PFN, row: 24
+[2024-05-24 20:06:06] udpate price: CEM, row: 24
+[2024-05-24 20:06:07] udpate price: EGY, row: 24
+[2024-05-24 20:06:08] udpate price: ETJ, row: 24
+[2024-05-24 20:06:09] udpate price: PML, row: 24
+[2024-05-24 20:06:10] udpate price: PSBD, row: 24
+[2024-05-24 20:06:11] udpate price: DIAX, row: 24
+[2024-05-24 20:06:12] udpate price: GHY, row: 24
+[2024-05-24 20:06:12] udpate price: NBB, row: 24
+[2024-05-24 20:06:13] udpate price: MOV, row: 24
+[2024-05-24 20:06:14] udpate price: ETO, row: 24
+[2024-05-24 20:06:15] udpate price: SMBK, row: 24
+[2024-05-24 20:06:16] udpate price: SOI, row: 24
+[2024-05-24 20:06:17] udpate price: CVEO, row: 24
+[2024-05-24 20:06:18] udpate price: HIO, row: 24
+[2024-05-24 20:06:19] udpate price: FOF, row: 24
+[2024-05-24 20:06:20] udpate price: JRI, row: 24
+[2024-05-24 20:06:20] udpate price: BRW, row: 24
+[2024-05-24 20:06:21] udpate price: BGH, row: 24
+[2024-05-24 20:06:22] udpate price: LCW, row: 0
+[2024-05-24 20:06:22] udpate price: RCS, row: 24
+[2024-05-24 20:06:23] udpate price: CAF, row: 24
+[2024-05-24 20:06:24] udpate price: MCR, row: 24
+[2024-05-24 20:06:25] udpate price: DBL, row: 24
+[2024-05-24 20:06:25] udpate price: AMPY, row: 0
+[2024-05-24 20:06:26] udpate price: PMF, row: 24
+[2024-05-24 20:06:27] udpate price: TVC, row: 24
+[2024-05-24 20:06:28] udpate price: LGI, row: 0
+[2024-05-24 20:06:28] udpate price: NTG, row: 24
+[2024-05-24 20:06:29] udpate price: AIF, row: 24
+[2024-05-24 20:06:30] udpate price: IGI, row: 24
+[2024-05-24 20:06:31] udpate price: FT, row: 0
+[2024-05-24 20:06:31] udpate price: HYB, row: 24
+[2024-05-24 20:06:32] udpate price: TEAF, row: 24
+[2024-05-24 20:06:33] udpate price: MCN, row: 24
+[2024-05-24 20:06:34] udpate price: GF, row: 24
+[2024-05-24 20:06:34] udpate price: HEQ, row: 24
+[2024-05-24 20:06:35] udpate price: KCGI, row: 0
+[2024-05-24 20:06:36] udpate price: WHG, row: 24
+[2024-05-24 20:06:37] udpate price: PAI, row: 24
+[2024-05-24 20:06:37] udpate price: SRV, row: 24
+[2024-05-24 20:06:38] udpate price: GDL, row: 24
+[2024-05-24 20:06:39] udpate price: GCV, row: 24
+[2024-05-24 20:06:40] udpate price: RGT, row: 24
+[2024-05-24 20:06:41] udpate price: PGZ, row: 24
+[2024-05-24 20:06:42] udpate price: EEA, row: 0
+[2024-05-24 20:06:42] udpate price: NDP, row: 24
+[2024-05-24 20:06:43] udpate price: RFL, row: 24
+[2024-05-24 20:06:44] udpate price: SRFM, row: 24

@@ -12,6 +12,9 @@ from dateutil.relativedelta import relativedelta
 import os
 import pandas as pd
 
+path_update_check = "../update/"
+path_price_data = "../Data/"
+
 # return 오늘 날짜, format("%Y-%m-%d")
 def get_today(): 
     return datetime.today().strftime("%Y-%m-%d")
@@ -35,7 +38,7 @@ def get_close(code, start, end):   # ex) get_close('005930.ks', s, e)
 # code의 모멘텀 스코어 리턴
 # Momentum Score = (최근1개월수익률×12)+(최근3개월수익률×4)+(최근6개월수익률×2)+(최근12개월수익률×1)
 def get_13612W_momentum_score(ticker, date = get_today()) :        
-    df = pd.read_csv('Data/' + ticker + '.csv').sort_values('Date', ascending=False)
+    df = pd.read_csv(f'{path_price_data}{ticker}.csv').sort_values('Date', ascending=False)
         
     score = 0.0    
     flag = True
@@ -64,7 +67,7 @@ def get_13612W_momentum_score(ticker, date = get_today()) :
 
 
 def get_SMA12M(ticker, date = get_today()):
-    df = pd.read_csv('Data/' + ticker + '.csv').sort_values('Date', ascending=False)
+    df = pd.read_csv(f'{path_price_data}{ticker}.csv').sort_values('Date', ascending=False)
     
     flag = True
     cnt = 0
@@ -125,20 +128,20 @@ def get_baa_etf_list():
     return ['QQQ', 'VWO', 'VEA', 'BND', 'TIP', 'DBC', 'BIL', 'IEF', 'TLT', 'LQD', 'SPY', 'EFA', 'EEM', 'AGG']
 
 def baa_update_data(force = False):
-    flist = os.listdir('./update')
+    flist = os.listdir(path_update_check)
     if get_today() in flist and force == False:
         return 'already updated!'
         
     etf_list = get_baa_etf_list()
     for etf in etf_list:
         data = pdr.get_data_yahoo(etf, start='2023-01-01', end=get_today())        
-        file_name = 'Data/'+ etf + '.csv'
+        file_name = f'{path_price_data}{etf}.csv'
         data.to_csv(file_name)
     
-    flist = os.listdir('./update')
+    flist = os.listdir(path_update_check)
     for f in flist:        
-        os.remove('./update/' + f)
-    file_name = './update/' + get_today()
+        os.remove(f'{path_update_check}{f}')
+    file_name = path_update_check + get_today()
     f = open(file_name, 'w')
     f.close()
     return 'update date: ' + get_today()

@@ -1,21 +1,33 @@
 import pandas as pd
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
+import col_info
 
-# 샘플 데이터 프레임 생성
-data = {'Value': [10, 20, 30, 40, 50]}
-dates = pd.date_range(start='2024-01-01', periods=5, freq='D')
-df = pd.DataFrame(data, index=dates)
+def test1():
+    cols = []
 
-# DataFrame을 한 줄씩 읽으며 인덱스, 행 데이터 및 행의 순서 출력
-for idx, (index, row) in enumerate(df.iterrows()):
-    print("행 번호:", idx)
-    print("인덱스:", index)
-    print("데이터:", row)
-    print(df.iloc[2])
+    with open('col_info.py', 'r', encoding='utf-8') as file:
+        lines = file.readlines()
+        for line in lines:
+            line = line.strip()
+            if line.startswith("'") is False:
+                continue
+            temp = line.replace("'", "").replace(",", "").split(':')
+            cols.append([temp[0].strip(), temp[1].strip()])
 
-start_date='2023-05-19'
-print(start_date)
-print((datetime.strptime(start_date, '%Y-%m-%d') - relativedelta(days=7)).strftime("%Y-%m-%d"))
-start_date= (datetime.strptime(start_date, '%Y-%m-%d') - relativedelta(days=1)).strftime("%Y-%m-%d")
-print(start_date)
+    for col in cols:
+        print(f"{col[0].replace(' ', '_')} text,")
+
+    for col in cols:
+        print(f"comment on column stock_info.{col[0].replace(' ', '_')} is '{col[1]}';")
+
+def test2():
+    for a in col_info.col_type_mapper:
+        print(a)
+
+def test3():
+    keys_list = list(col_info.col_type_mapper.keys())
+    print(keys_list)
+
+if __name__ == '__main__':
+    test3()
