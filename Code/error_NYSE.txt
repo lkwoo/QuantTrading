@@ -1,0 +1,1437 @@
+[2024-06-07 23:47:42] [db_update_price_detail] fail to get date: WSO.B[2024-06-08 01:07:23] [db_update_price_detail] fail to get date: WSO.B[2024-06-08 10:43:17] [db_update_price_detail] fail to get date: JPM PR L[2024-06-08 10:58:22] [db_update_price_detail] fail to get date: JPM PR L[2024-06-08 11:02:40] [db_update_price_detail] fail to get date: JPM PR L
+[2024-06-08 11:04:05] [db_update_price_detail] fail to get date: JPM PR L
+[2024-06-08 11:04:12] [db_update_price_detail] fail to get date: BML PR G
+[2024-06-08 11:05:12] [db_update_price_detail] fail to get date: JPM PR M
+[2024-06-08 11:05:23] [db_update_price_detail] fail to get date: SDHY
+[2024-06-08 11:05:34] [db_update_price_detail] fail to get date: NMAI
+[2024-06-08 11:05:44] [db_update_price_detail] fail to get date: GAB PR H
+[2024-06-08 11:07:49] [db_update_price_detail] fail to get date: WRB PR G
+[2024-06-08 11:08:12] [db_update_price_detail] fail to get date: AUB PR A
+[2024-06-08 11:08:13] [db_update_price_detail] fail to get date: BIGZ
+[2024-06-08 11:08:14] [db_update_price_detail] fail to get date: USB PR S
+[2024-06-08 11:08:25] [db_update_price_detail] fail to get date: TRTN PR A
+[2024-06-08 11:08:26] [db_update_price_detail] fail to get date: RC PR E
+[2024-06-08 11:08:41] [db_update_price_detail] fail to get date: TRTN PR B
+[2024-06-08 11:09:39] [db_update_price_detail] fail to get date: AHL PR C
+[2024-06-08 11:10:24] [db_update_price_detail] fail to get date: TFC PR R
+[2024-06-08 11:11:10] [db_update_price_detail] fail to get date: NSA PR A
+[2024-06-08 11:12:05] [db_update_price_detail] fail to get date: TWO PR B
+[2024-06-08 11:12:11] [db_update_price_detail] fail to get date: CDR PR B
+[2024-06-08 11:12:18] [db_update_price_detail] fail to get date: DSX PR B
+[2024-06-08 11:12:36] [db_update_price_detail] fail to get date: CIM PR A
+[2024-06-08 11:12:38] [db_update_price_detail] fail to get date: RRAC.U
+[2024-06-08 11:13:37] [db_update_price_detail] fail to get date: SNV PR E
+[2024-06-08 11:14:24] [db_update_price_detail] fail to get date: ARGO PR A
+[2024-06-08 11:15:24] [db_update_price_detail] fail to get date: BAC PR O
+[2024-06-08 11:15:36] [db_update_price_detail] fail to get date: SRG PR A
+[2024-06-08 11:15:37] [db_update_price_detail] fail to get date: BAC PR B
+[2024-06-08 11:15:38] [db_update_price_detail] fail to get date: SCE PR K
+[2024-06-08 11:16:17] [db_update_price_detail] fail to get date: TNP PR E
+[2024-06-08 11:16:45] [db_update_price_detail] fail to get date: BC PR A
+[2024-06-08 11:16:46] [db_update_price_detail] fail to get date: JPM PR J
+[2024-06-08 11:16:58] [db_update_price_detail] fail to get date: FHN PR C
+[2024-06-08 11:17:29] [db_update_price_detail] fail to get date: MET PR A
+[2024-06-08 11:17:43] [db_update_price_detail] fail to get date: BHG
+[2024-06-08 11:18:12] [db_update_price_detail] fail to get date: PRIF PR H
+[2024-06-08 11:18:41] [db_update_price_detail] fail to get date: DLNG PR A
+[2024-06-08 11:18:54] [db_update_price_detail] fail to get date: SF PR C
+[2024-06-08 11:19:22] [db_update_price_detail] fail to get date: CMRE PR D
+[2024-06-08 11:19:45] [db_update_price_detail] fail to get date: CUBI PR E
+[2024-06-08 11:19:52] [db_update_price_detail] fail to get date: CUBI PR F
+[2024-06-08 11:21:19] [db_update_price_detail] fail to get date: SF PR D
+[2024-06-08 11:22:07] [db_update_price_detail] fail to get date: RF PR E
+[2024-06-08 11:22:27] [db_update_price_detail] fail to get date: MOG.A
+[2024-06-08 11:22:28] [db_update_price_detail] fail to get date: EPR PR C
+[2024-06-08 11:22:29] [db_update_price_detail] fail to get date: AKO.B
+[2024-06-08 11:23:24] [db_update_price_detail] fail to get date: TCOA.U
+[2024-06-08 11:25:17] [db_update_price_detail] fail to get date: ATH PR A
+[2024-06-08 11:26:11] [db_update_price_detail] fail to get date: WFC PR C
+[2024-06-08 11:26:17] [db_update_price_detail] fail to get date: TY PR
+[2024-06-08 11:27:01] [db_update_price_detail] fail to get date: MFA PR C
+[2024-06-08 11:27:07] [db_update_price_detail] fail to get date: PSA PR K
+[2024-06-08 11:27:39] [db_update_price_detail] fail to get date: PSEC PR A
+[2024-06-08 11:27:57] [db_update_price_detail] fail to get date: GPMT PR A
+[2024-06-08 11:28:37] [db_update_price_detail] fail to get date: TDS PR V
+[2024-06-08 11:29:01] [db_update_price_detail] fail to get date: BFS PR D
+[2024-06-08 11:29:07] [db_update_price_detail] fail to get date: KIM PR L
+[2024-06-08 11:29:26] [db_update_price_detail] fail to get date: SCE PR J
+[2024-06-08 11:29:33] [db_update_price_detail] fail to get date: ALL PR J
+[2024-06-08 11:29:39] [db_update_price_detail] fail to get date: WRB PR E
+[2024-06-08 11:30:21] [db_update_price_detail] fail to get date: DBRG PR J
+[2024-06-08 11:30:28] [db_update_price_detail] fail to get date: EFC PR B
+[2024-06-08 11:30:59] [db_update_price_detail] fail to get date: MTB PR J
+[2024-06-08 11:31:00] [db_update_price_detail] fail to get date: DMA
+[2024-06-08 11:31:33] [db_update_price_detail] fail to get date: CELG RT
+[2024-06-08 11:31:44] [db_update_price_detail] fail to get date: SB PR D
+[2024-06-08 11:32:24] [db_update_price_detail] fail to get date: GAM PR B
+[2024-06-08 11:33:09] [db_update_price_detail] fail to get date: BNRE.A
+[2024-06-08 11:33:10] [db_update_price_detail] fail to get date: KEY PR K
+[2024-06-08 11:33:11] [db_update_price_detail] fail to get date: RJF PR B
+[2024-06-08 11:33:28] [db_update_price_detail] fail to get date: VNO PR O
+[2024-06-08 11:33:33] [db_update_price_detail] fail to get date: BHR PR D
+[2024-06-08 11:34:19] [db_update_price_detail] fail to get date: DUK PR A
+[2024-06-08 11:34:47] [db_update_price_detail] fail to get date: WFC PR L
+[2024-06-08 11:35:33] [db_update_price_detail] fail to get date: BAC PR K
+[2024-06-08 11:35:34] [db_update_price_detail] fail to get date: SR PR A
+[2024-06-08 11:35:40] [db_update_price_detail] fail to get date: AGM PR E
+[2024-06-08 11:36:10] [db_update_price_detail] fail to get date: PSA PR S
+[2024-06-08 11:36:22] [db_update_price_detail] fail to get date: MITT PR A
+[2024-06-08 11:36:27] [db_update_price_detail] fail to get date: PRIF PR I
+[2024-06-08 11:36:33] [db_update_price_detail] fail to get date: RWT PR A
+[2024-06-08 11:37:00] [db_update_price_detail] fail to get date: ANG PR B
+[2024-06-08 11:37:54] [db_update_price_detail] fail to get date: AKO.A
+[2024-06-08 11:37:55] [db_update_price_detail] fail to get date: CIM PR B
+[2024-06-08 11:38:18] [db_update_price_detail] fail to get date: OPA
+[2024-06-08 11:39:22] [db_update_price_detail] fail to get date: BRK.B
+[2024-06-08 11:39:29] [db_update_price_detail] fail to get date: ABR PR D
+[2024-06-08 11:39:30] [db_update_price_detail] fail to get date: PMT PR B
+[2024-06-08 11:40:17] [db_update_price_detail] fail to get date: ATH PR D
+[2024-06-08 11:40:29] [db_update_price_detail] fail to get date: ALL PR H
+[2024-06-08 11:40:34] [db_update_price_detail] fail to get date: RFMZ
+[2024-06-08 11:41:21] [db_update_price_detail] fail to get date: CFG PR E
+[2024-06-08 11:41:42] [db_update_price_detail] fail to get date: BANC PR F
+[2024-06-08 11:42:26] [db_update_price_detail] fail to get date: ABR PR E
+[2024-06-08 11:42:37] [db_update_price_detail] fail to get date: CMRE PR C
+[2024-06-08 11:43:01] [db_update_price_detail] fail to get date: GS PR D
+[2024-06-08 11:43:07] [db_update_price_detail] fail to get date: NYCB PR A
+[2024-06-08 11:43:30] [db_update_price_detail] fail to get date: CMRE PR B
+[2024-06-08 11:43:42] [db_update_price_detail] fail to get date: SEAL PR A
+[2024-06-08 11:43:54] [db_update_price_detail] fail to get date: MS PR K
+[2024-06-08 11:44:11] [db_update_price_detail] fail to get date: CDR PR C
+[2024-06-08 11:44:28] [db_update_price_detail] fail to get date: PEB PR E
+[2024-06-08 11:44:50] [db_update_price_detail] fail to get date: EFC PR D
+[2024-06-08 11:44:51] [db_update_price_detail] fail to get date: SEDA.U
+[2024-06-08 11:46:03] [db_update_price_detail] fail to get date: WDI
+[2024-06-08 11:46:27] [db_update_price_detail] fail to get date: PSA PR O
+[2024-06-08 11:46:38] [db_update_price_detail] fail to get date: SCE PR N
+[2024-06-08 11:46:50] [db_update_price_detail] fail to get date: MET PR E
+[2024-06-08 11:47:51] [db_update_price_detail] fail to get date: WBS PR G
+[2024-06-08 11:47:52] [db_update_price_detail] fail to get date: BAC PR L
+[2024-06-08 11:47:54] [db_update_price_detail] fail to get date: ACR PR D
+[2024-06-08 11:48:36] [db_update_price_detail] fail to get date: PDO
+[2024-06-08 11:48:48] [db_update_price_detail] fail to get date: INN PR F
+[2024-06-08 11:49:20] [db_update_price_detail] fail to get date: EQH PR A
+[2024-06-08 11:49:38] [db_update_price_detail] fail to get date: RCFA.U
+[2024-06-08 11:50:06] [db_update_price_detail] fail to get date: AHT PR H
+[2024-06-08 11:50:07] [db_update_price_detail] fail to get date: JXN PR A
+[2024-06-08 11:50:38] [db_update_price_detail] fail to get date: FTHY
+[2024-06-08 11:50:39] [db_update_price_detail] fail to get date: BFS PR E
+[2024-06-08 11:51:12] [db_update_price_detail] fail to get date: GNL PR B
+[2024-06-08 11:51:18] [db_update_price_detail] fail to get date: BF.A
+[2024-06-08 11:51:45] [db_update_price_detail] fail to get date: MITT PR C
+[2024-06-08 11:52:56] [db_update_price_detail] fail to get date: MKC.V
+[2024-06-08 11:54:01] [db_update_price_detail] fail to get date: ADC PR A
+[2024-06-08 11:54:33] [db_update_price_detail] fail to get date: ATH PR B
+[2024-06-08 11:55:10] [db_update_price_detail] fail to get date: KREF PR A
+[2024-06-08 11:55:21] [db_update_price_detail] fail to get date: HEI.A
+[2024-06-08 11:55:54] [db_update_price_detail] fail to get date: MMM WD
+[2024-06-08 11:56:10] [db_update_price_detail] fail to get date: REXR PR C
+[2024-06-08 11:56:21] [db_update_price_detail] fail to get date: OPP PR B
+[2024-06-08 11:56:32] [db_update_price_detail] fail to get date: IIPR PR A
+[2024-06-08 11:56:33] [db_update_price_detail] fail to get date: BIP PR B
+[2024-06-08 11:57:12] [db_update_price_detail] fail to get date: COF PR L
+[2024-06-08 11:58:09] [db_update_price_detail] fail to get date: TRTX PR C
+[2024-06-08 11:58:53] [db_update_price_detail] fail to get date: PRIF PR G
+[2024-06-08 11:59:20] [db_update_price_detail] fail to get date: NFYS.U
+[2024-06-08 11:59:38] [db_update_price_detail] fail to get date: GEF.B
+[2024-06-08 12:01:03] [db_update_price_detail] fail to get date: SITC PR A
+[2024-06-08 12:01:04] [db_update_price_detail] fail to get date: CRD.B
+[2024-06-08 12:02:56] [db_update_price_detail] fail to get date: NYCB PR U
+[2024-06-08 12:03:59] [db_update_price_detail] fail to get date: SPNT PR B
+[2024-06-08 12:04:00] [db_update_price_detail] fail to get date: CIO PR A
+[2024-06-08 12:04:11] [db_update_price_detail] fail to get date: PSA PR M
+[2024-06-08 12:04:59] [db_update_price_detail] fail to get date: RF PR C
+[2024-06-08 12:05:00] [db_update_price_detail] fail to get date: VOYA PR B
+[2024-06-08 12:05:10] [db_update_price_detail] fail to get date: PMT PR A
+[2024-06-08 12:05:26] [db_update_price_detail] fail to get date: USB PR R
+[2024-06-08 12:06:21] [db_update_price_detail] fail to get date: LGF.A
+[2024-06-08 12:07:00] [db_update_price_detail] fail to get date: AHL PR E
+[2024-06-08 12:07:38] [db_update_price_detail] fail to get date: JPM PR K
+[2024-06-08 12:07:39] [db_update_price_detail] fail to get date: FRT PR C
+[2024-06-08 12:08:06] [db_update_price_detail] fail to get date: BW PR A
+[2024-06-08 12:08:50] [db_update_price_detail] fail to get date: JPM PR D
+[2024-06-08 12:09:02] [db_update_price_detail] fail to get date: CMS PR B
+[2024-06-08 12:09:03] [db_update_price_detail] fail to get date: RF PR B
+[2024-06-08 12:09:19] [db_update_price_detail] fail to get date: PRE PR J
+[2024-06-08 12:09:31] [db_update_price_detail] fail to get date: TNP PR F
+[2024-06-08 12:09:32] [db_update_price_detail] fail to get date: WCC PR A
+[2024-06-08 12:10:31] [db_update_price_detail] fail to get date: BH.A
+[2024-06-08 12:10:32] [db_update_price_detail] fail to get date: MFA PR B
+[2024-06-08 12:10:43] [db_update_price_detail] fail to get date: GNL PR A
+[2024-06-08 12:11:06] [db_update_price_detail] fail to get date: ATH PR C
+[2024-06-08 12:11:17] [db_update_price_detail] fail to get date: DLR PR K
+[2024-06-08 12:12:33] [db_update_price_detail] fail to get date: SHO PR I
+[2024-06-08 12:12:44] [db_update_price_detail] fail to get date: RITM PR D
+[2024-06-08 12:13:20] [db_update_price_detail] fail to get date: PMT PR C
+[2024-06-08 12:14:22] [db_update_price_detail] fail to get date: USB PR A
+[2024-06-08 12:14:38] [db_update_price_detail] fail to get date: STT PR G
+[2024-06-08 12:14:49] [db_update_price_detail] fail to get date: BAC PR N
+[2024-06-08 12:15:00] [db_update_price_detail] fail to get date: BOH PR A
+[2024-06-08 12:17:21] [db_update_price_detail] fail to get date: CIM PR D
+[2024-06-08 12:17:26] [db_update_price_detail] fail to get date: KEY PR J
+[2024-06-08 12:17:32] [db_update_price_detail] fail to get date: CODI PR C
+[2024-06-08 12:17:33] [db_update_price_detail] fail to get date: GDL PR C
+[2024-06-08 12:18:05] [db_update_price_detail] fail to get date: PRIF PR F
+[2024-06-08 12:18:31] [db_update_price_detail] fail to get date: CLBR.U
+[2024-06-08 12:18:43] [db_update_price_detail] fail to get date: MAA PR I
+[2024-06-08 12:19:11] [db_update_price_detail] fail to get date: TRTN PR E
+[2024-06-08 12:19:33] [db_update_price_detail] fail to get date: BCAT
+[2024-06-08 12:20:24] [db_update_price_detail] fail to get date: MET PR F
+[2024-06-08 12:21:29] [db_update_price_detail] fail to get date: SHO PR H
+[2024-06-08 12:21:31] [db_update_price_detail] fail to get date: WEL.U
+[2024-06-08 12:21:53] [db_update_price_detail] fail to get date: ICR PR A
+[2024-06-08 12:22:56] [db_update_price_detail] fail to get date: KCGI.U
+[2024-06-08 12:23:18] [db_update_price_detail] fail to get date: PEB PR F
+[2024-06-08 12:24:01] [db_update_price_detail] fail to get date: KEY PR L
+[2024-06-08 12:24:12] [db_update_price_detail] fail to get date: NLY PR I
+[2024-06-08 12:24:13] [db_update_price_detail] fail to get date: AGM PR C
+[2024-06-08 12:24:14] [db_update_price_detail] fail to get date: OAK PR A
+[2024-06-08 12:24:21] [db_update_price_detail] fail to get date: UHAL.B
+[2024-06-08 12:24:38] [db_update_price_detail] fail to get date: GGT PR G
+[2024-06-08 12:25:55] [db_update_price_detail] fail to get date: BAC PR P
+[2024-06-08 12:25:56] [db_update_price_detail] fail to get date: WFC PR A
+[2024-06-08 12:26:13] [db_update_price_detail] fail to get date: KIM PR M
+[2024-06-08 12:26:45] [db_update_price_detail] fail to get date: SB PR C
+[2024-06-08 12:26:57] [db_update_price_detail] fail to get date: CMS PR C
+[2024-06-08 12:27:33] [db_update_price_detail] fail to get date: WFC PR Y
+[2024-06-08 12:27:44] [db_update_price_detail] fail to get date: SYF PR B
+[2024-06-08 12:28:15] [db_update_price_detail] fail to get date: EQH PR C
+[2024-06-08 12:29:07] [db_update_price_detail] fail to get date: TRTN PR D
+[2024-06-08 12:29:17] [db_update_price_detail] fail to get date: GSL PR B
+[2024-06-08 12:30:07] [db_update_price_detail] fail to get date: COF PR J
+[2024-06-08 12:30:13] [db_update_price_detail] fail to get date: GLOP PR A
+[2024-06-08 12:30:24] [db_update_price_detail] fail to get date: CHMI PR B
+[2024-06-08 12:31:00] [db_update_price_detail] fail to get date: NCV PR A
+[2024-06-08 12:31:54] [db_update_price_detail] fail to get date: GMRE PR A
+[2024-06-08 12:32:18] [db_update_price_detail] fail to get date: KEY PR I
+[2024-06-08 12:32:35] [db_update_price_detail] fail to get date: GAB PR G
+[2024-06-08 12:32:36] [db_update_price_detail] fail to get date: OPP PR A
+[2024-06-08 12:32:48] [db_update_price_detail] fail to get date: KIM PR N
+[2024-06-08 12:32:50] [db_update_price_detail] fail to get date: IVR PR C
+[2024-06-08 12:33:02] [db_update_price_detail] fail to get date: RITM PR A
+[2024-06-08 12:33:08] [db_update_price_detail] fail to get date: TRIS.U
+[2024-06-08 12:33:09] [db_update_price_detail] fail to get date: SCE PR M
+[2024-06-08 12:33:27] [db_update_price_detail] fail to get date: RNR PR F
+[2024-06-08 12:33:33] [db_update_price_detail] fail to get date: AHH PR A
+[2024-06-08 12:35:25] [db_update_price_detail] fail to get date: BAC PR M
+[2024-06-08 12:36:38] [db_update_price_detail] fail to get date: XFLT PR A
+[2024-06-08 12:36:39] [db_update_price_detail] fail to get date: NLY PR G
+[2024-06-08 12:36:51] [db_update_price_detail] fail to get date: GLOP PR B
+[2024-06-08 12:37:13] [db_update_price_detail] fail to get date: MDV PR A
+[2024-06-08 12:38:02] [db_update_price_detail] fail to get date: ALL PR I
+[2024-06-08 12:38:03] [db_update_price_detail] fail to get date: SEAL PR B
+[2024-06-08 12:38:20] [db_update_price_detail] fail to get date: WFC PR D
+[2024-06-08 12:38:30] [db_update_price_detail] fail to get date: BFAC.U
+[2024-06-08 12:38:36] [db_update_price_detail] fail to get date: WBS PR F
+[2024-06-08 12:38:37] [db_update_price_detail] fail to get date: CIM PR C
+[2024-06-08 12:38:43] [db_update_price_detail] fail to get date: USB PR Q
+[2024-06-08 12:38:44] [db_update_price_detail] fail to get date: INN PR E
+[2024-06-08 12:38:45] [db_update_price_detail] fail to get date: CNO PR A
+[2024-06-08 12:38:46] [db_update_price_detail] fail to get date: LGF.B
+[2024-06-08 12:38:58] [db_update_price_detail] fail to get date: RLJ PR A
+[2024-06-08 12:39:30] [db_update_price_detail] fail to get date: CMRE PR E
+[2024-06-08 12:39:31] [db_update_price_detail] fail to get date: PSA PR H
+[2024-06-08 12:39:42] [db_update_price_detail] fail to get date: CFG PR D
+[2024-06-08 12:39:49] [db_update_price_detail] fail to get date: DRH PR A
+[2024-06-08 12:39:55] [db_update_price_detail] fail to get date: PSA PR P
+[2024-06-08 12:40:32] [db_update_price_detail] fail to get date: T PR A
+[2024-06-08 12:41:07] [db_update_price_detail] fail to get date: HYAC.U
+[2024-06-08 12:41:08] [db_update_price_detail] fail to get date: EPR PR G
+[2024-06-08 12:41:14] [db_update_price_detail] fail to get date: GUT PR C
+[2024-06-08 12:41:35] [db_update_price_detail] fail to get date: MSDL
+[2024-06-08 12:42:03] [db_update_price_detail] fail to get date: RIV PR A
+[2024-06-08 12:42:34] [db_update_price_detail] fail to get date: RITM PR C
+[2024-06-08 12:42:35] [db_update_price_detail] fail to get date: FHN PR F
+[2024-06-08 12:42:41] [db_update_price_detail] fail to get date: JPM PR C
+[2024-06-08 12:43:02] [db_update_price_detail] fail to get date: ECAT
+[2024-06-08 12:43:12] [db_update_price_detail] fail to get date: HFRO PR A
+[2024-06-08 12:43:18] [db_update_price_detail] fail to get date: PSA PR F
+[2024-06-08 12:44:03] [db_update_price_detail] fail to get date: EFC PR C
+[2024-06-08 12:44:45] [db_update_price_detail] fail to get date: HL PR B
+[2024-06-08 12:45:18] [db_update_price_detail] fail to get date: SPLP PR A
+[2024-06-08 12:45:19] [db_update_price_detail] fail to get date: PSA PR Q
+[2024-06-08 12:45:25] [db_update_price_detail] fail to get date: ALB PR A
+[2024-06-08 12:46:01] [db_update_price_detail] fail to get date: AXS PR E
+[2024-06-08 12:46:12] [db_update_price_detail] fail to get date: EBR.B
+[2024-06-08 12:46:33] [db_update_price_detail] fail to get date: FSCO
+[2024-06-08 12:46:54] [db_update_price_detail] fail to get date: BAC PR S
+[2024-06-08 12:47:30] [db_update_price_detail] fail to get date: CRD.A
+[2024-06-08 12:47:31] [db_update_price_detail] fail to get date: NLY PR F
+[2024-06-08 12:47:43] [db_update_price_detail] fail to get date: COF PR N
+[2024-06-08 12:48:24] [db_update_price_detail] fail to get date: SCE PR H
+[2024-06-08 12:48:25] [db_update_price_detail] fail to get date: COF PR K
+[2024-06-08 12:48:52] [db_update_price_detail] fail to get date: EPR PR E
+[2024-06-08 12:49:20] [db_update_price_detail] fail to get date: AMH PR G
+[2024-06-08 12:49:37] [db_update_price_detail] fail to get date: SAN PR B
+[2024-06-08 12:50:17] [db_update_price_detail] fail to get date: O PR
+[2024-06-08 12:50:27] [db_update_price_detail] fail to get date: NCDL
+[2024-06-08 12:50:33] [db_update_price_detail] fail to get date: T PR C
+[2024-06-08 12:50:44] [db_update_price_detail] fail to get date: BRK.A
+[2024-06-08 12:50:46] [db_update_price_detail] fail to get date: GTN.A
+[2024-06-08 12:50:57] [db_update_price_detail] fail to get date: GNL PR E
+[2024-06-08 12:51:19] [db_update_price_detail] fail to get date: DLNG PR B
+[2024-06-08 12:51:20] [db_update_price_detail] fail to get date: PRIF PR K
+[2024-06-08 12:51:32] [db_update_price_detail] fail to get date: CLDT PR A
+[2024-06-08 12:51:58] [db_update_price_detail] fail to get date: AL PR A
+[2024-06-08 12:52:14] [db_update_price_detail] fail to get date: ATCO PR H
+[2024-06-08 12:52:31] [db_update_price_detail] fail to get date: MS PR P
+[2024-06-08 12:52:48] [db_update_price_detail] fail to get date: PSA PR R
+[2024-06-08 12:53:16] [db_update_price_detail] fail to get date: MS PR L
+[2024-06-08 12:53:17] [db_update_price_detail] fail to get date: GNL PR D
+[2024-06-08 12:53:39] [db_update_price_detail] fail to get date: COF PR I
+[2024-06-08 12:53:40] [db_update_price_detail] fail to get date: VNO PR M
+[2024-06-08 12:54:22] [db_update_price_detail] fail to get date: ALL PR B
+[2024-06-08 12:54:37] [db_update_price_detail] fail to get date: GGT PR E
+[2024-06-08 12:54:47] [db_update_price_detail] fail to get date: SYF PR A
+[2024-06-08 12:56:29] [db_update_price_detail] fail to get date: GRP.U
+[2024-06-08 12:56:30] [db_update_price_detail] fail to get date: VNO PR L
+[2024-06-08 12:57:03] [db_update_price_detail] fail to get date: CWEN.A
+[2024-06-08 12:57:05] [db_update_price_detail] fail to get date: AHT PR D
+[2024-06-08 12:57:35] [db_update_price_detail] fail to get date: FHN PR E
+[2024-06-08 12:58:16] [db_update_price_detail] fail to get date: GTLS PR B
+[2024-06-08 12:58:32] [db_update_price_detail] fail to get date: GL PR D
+[2024-06-08 12:59:01] [db_update_price_detail] fail to get date: BAC PR E
+[2024-06-08 13:00:23] [db_update_price_detail] fail to get date: MOG.B
+[2024-06-08 13:00:57] [db_update_price_detail] fail to get date: ARR PR C
+[2024-06-08 13:00:58] [db_update_price_detail] fail to get date: ABR PR F
+[2024-06-08 13:01:21] [db_update_price_detail] fail to get date: LEN.B
+[2024-06-08 13:01:45] [db_update_price_detail] fail to get date: AACT.U
+[2024-06-08 13:02:01] [db_update_price_detail] fail to get date: HIG PR G
+[2024-06-08 13:02:07] [db_update_price_detail] fail to get date: MS PR A
+[2024-06-08 13:02:14] [db_update_price_detail] fail to get date: IFIN.U
+[2024-06-08 13:02:20] [db_update_price_detail] fail to get date: SCHW PR J
+[2024-06-08 13:02:43] [db_update_price_detail] fail to get date: MS PR I
+[2024-06-08 13:03:22] [db_update_price_detail] fail to get date: AHT PR I
+[2024-06-08 13:03:58] [db_update_price_detail] fail to get date: TWO PR A
+[2024-06-08 13:04:12] [db_update_price_detail] fail to get date: AGM.A
+[2024-06-08 13:04:18] [db_update_price_detail] fail to get date: TFC PR I
+[2024-06-08 13:04:30] [db_update_price_detail] fail to get date: PEB PR G
+[2024-06-08 13:04:38] [db_update_price_detail] fail to get date: USB PR P
+[2024-06-08 13:04:44] [db_update_price_detail] fail to get date: PEB PR H
+[2024-06-08 13:05:06] [db_update_price_detail] fail to get date: PRIF PR J
+[2024-06-08 13:05:12] [db_update_price_detail] fail to get date: BIP PR A
+[2024-06-08 13:05:13] [db_update_price_detail] fail to get date: FBRT PR E
+[2024-06-08 13:05:31] [db_update_price_detail] fail to get date: SBXC.U
+[2024-06-08 13:05:52] [db_update_price_detail] fail to get date: GDV PR K
+[2024-06-08 13:05:58] [db_update_price_detail] fail to get date: PRIF PR L
+[2024-06-08 13:06:00] [db_update_price_detail] fail to get date: GLP PR B
+[2024-06-08 13:06:11] [db_update_price_detail] fail to get date: BEP PR A
+[2024-06-08 13:06:33] [db_update_price_detail] fail to get date: RMPL PR
+[2024-06-08 13:06:39] [db_update_price_detail] fail to get date: AHT PR G
+[2024-06-08 13:07:08] [db_update_price_detail] fail to get date: DLR PR L
+[2024-06-08 13:07:32] [db_update_price_detail] fail to get date: UMH PR D
+[2024-06-08 13:07:44] [db_update_price_detail] fail to get date: APO PR A
+[2024-06-08 13:07:52] [db_update_price_detail] fail to get date: DBRG PR H
+[2024-06-08 13:08:15] [db_update_price_detail] fail to get date: WSO.B
+[2024-06-08 13:08:16] [db_update_price_detail] fail to get date: LFT PR A
+[2024-06-08 13:08:40] [db_update_price_detail] fail to get date: SLG PR I
+[2024-06-08 13:09:02] [db_update_price_detail] fail to get date: CHMI PR A
+[2024-06-08 13:09:03] [db_update_price_detail] fail to get date: TDS PR U
+[2024-06-08 13:09:39] [db_update_price_detail] fail to get date: GAB PR K
+[2024-06-08 13:10:36] [db_update_price_detail] fail to get date: CODI PR A
+[2024-06-08 13:10:50] [db_update_price_detail] fail to get date: EP PR C
+[2024-06-08 13:11:12] [db_update_price_detail] fail to get date: WRB PR F
+[2024-06-08 13:11:16] [db_update_price_detail] fail to get date: MS PR F
+[2024-06-08 13:11:30] [db_update_price_detail] fail to get date: CFR PR B
+[2024-06-08 13:11:58] [db_update_price_detail] fail to get date: NSA PR B
+[2024-06-08 13:12:18] [db_update_price_detail] fail to get date: RC PR C
+[2024-06-08 13:13:36] [db_update_price_detail] fail to get date: GS PR C
+[2024-06-08 13:13:43] [db_update_price_detail] fail to get date: CSR PR C
+[2024-06-08 13:14:08] [db_update_price_detail] fail to get date: GNT PR A
+[2024-06-08 13:14:08] [db_update_price_detail] fail to get date: ATH PR E
+[2024-06-08 13:14:14] [db_update_price_detail] fail to get date: OAK PR B
+[2024-06-08 13:14:47] [db_update_price_detail] fail to get date: CTA PR B
+[2024-06-08 13:14:50] [db_update_price_detail] fail to get date: LXP PR C
+[2024-06-08 13:15:04] [db_update_price_detail] fail to get date: SPE PR C
+[2024-06-08 13:15:20] [db_update_price_detail] fail to get date: BF.B
+[2024-06-08 13:15:32] [db_update_price_detail] fail to get date: BAC PR Q
+[2024-06-08 13:15:32] [db_update_price_detail] fail to get date: PBR.A
+[2024-06-08 13:15:46] [db_update_price_detail] fail to get date: CCIF
+[2024-06-08 13:16:23] [db_update_price_detail] fail to get date: NEE PR N
+[2024-06-08 13:16:37] [db_update_price_detail] fail to get date: ATCO PR D
+[2024-06-08 13:16:45] [db_update_price_detail] fail to get date: GLOP PR C
+[2024-06-08 13:16:57] [db_update_price_detail] fail to get date: APCA.U
+[2024-06-08 13:17:21] [db_update_price_detail] fail to get date: WFC PR Z
+[2024-06-08 13:17:35] [db_update_price_detail] fail to get date: CTO PR A
+[2024-06-08 13:17:51] [db_update_price_detail] fail to get date: EAI
+[2024-06-08 13:17:54] [db_update_price_detail] fail to get date: ETI PR
+[2024-06-08 13:17:57] [db_update_price_detail] fail to get date: BML PR H
+[2024-06-08 13:18:17] [db_update_price_detail] fail to get date: AGM PR G
+[2024-06-08 13:18:20] [db_update_price_detail] fail to get date: MITT PR B
+[2024-06-08 13:18:21] [db_update_price_detail] fail to get date: ECC PR D
+[2024-06-08 13:18:24] [db_update_price_detail] fail to get date: RNR PR G
+[2024-06-08 13:18:30] [db_update_price_detail] fail to get date: NXDT PR A
+[2024-06-08 13:18:36] [db_update_price_detail] fail to get date: GOL
+[2024-06-08 13:18:51] [db_update_price_detail] fail to get date: MTB PR H
+[2024-06-08 13:19:28] [db_update_price_detail] fail to get date: SCE PR G
+[2024-06-08 13:19:31] [db_update_price_detail] fail to get date: TAP.A
+[2024-06-08 13:19:57] [db_update_price_detail] fail to get date: HPP PR C
+[2024-06-08 13:20:03] [db_update_price_detail] fail to get date: FINS
+[2024-06-08 13:20:54] [db_update_price_detail] fail to get date: SCHW PR D
+[2024-06-08 13:21:00] [db_update_price_detail] fail to get date: NGL PR B
+[2024-06-08 13:21:09] [db_update_price_detail] fail to get date: DLR PR J
+[2024-06-08 13:21:33] [db_update_price_detail] fail to get date: CODI PR B
+[2024-06-08 13:21:50] [db_update_price_detail] fail to get date: NGL PR C
+[2024-06-08 13:21:58] [db_update_price_detail] fail to get date: RITM PR B
+[2024-06-08 13:22:04] [db_update_price_detail] fail to get date: WAL PR A
+[2024-06-08 13:22:18] [db_update_price_detail] fail to get date: TFC PR O
+[2024-06-08 13:22:21] [db_update_price_detail] fail to get date: PSA PR G
+[2024-06-08 13:22:38] [db_update_price_detail] fail to get date: GUG
+[2024-06-08 13:22:41] [db_update_price_detail] fail to get date: GRBK PR A
+[2024-06-08 13:22:55] [db_update_price_detail] fail to get date: NPFD
+[2024-06-08 13:22:59] [db_update_price_detail] fail to get date: SNV PR D
+[2024-06-08 13:22:59] [db_update_price_detail] fail to get date: WRB PR H
+[2024-06-08 13:23:23] [db_update_price_detail] fail to get date: NDMO
+[2024-06-08 13:23:24] [db_update_price_detail] fail to get date: ASB PR E
+[2024-06-08 13:23:35] [db_update_price_detail] fail to get date: SCE PR L
+[2024-06-08 13:23:36] [db_update_price_detail] fail to get date: MNTN.U
+[2024-06-08 13:23:47] [db_update_price_detail] fail to get date: PSA PR I
+[2024-06-08 13:24:12] [db_update_price_detail] fail to get date: ANG PR A
+[2024-06-08 13:24:19] [db_update_price_detail] fail to get date: NCZ PR A
+[2024-06-08 13:24:55] [db_update_price_detail] fail to get date: REXR PR B
+[2024-06-08 13:25:01] [db_update_price_detail] fail to get date: BIO.B
+[2024-06-08 13:25:05] [db_update_price_detail] fail to get date: GDV PR H
+[2024-06-08 13:25:11] [db_update_price_detail] fail to get date: AGM PR F
+[2024-06-08 13:25:14] [db_update_price_detail] fail to get date: EFC PR A
+[2024-06-08 13:25:21] [db_update_price_detail] fail to get date: PHYT.U
+[2024-06-08 13:25:22] [db_update_price_detail] fail to get date: TRTL.U
+[2024-06-08 13:25:22] [db_update_price_detail] fail to get date: BML PR L
+[2024-06-08 13:25:23] [db_update_price_detail] fail to get date: PSA PR J
+[2024-06-08 13:25:39] [db_update_price_detail] fail to get date: BML PR J
+[2024-06-08 13:26:00] [db_update_price_detail] fail to get date: STEW
+[2024-06-08 13:26:11] [db_update_price_detail] fail to get date: BC PR B
+[2024-06-08 13:26:17] [db_update_price_detail] fail to get date: AMH PR H
+[2024-06-08 13:26:31] [db_update_price_detail] fail to get date: CFG PR H
+[2024-06-08 13:26:32] [db_update_price_detail] fail to get date: AGM PR D
+[2024-06-08 13:26:41] [db_update_price_detail] fail to get date: LCW.U
+[2024-06-08 13:26:48] [db_update_price_detail] fail to get date: LNC PR D
+[2024-06-08 13:26:48] [db_update_price_detail] fail to get date: USB PR H
+[2024-06-08 13:26:52] [db_update_price_detail] fail to get date: NEE PR R
+[2024-06-08 13:26:55] [db_update_price_detail] fail to get date: ET PR I
+[2024-06-08 13:27:01] [db_update_price_detail] fail to get date: NBXG
+[2024-06-08 13:27:14] [db_update_price_detail] fail to get date: AHT PR F
+[2024-06-08 13:27:14] [db_update_price_detail] fail to get date: TRTN PR C
+[2024-06-08 13:27:24] [db_update_price_detail] fail to get date: PSA PR L
+[2024-06-08 13:28:24] [db_update_price_detail] fail to get date: MIO
+[2024-06-08 13:28:33] [db_update_price_detail] fail to get date: C PR N
+[2024-06-08 13:29:00] [db_update_price_detail] fail to get date: ALTG PR A
+[2024-06-08 13:29:34] [db_update_price_detail] fail to get date: EDI
+[2024-06-08 13:29:40] [db_update_price_detail] fail to get date: NREF PR A
+[2024-06-08 13:29:55] [db_update_price_detail] fail to get date: MS PR O
+[2024-06-08 13:29:56] [db_update_price_detail] fail to get date: DX PR C
+[2024-06-08 13:29:56] [db_update_price_detail] fail to get date: ACR PR C
+[2024-06-08 13:30:23] [db_update_price_detail] fail to get date: CADE PR A
+[2024-06-08 13:30:41] [db_update_price_detail] fail to get date: SFB
+[2024-06-08 13:30:53] [db_update_price_detail] fail to get date: BHR PR B
+[2024-06-08 13:31:26] [db_update_price_detail] fail to get date: MEGI
+[2024-06-08 13:31:27] [db_update_price_detail] fail to get date: ACP PR A
+[2024-06-08 13:31:32] [db_update_price_detail] fail to get date: CIG.C
+[2024-06-08 13:31:41] [db_update_price_detail] fail to get date: VNO PR N
+[2024-06-08 13:31:48] [db_update_price_detail] fail to get date: EQC PR D
+[2024-06-08 13:31:48] [db_update_price_detail] fail to get date: PSA PR N
+[2024-06-08 13:32:04] [db_update_price_detail] fail to get date: FHN PR B
+[2024-06-08 13:32:16] [db_update_price_detail] fail to get date: GS PR A
+[2024-06-08 13:32:27] [db_update_price_detail] fail to get date: SPG PR J
+[2024-06-08 13:32:41] [db_update_price_detail] fail to get date: HVT.A
+[2024-06-08 13:32:41] [db_update_price_detail] fail to get date: TWO PR C
+[2024-06-08 13:32:45] [db_update_price_detail] fail to get date: AHL PR D
+[2024-06-08 13:32:58] [db_update_price_detail] fail to get date: ESMT
+[2024-06-08 13:32:59] [db_update_price_detail] fail to get date: DBRG PR I
+[2024-06-08 13:33:23] [db_update_price_detail] fail to get date: EFC PR E
+[2024-06-08 13:33:23] [db_update_price_detail] fail to get date: ASB PR F
+[2024-06-08 13:33:29] [db_update_price_detail] fail to get date: IVR PR B
+[2024-06-08 13:33:35] [db_update_price_detail] fail to get date: SF PR B
+[2024-06-08 13:33:39] [db_update_price_detail] fail to get date: MS PR E
+[2024-06-08 13:33:39] [db_update_price_detail] fail to get date: PRIF PR D
+[2024-06-08 13:33:42] [db_update_price_detail] fail to get date: CTA PR A
+[2024-06-14 23:37:14] [db_update_price_detail] fail to get date: JPM PR L
+[2024-06-14 23:37:23] [db_update_price_detail] fail to get date: BML PR G
+[2024-06-14 23:38:15] [db_update_price_detail] fail to get date: JPM PR M
+[2024-06-14 23:38:24] [db_update_price_detail] fail to get date: SDHY
+[2024-06-14 23:38:34] [db_update_price_detail] fail to get date: NMAI
+[2024-06-14 23:38:43] [db_update_price_detail] fail to get date: GAB PR H
+[2024-06-14 23:40:17] [db_update_price_detail] fail to get date: WRB PR G
+[2024-06-14 23:40:34] [db_update_price_detail] fail to get date: AUB PR A
+[2024-06-14 23:40:36] [db_update_price_detail] fail to get date: BIGZ
+[2024-06-14 23:40:38] [db_update_price_detail] fail to get date: USB PR S
+[2024-06-14 23:40:48] [db_update_price_detail] fail to get date: TRTN PR A
+[2024-06-14 23:40:50] [db_update_price_detail] fail to get date: RC PR E
+[2024-06-14 23:40:59] [db_update_price_detail] fail to get date: TRTN PR B
+[2024-06-14 23:41:44] [db_update_price_detail] fail to get date: AHL PR C
+[2024-06-14 23:42:18] [db_update_price_detail] fail to get date: TFC PR R
+[2024-06-14 23:42:55] [db_update_price_detail] fail to get date: NSA PR A
+[2024-06-14 23:43:36] [db_update_price_detail] fail to get date: TWO PR B
+[2024-06-14 23:43:42] [db_update_price_detail] fail to get date: CDR PR B
+[2024-06-14 23:43:47] [db_update_price_detail] fail to get date: DSX PR B
+[2024-06-14 23:44:01] [db_update_price_detail] fail to get date: CIM PR A
+[2024-06-14 23:44:03] [db_update_price_detail] fail to get date: RRAC.U
+[2024-06-14 23:44:49] [db_update_price_detail] fail to get date: SNV PR E
+[2024-06-14 23:45:23] [db_update_price_detail] fail to get date: ARGO PR A
+[2024-06-14 23:46:08] [db_update_price_detail] fail to get date: BAC PR O
+[2024-06-14 23:46:18] [db_update_price_detail] fail to get date: SRG PR A
+[2024-06-14 23:46:20] [db_update_price_detail] fail to get date: BAC PR B
+[2024-06-14 23:46:22] [db_update_price_detail] fail to get date: SCE PR K
+[2024-06-14 23:46:49] [db_update_price_detail] fail to get date: TNP PR E
+[2024-06-14 23:47:10] [db_update_price_detail] fail to get date: BC PR A
+[2024-06-14 23:47:12] [db_update_price_detail] fail to get date: JPM PR J
+[2024-06-14 23:47:22] [db_update_price_detail] fail to get date: FHN PR C
+[2024-06-14 23:47:50] [db_update_price_detail] fail to get date: MET PR A
+[2024-06-14 23:48:01] [db_update_price_detail] fail to get date: BHG
+[2024-06-14 23:48:25] [db_update_price_detail] fail to get date: PRIF PR H
+[2024-06-14 23:48:45] [db_update_price_detail] fail to get date: DLNG PR A
+[2024-06-14 23:48:56] [db_update_price_detail] fail to get date: SF PR C
+[2024-06-14 23:49:18] [db_update_price_detail] fail to get date: CMRE PR D
+[2024-06-14 23:49:35] [db_update_price_detail] fail to get date: CUBI PR E
+[2024-06-14 23:49:41] [db_update_price_detail] fail to get date: CUBI PR F
+[2024-06-14 23:50:43] [db_update_price_detail] fail to get date: SF PR D
+[2024-06-14 23:51:05] [db_update_price_detail] fail to get date: RF PR E
+[2024-06-14 23:51:14] [db_update_price_detail] fail to get date: MOG.A
+[2024-06-14 23:51:15] [db_update_price_detail] fail to get date: EPR PR C
+[2024-06-14 23:51:16] [db_update_price_detail] fail to get date: AKO.B
+[2024-06-14 23:51:38] [db_update_price_detail] fail to get date: TCOA.U
+[2024-06-14 23:52:31] [db_update_price_detail] fail to get date: ATH PR A
+[2024-06-14 23:53:00] [db_update_price_detail] fail to get date: WFC PR C
+[2024-06-14 23:53:03] [db_update_price_detail] fail to get date: TY PR
+[2024-06-14 23:53:27] [db_update_price_detail] fail to get date: MFA PR C
+[2024-06-14 23:53:31] [db_update_price_detail] fail to get date: PSA PR K
+[2024-06-14 23:53:49] [db_update_price_detail] fail to get date: PSEC PR A
+[2024-06-14 23:53:58] [db_update_price_detail] fail to get date: GPMT PR A
+[2024-06-14 23:54:20] [db_update_price_detail] fail to get date: TDS PR V
+[2024-06-14 23:54:35] [db_update_price_detail] fail to get date: BFS PR D
+[2024-06-14 23:54:39] [db_update_price_detail] fail to get date: KIM PR L
+[2024-06-14 23:54:51] [db_update_price_detail] fail to get date: SCE PR J
+[2024-06-14 23:54:55] [db_update_price_detail] fail to get date: ALL PR J
+[2024-06-14 23:54:59] [db_update_price_detail] fail to get date: WRB PR E
+[2024-06-14 23:55:24] [db_update_price_detail] fail to get date: DBRG PR J
+[2024-06-14 23:55:28] [db_update_price_detail] fail to get date: EFC PR B
+[2024-06-14 23:55:48] [db_update_price_detail] fail to get date: MTB PR J
+[2024-06-14 23:55:49] [db_update_price_detail] fail to get date: DMA
+[2024-06-14 23:56:08] [db_update_price_detail] fail to get date: CELG RT
+[2024-06-14 23:56:15] [db_update_price_detail] fail to get date: SB PR D
+[2024-06-14 23:56:38] [db_update_price_detail] fail to get date: GAM PR B
+[2024-06-14 23:57:04] [db_update_price_detail] fail to get date: BNRE.A
+[2024-06-14 23:57:05] [db_update_price_detail] fail to get date: KEY PR K
+[2024-06-14 23:57:06] [db_update_price_detail] fail to get date: RJF PR B
+[2024-06-14 23:57:17] [db_update_price_detail] fail to get date: VNO PR O
+[2024-06-14 23:57:21] [db_update_price_detail] fail to get date: BHR PR D
+[2024-06-14 23:57:46] [db_update_price_detail] fail to get date: DUK PR A
+[2024-06-14 23:58:04] [db_update_price_detail] fail to get date: WFC PR L
+[2024-06-14 23:58:29] [db_update_price_detail] fail to get date: BAC PR K
+[2024-06-14 23:58:31] [db_update_price_detail] fail to get date: SR PR A
+[2024-06-14 23:58:35] [db_update_price_detail] fail to get date: AGM PR E
+[2024-06-14 23:58:51] [db_update_price_detail] fail to get date: PSA PR S
+[2024-06-14 23:58:59] [db_update_price_detail] fail to get date: MITT PR A
+[2024-06-14 23:59:03] [db_update_price_detail] fail to get date: PRIF PR I
+[2024-06-14 23:59:07] [db_update_price_detail] fail to get date: RWT PR A
+[2024-06-14 23:59:24] [db_update_price_detail] fail to get date: ANG PR B
+[2024-06-14 23:59:57] [db_update_price_detail] fail to get date: AKO.A
+[2024-06-14 23:59:58] [db_update_price_detail] fail to get date: CIM PR B
+[2024-06-15 00:00:12] [db_update_price_detail] fail to get date: OPA
+[2024-06-15 00:00:51] [db_update_price_detail] fail to get date: BRK.B
+[2024-06-15 00:00:56] [db_update_price_detail] fail to get date: ABR PR D
+[2024-06-15 00:00:57] [db_update_price_detail] fail to get date: PMT PR B
+[2024-06-15 00:01:28] [db_update_price_detail] fail to get date: ATH PR D
+[2024-06-15 00:01:36] [db_update_price_detail] fail to get date: ALL PR H
+[2024-06-15 00:01:40] [db_update_price_detail] fail to get date: RFMZ
+[2024-06-15 00:02:14] [db_update_price_detail] fail to get date: CFG PR E
+[2024-06-15 00:02:30] [db_update_price_detail] fail to get date: BANC PR F
+[2024-06-15 00:02:57] [db_update_price_detail] fail to get date: ABR PR E
+[2024-06-15 00:03:04] [db_update_price_detail] fail to get date: CMRE PR C
+[2024-06-15 00:03:17] [db_update_price_detail] fail to get date: GS PR D
+[2024-06-15 00:03:22] [db_update_price_detail] fail to get date: NYCB PR A
+[2024-06-15 00:49:26] [db_update_price_detail] fail to get date: JPM PR L
+[2024-06-15 00:49:30] [db_update_price_detail] fail to get date: BML PR G
+[2024-06-15 00:50:00] [db_update_price_detail] fail to get date: JPM PR M
+[2024-06-15 00:50:06] [db_update_price_detail] fail to get date: SDHY
+[2024-06-15 00:50:12] [db_update_price_detail] fail to get date: NMAI
+[2024-06-15 00:50:18] [db_update_price_detail] fail to get date: GAB PR H
+[2024-06-15 00:51:16] [db_update_price_detail] fail to get date: WRB PR G
+[2024-06-15 00:51:27] [db_update_price_detail] fail to get date: AUB PR A
+[2024-06-15 00:51:28] [db_update_price_detail] fail to get date: BIGZ
+[2024-06-15 00:51:29] [db_update_price_detail] fail to get date: USB PR S
+[2024-06-15 00:51:36] [db_update_price_detail] fail to get date: TRTN PR A
+[2024-06-15 00:51:37] [db_update_price_detail] fail to get date: RC PR E
+[2024-06-15 00:51:43] [db_update_price_detail] fail to get date: TRTN PR B
+[2024-06-15 00:52:12] [db_update_price_detail] fail to get date: AHL PR C
+[2024-06-15 00:52:33] [db_update_price_detail] fail to get date: TFC PR R
+[2024-06-15 00:52:55] [db_update_price_detail] fail to get date: NSA PR A
+[2024-06-15 00:53:22] [db_update_price_detail] fail to get date: TWO PR B
+[2024-06-15 00:53:25] [db_update_price_detail] fail to get date: CDR PR B
+[2024-06-15 00:53:29] [db_update_price_detail] fail to get date: DSX PR B
+[2024-06-15 00:53:38] [db_update_price_detail] fail to get date: CIM PR A
+[2024-06-15 00:53:39] [db_update_price_detail] fail to get date: RRAC.U
+[2024-06-15 00:54:09] [db_update_price_detail] fail to get date: SNV PR E
+[2024-06-15 00:54:32] [db_update_price_detail] fail to get date: ARGO PR A
+[2024-06-15 00:55:03] [db_update_price_detail] fail to get date: BAC PR O
+[2024-06-15 00:55:09] [db_update_price_detail] fail to get date: SRG PR A
+[2024-06-15 00:55:10] [db_update_price_detail] fail to get date: BAC PR B
+[2024-06-15 00:55:12] [db_update_price_detail] fail to get date: SCE PR K
+[2024-06-15 00:55:29] [db_update_price_detail] fail to get date: TNP PR E
+[2024-06-15 00:55:44] [db_update_price_detail] fail to get date: BC PR A
+[2024-06-15 00:55:46] [db_update_price_detail] fail to get date: JPM PR J
+[2024-06-15 00:55:52] [db_update_price_detail] fail to get date: FHN PR C
+[2024-06-15 00:56:11] [db_update_price_detail] fail to get date: MET PR A
+[2024-06-15 00:56:18] [db_update_price_detail] fail to get date: BHG
+[2024-06-15 00:56:33] [db_update_price_detail] fail to get date: PRIF PR H
+[2024-06-15 00:56:50] [db_update_price_detail] fail to get date: DLNG PR A
+[2024-06-15 00:56:57] [db_update_price_detail] fail to get date: SF PR C
+[2024-06-15 00:57:13] [db_update_price_detail] fail to get date: CMRE PR D
+[2024-06-15 00:57:27] [db_update_price_detail] fail to get date: CUBI PR E
+[2024-06-15 00:57:31] [db_update_price_detail] fail to get date: CUBI PR F
+[2024-06-15 00:58:24] [db_update_price_detail] fail to get date: SF PR D
+[2024-06-15 00:58:54] [db_update_price_detail] fail to get date: RF PR E
+[2024-06-15 00:59:05] [db_update_price_detail] fail to get date: MOG.A
+[2024-06-15 00:59:06] [db_update_price_detail] fail to get date: EPR PR C
+[2024-06-15 00:59:07] [db_update_price_detail] fail to get date: AKO.B
+[2024-06-15 00:59:37] [db_update_price_detail] fail to get date: TCOA.U
+[2024-06-15 01:00:39] [db_update_price_detail] fail to get date: ATH PR A
+[2024-06-15 01:01:10] [db_update_price_detail] fail to get date: WFC PR C
+[2024-06-15 01:01:15] [db_update_price_detail] fail to get date: TY PR
+[2024-06-15 01:01:39] [db_update_price_detail] fail to get date: MFA PR C
+[2024-06-15 01:01:44] [db_update_price_detail] fail to get date: PSA PR K
+[2024-06-15 01:02:03] [db_update_price_detail] fail to get date: PSEC PR A
+[2024-06-15 01:02:14] [db_update_price_detail] fail to get date: GPMT PR A
+[2024-06-15 01:02:35] [db_update_price_detail] fail to get date: TDS PR V
+[2024-06-15 01:02:48] [db_update_price_detail] fail to get date: BFS PR D
+[2024-06-15 01:02:52] [db_update_price_detail] fail to get date: KIM PR L
+[2024-06-15 01:03:02] [db_update_price_detail] fail to get date: SCE PR J
+[2024-06-15 01:03:07] [db_update_price_detail] fail to get date: ALL PR J
+[2024-06-15 01:03:11] [db_update_price_detail] fail to get date: WRB PR E
+[2024-06-15 01:03:35] [db_update_price_detail] fail to get date: DBRG PR J
+[2024-06-15 01:03:39] [db_update_price_detail] fail to get date: EFC PR B
+[2024-06-15 01:03:57] [db_update_price_detail] fail to get date: MTB PR J
+[2024-06-15 01:03:59] [db_update_price_detail] fail to get date: DMA
+[2024-06-15 01:04:17] [db_update_price_detail] fail to get date: CELG RT
+[2024-06-15 01:04:24] [db_update_price_detail] fail to get date: SB PR D
+[2024-06-15 01:04:46] [db_update_price_detail] fail to get date: GAM PR B
+[2024-06-15 01:05:10] [db_update_price_detail] fail to get date: BNRE.A
+[2024-06-15 01:05:11] [db_update_price_detail] fail to get date: KEY PR K
+[2024-06-15 01:05:13] [db_update_price_detail] fail to get date: RJF PR B
+[2024-06-15 01:05:22] [db_update_price_detail] fail to get date: VNO PR O
+[2024-06-15 01:05:26] [db_update_price_detail] fail to get date: BHR PR D
+[2024-06-15 01:05:51] [db_update_price_detail] fail to get date: DUK PR A
+[2024-06-15 01:06:07] [db_update_price_detail] fail to get date: WFC PR L
+[2024-06-15 01:06:31] [db_update_price_detail] fail to get date: BAC PR K
+[2024-06-15 01:06:32] [db_update_price_detail] fail to get date: SR PR A
+[2024-06-15 01:06:36] [db_update_price_detail] fail to get date: AGM PR E
+[2024-06-15 01:06:52] [db_update_price_detail] fail to get date: PSA PR S
+[2024-06-15 01:06:59] [db_update_price_detail] fail to get date: MITT PR A
+[2024-06-15 01:07:03] [db_update_price_detail] fail to get date: PRIF PR I
+[2024-06-15 01:07:07] [db_update_price_detail] fail to get date: RWT PR A
+[2024-06-15 01:07:24] [db_update_price_detail] fail to get date: ANG PR B
+[2024-06-15 01:07:54] [db_update_price_detail] fail to get date: AKO.A
+[2024-06-15 01:07:56] [db_update_price_detail] fail to get date: CIM PR B
+[2024-06-15 01:08:08] [db_update_price_detail] fail to get date: OPA
+[2024-06-15 01:08:45] [db_update_price_detail] fail to get date: BRK.B
+[2024-06-15 01:08:48] [db_update_price_detail] fail to get date: ABR PR D
+[2024-06-15 01:08:50] [db_update_price_detail] fail to get date: PMT PR B
+[2024-06-15 01:09:17] [db_update_price_detail] fail to get date: ATH PR D
+[2024-06-15 01:09:25] [db_update_price_detail] fail to get date: ALL PR H
+[2024-06-15 01:09:29] [db_update_price_detail] fail to get date: RFMZ
+[2024-06-15 01:09:57] [db_update_price_detail] fail to get date: CFG PR E
+[2024-06-15 01:10:10] [db_update_price_detail] fail to get date: BANC PR F
+[2024-06-15 01:10:35] [db_update_price_detail] fail to get date: ABR PR E
+[2024-06-15 01:10:42] [db_update_price_detail] fail to get date: CMRE PR C
+[2024-06-15 01:10:55] [db_update_price_detail] fail to get date: GS PR D
+[2024-06-15 01:10:59] [db_update_price_detail] fail to get date: NYCB PR A
+[2024-06-15 01:11:12] [db_update_price_detail] fail to get date: CMRE PR B
+[2024-06-15 01:11:19] [db_update_price_detail] fail to get date: SEAL PR A
+[2024-06-15 01:11:26] [db_update_price_detail] fail to get date: MS PR K
+[2024-06-15 01:11:42] [db_update_price_detail] fail to get date: CDR PR C
+[2024-06-15 01:11:52] [db_update_price_detail] fail to get date: PEB PR E
+[2024-06-15 01:12:05] [db_update_price_detail] fail to get date: EFC PR D
+[2024-06-15 01:12:07] [db_update_price_detail] fail to get date: SEDA.U
+[2024-06-15 01:12:47] [db_update_price_detail] fail to get date: WDI
+[2024-06-15 01:13:00] [db_update_price_detail] fail to get date: PSA PR O
+[2024-06-15 01:13:08] [db_update_price_detail] fail to get date: SCE PR N
+[2024-06-15 01:13:15] [db_update_price_detail] fail to get date: MET PR E
+[2024-06-15 01:13:49] [db_update_price_detail] fail to get date: WBS PR G
+[2024-06-15 01:13:50] [db_update_price_detail] fail to get date: BAC PR L
+[2024-06-15 01:13:52] [db_update_price_detail] fail to get date: ACR PR D
+[2024-06-15 01:14:16] [db_update_price_detail] fail to get date: PDO
+[2024-06-15 01:14:23] [db_update_price_detail] fail to get date: INN PR F
+[2024-06-15 01:14:39] [db_update_price_detail] fail to get date: EQH PR A
+[2024-06-15 01:14:49] [db_update_price_detail] fail to get date: RCFA.U
+[2024-06-15 01:15:05] [db_update_price_detail] fail to get date: AHT PR H
+[2024-06-15 01:15:06] [db_update_price_detail] fail to get date: JXN PR A
+[2024-06-15 01:15:25] [db_update_price_detail] fail to get date: FTHY
+[2024-06-15 01:15:26] [db_update_price_detail] fail to get date: BFS PR E
+[2024-06-15 01:15:45] [db_update_price_detail] fail to get date: GNL PR B
+[2024-06-15 01:15:49] [db_update_price_detail] fail to get date: BF.A
+[2024-06-15 01:16:05] [db_update_price_detail] fail to get date: MITT PR C
+[2024-06-15 01:16:46] [db_update_price_detail] fail to get date: MKC.V
+[2024-06-15 01:17:24] [db_update_price_detail] fail to get date: ADC PR A
+[2024-06-15 01:17:43] [db_update_price_detail] fail to get date: ATH PR B
+[2024-06-15 01:18:05] [db_update_price_detail] fail to get date: KREF PR A
+[2024-06-15 01:18:13] [db_update_price_detail] fail to get date: HEI.A
+[2024-06-15 01:18:32] [db_update_price_detail] fail to get date: MMM WD
+[2024-06-15 01:18:42] [db_update_price_detail] fail to get date: REXR PR C
+[2024-06-15 01:18:49] [db_update_price_detail] fail to get date: OPP PR B
+[2024-06-15 01:18:56] [db_update_price_detail] fail to get date: IIPR PR A
+[2024-06-15 01:18:58] [db_update_price_detail] fail to get date: BIP PR B
+[2024-06-15 01:19:20] [db_update_price_detail] fail to get date: COF PR L
+[2024-06-15 01:19:55] [db_update_price_detail] fail to get date: TRTX PR C
+[2024-06-15 01:20:21] [db_update_price_detail] fail to get date: PRIF PR G
+[2024-06-15 01:20:37] [db_update_price_detail] fail to get date: NFYS.U
+[2024-06-15 01:20:47] [db_update_price_detail] fail to get date: GEF.B
+[2024-06-15 01:21:34] [db_update_price_detail] fail to get date: SITC PR A
+[2024-06-15 01:21:35] [db_update_price_detail] fail to get date: CRD.B
+[2024-06-15 01:22:42] [db_update_price_detail] fail to get date: NYCB PR U
+[2024-06-15 01:23:19] [db_update_price_detail] fail to get date: SPNT PR B
+[2024-06-15 01:23:20] [db_update_price_detail] fail to get date: CIO PR A
+[2024-06-15 01:23:27] [db_update_price_detail] fail to get date: PSA PR M
+[2024-06-15 01:23:50] [db_update_price_detail] fail to get date: RF PR C
+[2024-06-15 01:23:51] [db_update_price_detail] fail to get date: VOYA PR B
+[2024-06-15 01:23:58] [db_update_price_detail] fail to get date: PMT PR A
+[2024-06-15 01:24:07] [db_update_price_detail] fail to get date: USB PR R
+[2024-06-15 01:24:35] [db_update_price_detail] fail to get date: LGF.A
+[2024-06-15 01:24:54] [db_update_price_detail] fail to get date: AHL PR E
+[2024-06-15 01:25:13] [db_update_price_detail] fail to get date: JPM PR K
+[2024-06-15 01:25:14] [db_update_price_detail] fail to get date: FRT PR C
+[2024-06-15 01:25:28] [db_update_price_detail] fail to get date: BW PR A
+[2024-06-15 01:25:49] [db_update_price_detail] fail to get date: JPM PR D
+[2024-06-15 01:25:55] [db_update_price_detail] fail to get date: CMS PR B
+[2024-06-15 01:25:56] [db_update_price_detail] fail to get date: RF PR B
+[2024-06-15 01:26:05] [db_update_price_detail] fail to get date: PRE PR J
+[2024-06-15 01:26:12] [db_update_price_detail] fail to get date: TNP PR F
+[2024-06-15 01:26:13] [db_update_price_detail] fail to get date: WCC PR A
+[2024-06-15 01:26:43] [db_update_price_detail] fail to get date: BH.A
+[2024-06-15 01:26:44] [db_update_price_detail] fail to get date: MFA PR B
+[2024-06-15 01:26:50] [db_update_price_detail] fail to get date: GNL PR A
+[2024-06-15 01:27:02] [db_update_price_detail] fail to get date: ATH PR C
+[2024-06-15 01:27:08] [db_update_price_detail] fail to get date: DLR PR K
+[2024-06-15 01:27:45] [db_update_price_detail] fail to get date: SHO PR I
+[2024-06-15 01:27:51] [db_update_price_detail] fail to get date: RITM PR D
+[2024-06-15 01:28:09] [db_update_price_detail] fail to get date: PMT PR C
+[2024-06-15 01:28:41] [db_update_price_detail] fail to get date: USB PR A
+[2024-06-15 01:28:50] [db_update_price_detail] fail to get date: STT PR G
+[2024-06-15 01:28:57] [db_update_price_detail] fail to get date: BAC PR N
+[2024-06-15 01:29:03] [db_update_price_detail] fail to get date: BOH PR A
+[2024-06-15 01:30:16] [db_update_price_detail] fail to get date: CIM PR D
+[2024-06-15 01:30:20] [db_update_price_detail] fail to get date: KEY PR J
+[2024-06-15 01:30:24] [db_update_price_detail] fail to get date: CODI PR C
+[2024-06-15 01:30:25] [db_update_price_detail] fail to get date: GDL PR C
+[2024-06-15 01:30:42] [db_update_price_detail] fail to get date: PRIF PR F
+[2024-06-15 01:30:56] [db_update_price_detail] fail to get date: CLBR.U
+[2024-06-15 01:31:02] [db_update_price_detail] fail to get date: MAA PR I
+[2024-06-15 01:31:16] [db_update_price_detail] fail to get date: TRTN PR E
+[2024-06-15 01:31:27] [db_update_price_detail] fail to get date: BCAT
+[2024-06-15 01:31:53] [db_update_price_detail] fail to get date: MET PR F
+[2024-06-15 01:32:28] [db_update_price_detail] fail to get date: SHO PR H
+[2024-06-15 01:32:29] [db_update_price_detail] fail to get date: WEL.U
+[2024-06-15 01:32:41] [db_update_price_detail] fail to get date: ICR PR A
+[2024-06-15 01:33:13] [db_update_price_detail] fail to get date: KCGI.U
+[2024-06-15 01:33:24] [db_update_price_detail] fail to get date: PEB PR F
+[2024-06-15 01:33:46] [db_update_price_detail] fail to get date: KEY PR L
+[2024-06-15 01:33:53] [db_update_price_detail] fail to get date: NLY PR I
+[2024-06-15 01:33:54] [db_update_price_detail] fail to get date: AGM PR C
+[2024-06-15 01:33:55] [db_update_price_detail] fail to get date: OAK PR A
+[2024-06-15 01:33:59] [db_update_price_detail] fail to get date: UHAL.B
+[2024-06-15 01:34:08] [db_update_price_detail] fail to get date: GGT PR G
+[2024-06-15 01:34:48] [db_update_price_detail] fail to get date: BAC PR P
+[2024-06-15 01:34:49] [db_update_price_detail] fail to get date: WFC PR A
+[2024-06-15 01:34:58] [db_update_price_detail] fail to get date: KIM PR M
+[2024-06-15 01:35:15] [db_update_price_detail] fail to get date: SB PR C
+[2024-06-15 01:35:21] [db_update_price_detail] fail to get date: CMS PR C
+[2024-06-15 01:35:40] [db_update_price_detail] fail to get date: WFC PR Y
+[2024-06-15 01:35:46] [db_update_price_detail] fail to get date: SYF PR B
+[2024-06-15 01:36:03] [db_update_price_detail] fail to get date: EQH PR C
+[2024-06-15 01:36:30] [db_update_price_detail] fail to get date: TRTN PR D
+[2024-06-15 01:36:37] [db_update_price_detail] fail to get date: GSL PR B
+[2024-06-15 01:37:04] [db_update_price_detail] fail to get date: COF PR J
+[2024-06-15 01:37:07] [db_update_price_detail] fail to get date: GLOP PR A
+[2024-06-15 01:37:14] [db_update_price_detail] fail to get date: CHMI PR B
+[2024-06-15 01:37:34] [db_update_price_detail] fail to get date: NCV PR A
+[2024-06-15 01:38:01] [db_update_price_detail] fail to get date: GMRE PR A
+[2024-06-15 01:38:12] [db_update_price_detail] fail to get date: KEY PR I
+[2024-06-15 01:38:21] [db_update_price_detail] fail to get date: GAB PR G
+[2024-06-15 01:38:22] [db_update_price_detail] fail to get date: OPP PR A
+[2024-06-15 01:38:28] [db_update_price_detail] fail to get date: KIM PR N
+[2024-06-15 01:38:30] [db_update_price_detail] fail to get date: IVR PR C
+[2024-06-15 01:38:36] [db_update_price_detail] fail to get date: RITM PR A
+[2024-06-15 01:38:40] [db_update_price_detail] fail to get date: TRIS.U
+[2024-06-15 01:38:41] [db_update_price_detail] fail to get date: SCE PR M
+[2024-06-15 01:38:50] [db_update_price_detail] fail to get date: RNR PR F
+[2024-06-15 01:38:53] [db_update_price_detail] fail to get date: AHH PR A
+[2024-06-15 01:39:50] [db_update_price_detail] fail to get date: BAC PR M
+[2024-06-15 01:40:27] [db_update_price_detail] fail to get date: XFLT PR A
+[2024-06-15 01:40:28] [db_update_price_detail] fail to get date: NLY PR G
+[2024-06-15 01:40:35] [db_update_price_detail] fail to get date: GLOP PR B
+[2024-06-15 01:40:47] [db_update_price_detail] fail to get date: MDV PR A
+[2024-06-15 01:41:11] [db_update_price_detail] fail to get date: ALL PR I
+[2024-06-15 01:41:12] [db_update_price_detail] fail to get date: SEAL PR B
+[2024-06-15 01:41:22] [db_update_price_detail] fail to get date: WFC PR D
+[2024-06-15 01:41:28] [db_update_price_detail] fail to get date: BFAC.U
+[2024-06-15 01:41:32] [db_update_price_detail] fail to get date: WBS PR F
+[2024-06-15 01:41:33] [db_update_price_detail] fail to get date: CIM PR C
+[2024-06-15 01:41:38] [db_update_price_detail] fail to get date: USB PR Q
+[2024-06-15 01:41:39] [db_update_price_detail] fail to get date: INN PR E
+[2024-06-15 01:41:40] [db_update_price_detail] fail to get date: CNO PR A
+[2024-06-15 01:41:41] [db_update_price_detail] fail to get date: LGF.B
+[2024-06-15 01:41:47] [db_update_price_detail] fail to get date: RLJ PR A
+[2024-06-15 01:42:04] [db_update_price_detail] fail to get date: CMRE PR E
+[2024-06-15 01:42:05] [db_update_price_detail] fail to get date: PSA PR H
+[2024-06-15 01:42:11] [db_update_price_detail] fail to get date: CFG PR D
+[2024-06-15 01:42:15] [db_update_price_detail] fail to get date: DRH PR A
+[2024-06-15 01:42:19] [db_update_price_detail] fail to get date: PSA PR P
+[2024-06-15 01:42:38] [db_update_price_detail] fail to get date: T PR A
+[2024-06-15 01:42:59] [db_update_price_detail] fail to get date: HYAC.U
+[2024-06-15 01:43:00] [db_update_price_detail] fail to get date: EPR PR G
+[2024-06-15 01:43:04] [db_update_price_detail] fail to get date: GUT PR C
+[2024-06-15 01:43:16] [db_update_price_detail] fail to get date: MSDL
+[2024-06-15 01:43:30] [db_update_price_detail] fail to get date: RIV PR A
+[2024-06-15 01:43:47] [db_update_price_detail] fail to get date: RITM PR C
+[2024-06-15 01:43:48] [db_update_price_detail] fail to get date: FHN PR F
+[2024-06-15 01:43:52] [db_update_price_detail] fail to get date: JPM PR C
+[2024-06-15 01:44:04] [db_update_price_detail] fail to get date: ECAT
+[2024-06-15 01:44:10] [db_update_price_detail] fail to get date: HFRO PR A
+[2024-06-15 01:44:14] [db_update_price_detail] fail to get date: PSA PR F
+[2024-06-15 01:44:38] [db_update_price_detail] fail to get date: EFC PR C
+[2024-06-15 01:45:01] [db_update_price_detail] fail to get date: HL PR B
+[2024-06-15 01:45:18] [db_update_price_detail] fail to get date: SPLP PR A
+[2024-06-15 01:45:19] [db_update_price_detail] fail to get date: PSA PR Q
+[2024-06-15 01:45:23] [db_update_price_detail] fail to get date: ALB PR A
+[2024-06-15 01:45:43] [db_update_price_detail] fail to get date: AXS PR E
+[2024-06-15 01:45:49] [db_update_price_detail] fail to get date: EBR.B
+[2024-06-15 01:46:01] [db_update_price_detail] fail to get date: FSCO
+[2024-06-15 01:46:12] [db_update_price_detail] fail to get date: BAC PR S
+[2024-06-15 01:46:32] [db_update_price_detail] fail to get date: CRD.A
+[2024-06-15 01:46:33] [db_update_price_detail] fail to get date: NLY PR F
+[2024-06-15 01:46:39] [db_update_price_detail] fail to get date: COF PR N
+[2024-06-15 01:47:02] [db_update_price_detail] fail to get date: SCE PR H
+[2024-06-15 01:47:03] [db_update_price_detail] fail to get date: COF PR K
+[2024-06-15 01:47:16] [db_update_price_detail] fail to get date: EPR PR E
+[2024-06-15 01:47:31] [db_update_price_detail] fail to get date: AMH PR G
+[2024-06-15 01:47:40] [db_update_price_detail] fail to get date: SAN PR B
+[2024-06-15 01:48:03] [db_update_price_detail] fail to get date: O PR
+[2024-06-15 01:48:09] [db_update_price_detail] fail to get date: NCDL
+[2024-06-15 01:48:13] [db_update_price_detail] fail to get date: T PR C
+[2024-06-15 01:48:23] [db_update_price_detail] fail to get date: BRK.A
+[2024-06-15 01:48:24] [db_update_price_detail] fail to get date: GTN.A
+[2024-06-15 01:48:31] [db_update_price_detail] fail to get date: GNL PR E
+[2024-06-15 01:48:42] [db_update_price_detail] fail to get date: DLNG PR B
+[2024-06-15 01:48:44] [db_update_price_detail] fail to get date: PRIF PR K
+[2024-06-15 01:48:50] [db_update_price_detail] fail to get date: CLDT PR A
+[2024-06-15 01:49:05] [db_update_price_detail] fail to get date: AL PR A
+[2024-06-15 01:49:14] [db_update_price_detail] fail to get date: ATCO PR H
+[2024-06-15 01:49:23] [db_update_price_detail] fail to get date: MS PR P
+[2024-06-15 01:49:32] [db_update_price_detail] fail to get date: PSA PR R
+[2024-06-15 01:49:46] [db_update_price_detail] fail to get date: MS PR L
+[2024-06-15 01:49:47] [db_update_price_detail] fail to get date: GNL PR D
+[2024-06-15 01:49:59] [db_update_price_detail] fail to get date: COF PR I
+[2024-06-15 01:50:01] [db_update_price_detail] fail to get date: VNO PR M
+[2024-06-15 01:50:23] [db_update_price_detail] fail to get date: ALL PR B
+[2024-06-15 01:50:32] [db_update_price_detail] fail to get date: GGT PR E
+[2024-06-15 01:50:39] [db_update_price_detail] fail to get date: SYF PR A
+[2024-06-15 01:51:29] [db_update_price_detail] fail to get date: GRP.U
+[2024-06-15 01:51:30] [db_update_price_detail] fail to get date: VNO PR L
+[2024-06-15 01:51:48] [db_update_price_detail] fail to get date: CWEN.A
+[2024-06-15 01:51:49] [db_update_price_detail] fail to get date: AHT PR D
+[2024-06-15 01:52:03] [db_update_price_detail] fail to get date: FHN PR E
+[2024-06-15 01:52:25] [db_update_price_detail] fail to get date: GTLS PR B
+[2024-06-15 01:52:34] [db_update_price_detail] fail to get date: GL PR D
+[2024-06-15 01:52:49] [db_update_price_detail] fail to get date: BAC PR E
+[2024-06-15 01:53:27] [db_update_price_detail] fail to get date: MOG.B
+[2024-06-15 01:53:44] [db_update_price_detail] fail to get date: ARR PR C
+[2024-06-15 01:53:45] [db_update_price_detail] fail to get date: ABR PR F
+[2024-06-15 01:53:57] [db_update_price_detail] fail to get date: LEN.B
+[2024-06-15 01:54:09] [db_update_price_detail] fail to get date: AACT.U
+[2024-06-15 01:54:18] [db_update_price_detail] fail to get date: HIG PR G
+[2024-06-15 01:54:22] [db_update_price_detail] fail to get date: MS PR A
+[2024-06-15 01:54:26] [db_update_price_detail] fail to get date: IFIN.U
+[2024-06-15 01:54:29] [db_update_price_detail] fail to get date: SCHW PR J
+[2024-06-15 01:54:41] [db_update_price_detail] fail to get date: MS PR I
+[2024-06-15 01:55:00] [db_update_price_detail] fail to get date: AHT PR I
+[2024-06-15 01:55:16] [db_update_price_detail] fail to get date: TWO PR A
+[2024-06-15 01:55:22] [db_update_price_detail] fail to get date: AGM.A
+[2024-06-15 01:55:26] [db_update_price_detail] fail to get date: TFC PR I
+[2024-06-15 01:55:33] [db_update_price_detail] fail to get date: PEB PR G
+[2024-06-15 01:55:37] [db_update_price_detail] fail to get date: USB PR P
+[2024-06-15 01:55:41] [db_update_price_detail] fail to get date: PEB PR H
+[2024-06-15 01:55:53] [db_update_price_detail] fail to get date: PRIF PR J
+[2024-06-15 01:55:56] [db_update_price_detail] fail to get date: BIP PR A
+[2024-06-15 01:55:58] [db_update_price_detail] fail to get date: FBRT PR E
+[2024-06-15 01:56:07] [db_update_price_detail] fail to get date: SBXC.U
+[2024-06-15 01:56:19] [db_update_price_detail] fail to get date: GDV PR K
+[2024-06-15 01:56:23] [db_update_price_detail] fail to get date: PRIF PR L
+[2024-06-15 01:56:24] [db_update_price_detail] fail to get date: GLP PR B
+[2024-06-15 01:56:30] [db_update_price_detail] fail to get date: BEP PR A
+[2024-06-15 01:56:42] [db_update_price_detail] fail to get date: RMPL PR
+[2024-06-15 01:56:47] [db_update_price_detail] fail to get date: AHT PR G
+[2024-06-15 01:57:01] [db_update_price_detail] fail to get date: DLR PR L
+[2024-06-15 01:57:12] [db_update_price_detail] fail to get date: UMH PR D
+[2024-06-15 01:57:19] [db_update_price_detail] fail to get date: APO PR A
+[2024-06-15 01:57:28] [db_update_price_detail] fail to get date: DBRG PR H
+[2024-06-15 01:57:50] [db_update_price_detail] fail to get date: WSO.B
+[2024-06-15 01:57:52] [db_update_price_detail] fail to get date: LFT PR A
+[2024-06-15 01:58:17] [db_update_price_detail] fail to get date: SLG PR I
+[2024-06-15 01:58:39] [db_update_price_detail] fail to get date: CHMI PR A
+[2024-06-15 01:58:40] [db_update_price_detail] fail to get date: TDS PR U
+[2024-06-15 01:59:16] [db_update_price_detail] fail to get date: GAB PR K
+[2024-06-15 02:00:15] [db_update_price_detail] fail to get date: CODI PR A
+[2024-06-15 02:00:30] [db_update_price_detail] fail to get date: EP PR C
+[2024-06-15 02:00:52] [db_update_price_detail] fail to get date: WRB PR F
+[2024-06-15 02:00:55] [db_update_price_detail] fail to get date: MS PR F
+[2024-06-15 02:01:09] [db_update_price_detail] fail to get date: CFR PR B
+[2024-06-15 02:01:36] [db_update_price_detail] fail to get date: NSA PR B
+[2024-06-15 02:01:56] [db_update_price_detail] fail to get date: RC PR C
+[2024-06-15 02:03:12] [db_update_price_detail] fail to get date: GS PR C
+[2024-06-15 02:03:18] [db_update_price_detail] fail to get date: CSR PR C
+[2024-06-15 02:03:43] [db_update_price_detail] fail to get date: GNT PR A
+[2024-06-15 02:03:44] [db_update_price_detail] fail to get date: ATH PR E
+[2024-06-15 02:03:51] [db_update_price_detail] fail to get date: OAK PR B
+[2024-06-15 02:04:28] [db_update_price_detail] fail to get date: ONIT
+[2024-06-15 02:04:29] [db_update_price_detail] fail to get date: CTA PR B
+[2024-06-15 02:04:33] [db_update_price_detail] fail to get date: LXP PR C
+[2024-06-15 02:04:47] [db_update_price_detail] fail to get date: SPE PR C
+[2024-06-15 02:05:04] [db_update_price_detail] fail to get date: BF.B
+[2024-06-15 02:05:16] [db_update_price_detail] fail to get date: BAC PR Q
+[2024-06-15 02:05:17] [db_update_price_detail] fail to get date: PBR.A
+[2024-06-15 02:05:31] [db_update_price_detail] fail to get date: CCIF
+[2024-06-15 02:06:11] [db_update_price_detail] fail to get date: NEE PR N
+[2024-06-15 02:06:26] [db_update_price_detail] fail to get date: ATCO PR D
+[2024-06-15 02:06:35] [db_update_price_detail] fail to get date: GLOP PR C
+[2024-06-15 02:06:48] [db_update_price_detail] fail to get date: APCA.U
+[2024-06-15 02:07:14] [db_update_price_detail] fail to get date: WFC PR Z
+[2024-06-15 02:07:28] [db_update_price_detail] fail to get date: CTO PR A
+[2024-06-15 02:07:45] [db_update_price_detail] fail to get date: EAI
+[2024-06-15 02:07:48] [db_update_price_detail] fail to get date: ETI PR
+[2024-06-15 02:07:52] [db_update_price_detail] fail to get date: BML PR H
+[2024-06-15 02:08:11] [db_update_price_detail] fail to get date: AGM PR G
+[2024-06-15 02:08:15] [db_update_price_detail] fail to get date: MITT PR B
+[2024-06-15 02:08:16] [db_update_price_detail] fail to get date: ECC PR D
+[2024-06-15 02:08:20] [db_update_price_detail] fail to get date: RNR PR G
+[2024-06-15 02:08:26] [db_update_price_detail] fail to get date: NXDT PR A
+[2024-06-15 02:08:33] [db_update_price_detail] fail to get date: GOL
+[2024-06-15 02:08:48] [db_update_price_detail] fail to get date: MTB PR H
+[2024-06-15 02:09:28] [db_update_price_detail] fail to get date: SCE PR G
+[2024-06-15 02:09:31] [db_update_price_detail] fail to get date: TAP.A
+[2024-06-15 02:10:00] [db_update_price_detail] fail to get date: HPP PR C
+[2024-06-15 02:10:06] [db_update_price_detail] fail to get date: FINS
+[2024-06-15 02:10:56] [db_update_price_detail] fail to get date: SCHW PR D
+[2024-06-15 02:11:03] [db_update_price_detail] fail to get date: NGL PR B
+[2024-06-15 02:11:12] [db_update_price_detail] fail to get date: DLR PR J
+[2024-06-15 02:11:38] [db_update_price_detail] fail to get date: CODI PR B
+[2024-06-15 02:11:56] [db_update_price_detail] fail to get date: NGL PR C
+[2024-06-15 02:12:05] [db_update_price_detail] fail to get date: RITM PR B
+[2024-06-15 02:12:12] [db_update_price_detail] fail to get date: WAL PR A
+[2024-06-15 02:12:27] [db_update_price_detail] fail to get date: TFC PR O
+[2024-06-15 02:12:31] [db_update_price_detail] fail to get date: PSA PR G
+[2024-06-15 02:12:48] [db_update_price_detail] fail to get date: GUG
+[2024-06-15 02:12:52] [db_update_price_detail] fail to get date: GRBK PR A
+[2024-06-15 02:13:06] [db_update_price_detail] fail to get date: NPFD
+[2024-06-15 02:13:10] [db_update_price_detail] fail to get date: SNV PR D
+[2024-06-15 02:13:11] [db_update_price_detail] fail to get date: WRB PR H
+[2024-06-15 02:13:34] [db_update_price_detail] fail to get date: NDMO
+[2024-06-15 02:13:35] [db_update_price_detail] fail to get date: ASB PR E
+[2024-06-15 02:13:46] [db_update_price_detail] fail to get date: SCE PR L
+[2024-06-15 02:13:48] [db_update_price_detail] fail to get date: MNTN.U
+[2024-06-15 02:14:00] [db_update_price_detail] fail to get date: PSA PR I
+[2024-06-15 02:14:25] [db_update_price_detail] fail to get date: ANG PR A
+[2024-06-15 02:14:32] [db_update_price_detail] fail to get date: NCZ PR A
+[2024-06-15 02:15:07] [db_update_price_detail] fail to get date: REXR PR B
+[2024-06-15 02:15:13] [db_update_price_detail] fail to get date: BIO.B
+[2024-06-15 02:15:17] [db_update_price_detail] fail to get date: GDV PR H
+[2024-06-15 02:15:23] [db_update_price_detail] fail to get date: AGM PR F
+[2024-06-15 02:15:27] [db_update_price_detail] fail to get date: EFC PR A
+[2024-06-15 02:15:34] [db_update_price_detail] fail to get date: PHYT.U
+[2024-06-15 02:15:35] [db_update_price_detail] fail to get date: TRTL.U
+[2024-06-15 02:15:36] [db_update_price_detail] fail to get date: BML PR L
+[2024-06-15 02:15:38] [db_update_price_detail] fail to get date: PSA PR J
+[2024-06-15 02:15:55] [db_update_price_detail] fail to get date: BML PR J
+[2024-06-15 02:16:15] [db_update_price_detail] fail to get date: STEW
+[2024-06-15 02:16:28] [db_update_price_detail] fail to get date: BC PR B
+[2024-06-15 02:16:34] [db_update_price_detail] fail to get date: AMH PR H
+[2024-06-15 02:16:50] [db_update_price_detail] fail to get date: CFG PR H
+[2024-06-15 02:16:51] [db_update_price_detail] fail to get date: AGM PR D
+[2024-06-15 02:17:01] [db_update_price_detail] fail to get date: LCW.U
+[2024-06-15 02:17:07] [db_update_price_detail] fail to get date: LNC PR D
+[2024-06-15 02:17:09] [db_update_price_detail] fail to get date: USB PR H
+[2024-06-15 02:17:13] [db_update_price_detail] fail to get date: NEE PR R
+[2024-06-15 02:17:17] [db_update_price_detail] fail to get date: ET PR I
+[2024-06-15 02:17:24] [db_update_price_detail] fail to get date: NBXG
+[2024-06-15 02:17:35] [db_update_price_detail] fail to get date: AHT PR F
+[2024-06-15 02:17:36] [db_update_price_detail] fail to get date: TRTN PR C
+[2024-06-15 02:17:45] [db_update_price_detail] fail to get date: PSA PR L
+[2024-06-15 02:18:47] [db_update_price_detail] fail to get date: MIO
+[2024-06-15 02:18:56] [db_update_price_detail] fail to get date: C PR N
+[2024-06-15 02:19:25] [db_update_price_detail] fail to get date: ALTG PR A
+[2024-06-15 02:19:58] [db_update_price_detail] fail to get date: EDI
+[2024-06-15 02:20:05] [db_update_price_detail] fail to get date: NREF PR A
+[2024-06-15 02:20:20] [db_update_price_detail] fail to get date: MS PR O
+[2024-06-15 02:20:21] [db_update_price_detail] fail to get date: DX PR C
+[2024-06-15 02:20:22] [db_update_price_detail] fail to get date: ACR PR C
+[2024-06-15 02:20:49] [db_update_price_detail] fail to get date: CADE PR A
+[2024-06-15 02:21:07] [db_update_price_detail] fail to get date: SFB
+[2024-06-15 02:21:19] [db_update_price_detail] fail to get date: BHR PR B
+[2024-06-15 02:21:54] [db_update_price_detail] fail to get date: MEGI
+[2024-06-15 02:21:55] [db_update_price_detail] fail to get date: ACP PR A
+[2024-06-15 02:22:03] [db_update_price_detail] fail to get date: CIG.C
+[2024-06-15 02:22:12] [db_update_price_detail] fail to get date: VNO PR N
+[2024-06-15 02:22:19] [db_update_price_detail] fail to get date: EQC PR D
+[2024-06-15 02:22:20] [db_update_price_detail] fail to get date: PSA PR N
+[2024-06-15 02:22:35] [db_update_price_detail] fail to get date: FHN PR B
+[2024-06-15 02:22:39] error in EGLE. 'symbol'
+[2024-06-15 02:22:49] [db_update_price_detail] fail to get date: GS PR A
+[2024-06-15 02:23:05] [db_update_price_detail] fail to get date: SPG PR J
+[2024-06-15 02:23:20] [db_update_price_detail] fail to get date: HVT.A
+[2024-06-15 02:23:21] [db_update_price_detail] fail to get date: TWO PR C
+[2024-06-15 02:23:25] [db_update_price_detail] fail to get date: AHL PR D
+[2024-06-15 02:23:41] [db_update_price_detail] fail to get date: ESMT
+[2024-06-15 02:23:42] [db_update_price_detail] fail to get date: DBRG PR I
+[2024-06-15 02:24:08] [db_update_price_detail] fail to get date: EFC PR E
+[2024-06-15 02:24:15] [db_update_price_detail] fail to get date: ASB PR F
+[2024-06-15 02:24:22] [db_update_price_detail] fail to get date: IVR PR B
+[2024-06-15 02:24:29] [db_update_price_detail] fail to get date: SF PR B
+[2024-06-15 02:24:33] [db_update_price_detail] fail to get date: MS PR E
+[2024-06-15 02:24:34] [db_update_price_detail] fail to get date: PRIF PR D
+[2024-06-15 02:24:38] [db_update_price_detail] fail to get date: CTA PR A
+[2024-06-15 22:36:44] [db_update_price_detail] fail to get date: JPM PR L
+[2024-06-15 22:36:48] [db_update_price_detail] fail to get date: BML PR G
+[2024-06-15 22:37:21] [db_update_price_detail] fail to get date: JPM PR M
+[2024-06-15 22:37:27] [db_update_price_detail] fail to get date: SDHY
+[2024-06-15 22:37:34] [db_update_price_detail] fail to get date: NMAI
+[2024-06-15 22:37:40] [db_update_price_detail] fail to get date: GAB PR H
+[2024-06-15 22:38:45] [db_update_price_detail] fail to get date: WRB PR G
+[2024-06-15 22:38:57] [db_update_price_detail] fail to get date: AUB PR A
+[2024-06-15 22:38:58] [db_update_price_detail] fail to get date: BIGZ
+[2024-06-15 22:38:58] [db_update_price_detail] fail to get date: USB PR S
+[2024-06-15 22:39:04] [db_update_price_detail] fail to get date: TRTN PR A
+[2024-06-15 22:39:05] [db_update_price_detail] fail to get date: RC PR E
+[2024-06-15 22:39:11] [db_update_price_detail] fail to get date: TRTN PR B
+[2024-06-15 22:39:44] [db_update_price_detail] fail to get date: AHL PR C
+[2024-06-15 22:40:07] [db_update_price_detail] fail to get date: TFC PR R
+[2024-06-15 22:40:32] [db_update_price_detail] fail to get date: NSA PR A
+[2024-06-15 22:41:02] [db_update_price_detail] fail to get date: TWO PR B
+[2024-06-15 22:41:06] [db_update_price_detail] fail to get date: CDR PR B
+[2024-06-15 22:41:10] [db_update_price_detail] fail to get date: DSX PR B
+[2024-06-15 22:41:20] [db_update_price_detail] fail to get date: CIM PR A
+[2024-06-15 22:41:20] [db_update_price_detail] fail to get date: RRAC.U
+[2024-06-15 22:41:55] [db_update_price_detail] fail to get date: SNV PR E
+[2024-06-15 22:42:24] [db_update_price_detail] fail to get date: ARGO PR A
+[2024-06-15 22:43:07] [db_update_price_detail] fail to get date: BAC PR O
+[2024-06-15 22:43:17] [db_update_price_detail] fail to get date: SRG PR A
+[2024-06-15 22:43:18] [db_update_price_detail] fail to get date: BAC PR B
+[2024-06-15 22:43:19] [db_update_price_detail] fail to get date: SCE PR K
+[2024-06-15 22:43:45] [db_update_price_detail] fail to get date: TNP PR E
+[2024-06-15 22:44:06] [db_update_price_detail] fail to get date: BC PR A
+[2024-06-15 22:44:07] [db_update_price_detail] fail to get date: JPM PR J
+[2024-06-15 22:44:17] [db_update_price_detail] fail to get date: FHN PR C
+[2024-06-15 22:44:44] [db_update_price_detail] fail to get date: MET PR A
+[2024-06-15 22:44:53] [db_update_price_detail] fail to get date: BHG
+[2024-06-15 22:45:15] [db_update_price_detail] fail to get date: PRIF PR H
+[2024-06-15 22:45:35] [db_update_price_detail] fail to get date: DLNG PR A
+[2024-06-15 22:45:44] [db_update_price_detail] fail to get date: SF PR C
+[2024-06-15 22:46:04] [db_update_price_detail] fail to get date: CMRE PR D
+[2024-06-15 22:46:23] [db_update_price_detail] fail to get date: CUBI PR E
+[2024-06-15 22:46:24] [db_update_price_detail] fail to get date: CUBI PR F
+[2024-06-15 22:47:47] [db_update_price_detail] fail to get date: SF PR D
+[2024-06-15 22:48:26] [db_update_price_detail] fail to get date: RF PR E
+[2024-06-15 22:48:40] [db_update_price_detail] fail to get date: MOG.A
+[2024-06-15 22:48:41] [db_update_price_detail] fail to get date: EPR PR C
+[2024-06-15 22:48:42] [db_update_price_detail] fail to get date: AKO.B
+[2024-06-15 22:49:17] [db_update_price_detail] fail to get date: TCOA.U
+[2024-06-15 22:51:35] [db_update_price_detail] fail to get date: ATH PR A
+[2024-06-15 22:52:48] [db_update_price_detail] fail to get date: WFC PR C
+[2024-06-15 22:52:56] [db_update_price_detail] fail to get date: TY PR
+[2024-06-15 22:54:02] [db_update_price_detail] fail to get date: MFA PR C
+[2024-06-15 22:54:10] [db_update_price_detail] fail to get date: PSA PR K
+[2024-06-15 22:54:52] [db_update_price_detail] fail to get date: PSEC PR A
+[2024-06-15 22:55:13] [db_update_price_detail] fail to get date: GPMT PR A
+[2024-06-15 22:56:01] [db_update_price_detail] fail to get date: TDS PR V
+[2024-06-15 22:56:31] [db_update_price_detail] fail to get date: BFS PR D
+[2024-06-15 22:56:39] [db_update_price_detail] fail to get date: KIM PR L
+[2024-06-15 22:57:07] [db_update_price_detail] fail to get date: SCE PR J
+[2024-06-15 22:57:10] [db_update_price_detail] fail to get date: ALL PR J
+[2024-06-15 22:57:19] [db_update_price_detail] fail to get date: WRB PR E
+[2024-06-15 22:58:14] [db_update_price_detail] fail to get date: DBRG PR J
+[2024-06-15 22:58:22] [db_update_price_detail] fail to get date: EFC PR B
+[2024-06-15 22:59:01] [db_update_price_detail] fail to get date: MTB PR J
+[2024-06-15 22:59:03] [db_update_price_detail] fail to get date: DMA
+[2024-06-15 22:59:41] [db_update_price_detail] fail to get date: CELG RT
+[2024-06-15 22:59:55] [db_update_price_detail] fail to get date: SB PR D
+[2024-06-15 23:00:41] [db_update_price_detail] fail to get date: GAM PR B
+[2024-06-15 23:01:33] [db_update_price_detail] fail to get date: BNRE.A
+[2024-06-15 23:01:35] [db_update_price_detail] fail to get date: KEY PR K
+[2024-06-15 23:01:37] [db_update_price_detail] fail to get date: RJF PR B
+[2024-06-15 23:01:59] [db_update_price_detail] fail to get date: VNO PR O
+[2024-06-15 23:02:07] [db_update_price_detail] fail to get date: BHR PR D
+[2024-06-15 23:03:03] [db_update_price_detail] fail to get date: DUK PR A
+[2024-06-15 23:03:32] [db_update_price_detail] fail to get date: WFC PR L
+[2024-06-15 23:04:17] [db_update_price_detail] fail to get date: BAC PR K
+[2024-06-15 23:04:25] [db_update_price_detail] fail to get date: SR PR A
+[2024-06-15 23:04:32] [db_update_price_detail] fail to get date: AGM PR E
+[2024-06-15 23:05:05] [db_update_price_detail] fail to get date: PSA PR S
+[2024-06-15 23:05:19] [db_update_price_detail] fail to get date: MITT PR A
+[2024-06-15 23:05:27] [db_update_price_detail] fail to get date: PRIF PR I
+[2024-06-15 23:05:34] [db_update_price_detail] fail to get date: RWT PR A
+[2024-06-15 23:06:07] [db_update_price_detail] fail to get date: ANG PR B
+[2024-06-15 23:07:15] [db_update_price_detail] fail to get date: AKO.A
+[2024-06-15 23:07:16] [db_update_price_detail] fail to get date: CIM PR B
+[2024-06-15 23:07:48] [db_update_price_detail] fail to get date: OPA
+[2024-06-15 23:08:56] [db_update_price_detail] fail to get date: BRK.B
+[2024-06-15 23:09:04] [db_update_price_detail] fail to get date: ABR PR D
+[2024-06-15 23:09:05] [db_update_price_detail] fail to get date: PMT PR B
+[2024-06-15 23:10:06] [db_update_price_detail] fail to get date: ATH PR D
+[2024-06-15 23:10:21] [db_update_price_detail] fail to get date: ALL PR H
+[2024-06-15 23:10:28] [db_update_price_detail] fail to get date: RFMZ
+[2024-06-15 23:11:25] [db_update_price_detail] fail to get date: CFG PR E
+[2024-06-15 23:11:52] [db_update_price_detail] fail to get date: BANC PR F
+[2024-06-15 23:12:43] [db_update_price_detail] fail to get date: ABR PR E
+[2024-06-15 23:12:57] [db_update_price_detail] fail to get date: CMRE PR C
+[2024-06-15 23:13:23] [db_update_price_detail] fail to get date: GS PR D
+[2024-06-15 23:13:30] [db_update_price_detail] fail to get date: NYCB PR A
+[2024-06-15 23:14:01] [db_update_price_detail] fail to get date: CMRE PR B
+[2024-06-15 23:14:15] [db_update_price_detail] fail to get date: SEAL PR A
+[2024-06-15 23:14:29] [db_update_price_detail] fail to get date: MS PR K
+[2024-06-15 23:14:57] [db_update_price_detail] fail to get date: CDR PR C
+[2024-06-15 23:15:24] [db_update_price_detail] fail to get date: PEB PR E
+[2024-06-15 23:15:37] [db_update_price_detail] fail to get date: EFC PR D
+[2024-06-15 23:15:44] [db_update_price_detail] fail to get date: SEDA.U
+[2024-06-15 23:17:00] [db_update_price_detail] fail to get date: WDI
+[2024-06-15 23:17:25] [db_update_price_detail] fail to get date: PSA PR O
+[2024-06-15 23:17:38] [db_update_price_detail] fail to get date: SCE PR N
+[2024-06-15 23:17:51] [db_update_price_detail] fail to get date: MET PR E
+[2024-06-15 23:19:05] [db_update_price_detail] fail to get date: WBS PR G
+[2024-06-15 23:19:07] [db_update_price_detail] fail to get date: BAC PR L
+[2024-06-15 23:19:08] [db_update_price_detail] fail to get date: ACR PR D
+[2024-06-15 23:19:58] [db_update_price_detail] fail to get date: PDO
+[2024-06-15 23:20:06] [db_update_price_detail] fail to get date: INN PR F
+[2024-06-15 23:20:44] [db_update_price_detail] fail to get date: EQH PR A
+[2024-06-15 23:21:02] [db_update_price_detail] fail to get date: RCFA.U
+[2024-06-15 23:21:28] [db_update_price_detail] fail to get date: AHT PR H
+[2024-06-15 23:21:35] [db_update_price_detail] fail to get date: JXN PR A
+[2024-06-15 23:22:13] [db_update_price_detail] fail to get date: FTHY
+[2024-06-15 23:22:16] [db_update_price_detail] fail to get date: BFS PR E
+[2024-06-15 23:23:02] [db_update_price_detail] fail to get date: GNL PR B
+[2024-06-15 23:23:10] [db_update_price_detail] fail to get date: BF.A
+[2024-06-15 23:23:41] [db_update_price_detail] fail to get date: MITT PR C
+[2024-06-15 23:25:13] [db_update_price_detail] fail to get date: MKC.V
+[2024-06-15 23:26:41] [db_update_price_detail] fail to get date: ADC PR A
+[2024-06-15 23:27:28] [db_update_price_detail] fail to get date: ATH PR B
+[2024-06-15 23:28:22] [db_update_price_detail] fail to get date: KREF PR A
+[2024-06-15 23:28:37] [db_update_price_detail] fail to get date: HEI.A
+[2024-06-15 23:29:24] [db_update_price_detail] fail to get date: MMM WD
+[2024-06-15 23:29:39] [db_update_price_detail] fail to get date: REXR PR C
+[2024-06-15 23:29:56] [db_update_price_detail] fail to get date: OPP PR B
+[2024-06-15 23:30:11] [db_update_price_detail] fail to get date: IIPR PR A
+[2024-06-15 23:30:13] [db_update_price_detail] fail to get date: BIP PR B
+[2024-06-15 23:31:08] [db_update_price_detail] fail to get date: COF PR L
+[2024-06-15 23:32:30] [db_update_price_detail] fail to get date: TRTX PR C
+[2024-06-15 23:33:32] [db_update_price_detail] fail to get date: PRIF PR G
+[2024-06-15 23:34:02] [db_update_price_detail] fail to get date: NFYS.U
+[2024-06-15 23:34:24] [db_update_price_detail] fail to get date: GEF.B
+[2024-06-15 23:36:17] [db_update_price_detail] fail to get date: SITC PR A
+[2024-06-15 23:36:18] [db_update_price_detail] fail to get date: CRD.B
+[2024-06-15 23:38:50] [db_update_price_detail] fail to get date: NYCB PR U
+[2024-06-15 23:40:21] [db_update_price_detail] fail to get date: SPNT PR B
+[2024-06-15 23:40:23] [db_update_price_detail] fail to get date: CIO PR A
+[2024-06-15 23:40:36] [db_update_price_detail] fail to get date: PSA PR M
+[2024-06-15 23:41:47] [db_update_price_detail] fail to get date: RF PR C
+[2024-06-15 23:41:49] [db_update_price_detail] fail to get date: VOYA PR B
+[2024-06-15 23:42:07] [db_update_price_detail] fail to get date: PMT PR A
+[2024-06-15 23:42:34] [db_update_price_detail] fail to get date: USB PR R
+[2024-06-15 23:43:51] [db_update_price_detail] fail to get date: LGF.A
+[2024-06-15 23:44:38] [db_update_price_detail] fail to get date: AHL PR E
+[2024-06-15 23:45:28] [db_update_price_detail] fail to get date: JPM PR K
+[2024-06-15 23:45:30] [db_update_price_detail] fail to get date: FRT PR C
+[2024-06-15 23:46:09] [db_update_price_detail] fail to get date: BW PR A
+[2024-06-15 23:47:00] [db_update_price_detail] fail to get date: JPM PR D
+[2024-06-15 23:47:14] [db_update_price_detail] fail to get date: CMS PR B
+[2024-06-15 23:47:15] [db_update_price_detail] fail to get date: RF PR B
+[2024-06-15 23:47:34] [db_update_price_detail] fail to get date: PRE PR J
+[2024-06-15 23:47:47] [db_update_price_detail] fail to get date: TNP PR F
+[2024-06-15 23:47:49] [db_update_price_detail] fail to get date: WCC PR A
+[2024-06-15 23:48:50] [db_update_price_detail] fail to get date: BH.A
+[2024-06-15 23:48:58] [db_update_price_detail] fail to get date: MFA PR B
+[2024-06-15 23:49:11] [db_update_price_detail] fail to get date: GNL PR A
+[2024-06-15 23:49:33] [db_update_price_detail] fail to get date: ATH PR C
+[2024-06-15 23:49:53] [db_update_price_detail] fail to get date: DLR PR K
+[2024-06-15 23:51:24] [db_update_price_detail] fail to get date: SHO PR I
+[2024-06-15 23:51:38] [db_update_price_detail] fail to get date: RITM PR D
+[2024-06-15 23:52:17] [db_update_price_detail] fail to get date: PMT PR C
+[2024-06-15 23:53:08] [db_update_price_detail] fail to get date: USB PR A
+[2024-06-15 23:53:19] [db_update_price_detail] fail to get date: STT PR G
+[2024-06-15 23:53:31] [db_update_price_detail] fail to get date: BAC PR N
+[2024-06-15 23:53:39] [db_update_price_detail] fail to get date: BOH PR A
+[2024-06-15 23:55:27] [db_update_price_detail] fail to get date: CIM PR D
+[2024-06-15 23:55:33] [db_update_price_detail] fail to get date: KEY PR J
+[2024-06-15 23:55:38] [db_update_price_detail] fail to get date: GDL PR C
+[2024-06-15 23:55:39] [db_update_price_detail] fail to get date: CODI PR C
+[2024-06-15 23:56:05] [db_update_price_detail] fail to get date: PRIF PR F
+[2024-06-15 23:56:26] [db_update_price_detail] fail to get date: CLBR.U
+[2024-06-15 23:56:36] [db_update_price_detail] fail to get date: MAA PR I
+[2024-06-15 23:56:59] [db_update_price_detail] fail to get date: TRTN PR E
+[2024-06-15 23:57:17] [db_update_price_detail] fail to get date: BCAT
+[2024-06-15 23:58:05] [db_update_price_detail] fail to get date: MET PR F
+[2024-06-15 23:59:05] [db_update_price_detail] fail to get date: SHO PR H
+[2024-06-15 23:59:06] [db_update_price_detail] fail to get date: WEL.U
+[2024-06-15 23:59:27] [db_update_price_detail] fail to get date: ICR PR A
+[2024-06-16 00:00:28] [db_update_price_detail] fail to get date: KCGI.U
+[2024-06-16 00:00:53] [db_update_price_detail] fail to get date: PEB PR F
+[2024-06-16 00:01:30] [db_update_price_detail] fail to get date: KEY PR L
+[2024-06-16 00:01:36] [db_update_price_detail] fail to get date: NLY PR I
+[2024-06-16 00:01:38] [db_update_price_detail] fail to get date: AGM PR C
+[2024-06-16 00:01:39] [db_update_price_detail] fail to get date: OAK PR A
+[2024-06-16 00:01:45] [db_update_price_detail] fail to get date: UHAL.B
+[2024-06-16 00:02:00] [db_update_price_detail] fail to get date: GGT PR G
+[2024-06-16 00:03:10] [db_update_price_detail] fail to get date: BAC PR P
+[2024-06-16 00:03:11] [db_update_price_detail] fail to get date: WFC PR A
+[2024-06-16 00:03:26] [db_update_price_detail] fail to get date: KIM PR M
+[2024-06-16 00:03:53] [db_update_price_detail] fail to get date: SB PR C
+[2024-06-16 00:04:06] [db_update_price_detail] fail to get date: CMS PR C
+[2024-06-16 00:04:31] [db_update_price_detail] fail to get date: WFC PR Y
+[2024-06-16 00:04:40] [db_update_price_detail] fail to get date: SYF PR B
+[2024-06-16 00:05:00] [db_update_price_detail] fail to get date: EQH PR C
+[2024-06-16 00:05:44] [db_update_price_detail] fail to get date: TRTN PR D
+[2024-06-16 00:05:56] [db_update_price_detail] fail to get date: GSL PR B
+[2024-06-16 00:06:33] [db_update_price_detail] fail to get date: COF PR J
+[2024-06-16 00:06:42] [db_update_price_detail] fail to get date: GLOP PR A
+[2024-06-16 00:06:47] [db_update_price_detail] fail to get date: CHMI PR B
+[2024-06-16 00:07:15] [db_update_price_detail] fail to get date: NCV PR A
+[2024-06-16 00:07:56] [db_update_price_detail] fail to get date: GMRE PR A
+[2024-06-16 00:08:16] [db_update_price_detail] fail to get date: KEY PR I
+[2024-06-16 00:08:25] [db_update_price_detail] fail to get date: GAB PR G
+[2024-06-16 00:08:26] [db_update_price_detail] fail to get date: OPP PR A
+[2024-06-16 00:08:35] [db_update_price_detail] fail to get date: KIM PR N
+[2024-06-16 00:08:36] [db_update_price_detail] fail to get date: IVR PR C
+[2024-06-16 00:08:41] [db_update_price_detail] fail to get date: RITM PR A
+[2024-06-16 00:08:50] [db_update_price_detail] fail to get date: TRIS.U
+[2024-06-16 00:08:51] [db_update_price_detail] fail to get date: SCE PR M
+[2024-06-16 00:08:56] [db_update_price_detail] fail to get date: RNR PR F
+[2024-06-16 00:09:09] [db_update_price_detail] fail to get date: AHH PR A
+[2024-06-16 00:10:32] [db_update_price_detail] fail to get date: BAC PR M
+[2024-06-16 00:11:27] [db_update_price_detail] fail to get date: XFLT PR A
+[2024-06-16 00:11:32] [db_update_price_detail] fail to get date: NLY PR G
+[2024-06-16 00:11:41] [db_update_price_detail] fail to get date: GLOP PR B
+[2024-06-16 00:11:54] [db_update_price_detail] fail to get date: MDV PR A
+[2024-06-16 00:12:30] [db_update_price_detail] fail to get date: ALL PR I
+[2024-06-16 00:12:31] [db_update_price_detail] fail to get date: SEAL PR B
+[2024-06-16 00:12:44] [db_update_price_detail] fail to get date: WFC PR D
+[2024-06-16 00:12:52] [db_update_price_detail] fail to get date: BFAC.U
+[2024-06-16 00:12:57] [db_update_price_detail] fail to get date: WBS PR F
+[2024-06-16 00:12:58] [db_update_price_detail] fail to get date: CIM PR C
+[2024-06-16 00:13:03] [db_update_price_detail] fail to get date: USB PR Q
+[2024-06-16 00:13:04] [db_update_price_detail] fail to get date: CNO PR A
+[2024-06-16 00:13:05] [db_update_price_detail] fail to get date: INN PR E
+[2024-06-16 00:13:10] [db_update_price_detail] fail to get date: LGF.B
+[2024-06-16 00:13:15] [db_update_price_detail] fail to get date: RLJ PR A
+[2024-06-16 00:13:40] [db_update_price_detail] fail to get date: CMRE PR E
+[2024-06-16 00:13:41] [db_update_price_detail] fail to get date: PSA PR H
+[2024-06-16 00:13:50] [db_update_price_detail] fail to get date: CFG PR D
+[2024-06-16 00:13:54] [db_update_price_detail] fail to get date: DRH PR A
+[2024-06-16 00:13:59] [db_update_price_detail] fail to get date: PSA PR P
+[2024-06-16 00:14:27] [db_update_price_detail] fail to get date: T PR A
+[2024-06-16 00:14:56] [db_update_price_detail] fail to get date: EPR PR G
+[2024-06-16 00:14:57] [db_update_price_detail] fail to get date: HYAC.U
+[2024-06-16 00:15:02] [db_update_price_detail] fail to get date: GUT PR C
+[2024-06-16 00:15:20] [db_update_price_detail] fail to get date: MSDL
+[2024-06-16 00:15:42] [db_update_price_detail] fail to get date: RIV PR A
+[2024-06-16 00:16:09] [db_update_price_detail] fail to get date: RITM PR C
+[2024-06-16 00:16:10] [db_update_price_detail] fail to get date: FHN PR F
+[2024-06-16 00:16:15] [db_update_price_detail] fail to get date: JPM PR C
+[2024-06-16 00:16:33] [db_update_price_detail] fail to get date: ECAT
+[2024-06-16 00:16:45] [db_update_price_detail] fail to get date: HFRO PR A
+[2024-06-16 00:16:46] [db_update_price_detail] fail to get date: PSA PR F
+[2024-06-16 00:17:24] [db_update_price_detail] fail to get date: EFC PR C
+[2024-06-16 00:17:53] [db_update_price_detail] fail to get date: HL PR B
+[2024-06-16 00:18:23] [db_update_price_detail] fail to get date: SPLP PR A
+[2024-06-16 00:18:24] [db_update_price_detail] fail to get date: PSA PR Q
+[2024-06-16 00:18:25] [db_update_price_detail] fail to get date: ALB PR A
+[2024-06-16 00:19:03] [db_update_price_detail] fail to get date: AXS PR E
+[2024-06-16 00:19:08] [db_update_price_detail] fail to get date: EBR.B
+[2024-06-16 00:19:25] [db_update_price_detail] fail to get date: FSCO
+[2024-06-16 00:19:43] [db_update_price_detail] fail to get date: BAC PR S
+[2024-06-16 00:20:14] [db_update_price_detail] fail to get date: CRD.A
+[2024-06-16 00:20:15] [db_update_price_detail] fail to get date: NLY PR F
+[2024-06-16 00:20:24] [db_update_price_detail] fail to get date: COF PR N
+[2024-06-16 00:20:58] [db_update_price_detail] fail to get date: SCE PR H
+[2024-06-16 00:20:59] [db_update_price_detail] fail to get date: COF PR K
+[2024-06-16 00:21:21] [db_update_price_detail] fail to get date: EPR PR E
+[2024-06-16 00:21:42] [db_update_price_detail] fail to get date: AMH PR G
+[2024-06-16 00:21:54] [db_update_price_detail] fail to get date: SAN PR B
+[2024-06-16 00:22:26] [db_update_price_detail] fail to get date: O PR
+[2024-06-16 00:22:35] [db_update_price_detail] fail to get date: NCDL
+[2024-06-16 00:22:40] [db_update_price_detail] fail to get date: T PR C
+[2024-06-16 00:22:53] [db_update_price_detail] fail to get date: BRK.A
+[2024-06-16 00:22:54] [db_update_price_detail] fail to get date: GTN.A
+[2024-06-16 00:23:07] [db_update_price_detail] fail to get date: GNL PR E
+[2024-06-16 00:23:20] [db_update_price_detail] fail to get date: PRIF PR K
+[2024-06-16 00:23:21] [db_update_price_detail] fail to get date: DLNG PR B
+[2024-06-16 00:23:30] [db_update_price_detail] fail to get date: CLDT PR A
+[2024-06-16 00:23:51] [db_update_price_detail] fail to get date: AL PR A
+[2024-06-16 00:24:04] [db_update_price_detail] fail to get date: ATCO PR H
+[2024-06-16 00:24:16] [db_update_price_detail] fail to get date: MS PR P
+[2024-06-16 00:24:29] [db_update_price_detail] fail to get date: PSA PR R
+[2024-06-16 00:24:45] [db_update_price_detail] fail to get date: GNL PR D
+[2024-06-16 00:24:50] [db_update_price_detail] fail to get date: MS PR L
+[2024-06-16 00:25:07] [db_update_price_detail] fail to get date: COF PR I
+[2024-06-16 00:25:09] [db_update_price_detail] fail to get date: VNO PR M
+[2024-06-16 00:25:37] [db_update_price_detail] fail to get date: ALL PR B
+[2024-06-16 00:25:48] [db_update_price_detail] fail to get date: GGT PR E
+[2024-06-16 00:25:59] [db_update_price_detail] fail to get date: SYF PR A
+[2024-06-16 00:26:52] [db_update_price_detail] fail to get date: GRP.U
+[2024-06-16 00:26:57] [db_update_price_detail] fail to get date: VNO PR L
+[2024-06-16 00:27:17] [db_update_price_detail] fail to get date: CWEN.A
+[2024-06-16 00:27:21] [db_update_price_detail] fail to get date: AHT PR D
+[2024-06-16 00:27:35] [db_update_price_detail] fail to get date: FHN PR E
+[2024-06-16 00:27:59] [db_update_price_detail] fail to get date: GTLS PR B
+[2024-06-16 00:28:06] [db_update_price_detail] fail to get date: GL PR D
+[2024-06-16 00:28:27] [db_update_price_detail] fail to get date: BAC PR E
+[2024-06-16 00:29:14] [db_update_price_detail] fail to get date: MOG.B
+[2024-06-16 00:29:35] [db_update_price_detail] fail to get date: ARR PR C
+[2024-06-16 00:29:36] [db_update_price_detail] fail to get date: ABR PR F
+[2024-06-16 00:29:50] [db_update_price_detail] fail to get date: LEN.B
+[2024-06-16 00:30:04] [db_update_price_detail] fail to get date: AACT.U
+[2024-06-16 00:30:14] [db_update_price_detail] fail to get date: HIG PR G
+[2024-06-16 00:30:18] [db_update_price_detail] fail to get date: MS PR A
+[2024-06-16 00:30:19] [db_update_price_detail] fail to get date: IFIN.U
+[2024-06-16 00:30:30] [db_update_price_detail] fail to get date: SCHW PR J
+[2024-06-16 00:30:40] [db_update_price_detail] fail to get date: MS PR I
+[2024-06-16 00:31:04] [db_update_price_detail] fail to get date: AHT PR I
+[2024-06-16 00:31:25] [db_update_price_detail] fail to get date: TWO PR A
+[2024-06-16 00:31:34] [db_update_price_detail] fail to get date: AGM.A
+[2024-06-16 00:31:39] [db_update_price_detail] fail to get date: TFC PR I
+[2024-06-16 00:31:49] [db_update_price_detail] fail to get date: PEB PR G
+[2024-06-16 00:32:00] [db_update_price_detail] fail to get date: USB PR P
+[2024-06-16 00:32:01] [db_update_price_detail] fail to get date: PEB PR H
+[2024-06-16 00:32:21] [db_update_price_detail] fail to get date: PRIF PR J
+[2024-06-16 00:32:27] [db_update_price_detail] fail to get date: BIP PR A
+[2024-06-16 00:32:29] [db_update_price_detail] fail to get date: FBRT PR E
+[2024-06-16 00:32:44] [db_update_price_detail] fail to get date: SBXC.U
+[2024-06-16 00:33:05] [db_update_price_detail] fail to get date: GDV PR K
+[2024-06-16 00:33:06] [db_update_price_detail] fail to get date: PRIF PR L
+[2024-06-16 00:33:12] [db_update_price_detail] fail to get date: GLP PR B
+[2024-06-16 00:33:22] [db_update_price_detail] fail to get date: BEP PR A
+[2024-06-16 00:33:41] [db_update_price_detail] fail to get date: RMPL PR
+[2024-06-16 00:33:46] [db_update_price_detail] fail to get date: AHT PR G
+[2024-06-16 00:34:05] [db_update_price_detail] fail to get date: DLR PR L
+[2024-06-16 00:34:22] [db_update_price_detail] fail to get date: UMH PR D
+[2024-06-16 00:34:32] [db_update_price_detail] fail to get date: APO PR A
+[2024-06-16 00:34:45] [db_update_price_detail] fail to get date: DBRG PR H
+[2024-06-16 00:35:16] [db_update_price_detail] fail to get date: WSO.B
+[2024-06-16 00:35:17] [db_update_price_detail] fail to get date: LFT PR A
+[2024-06-16 00:35:45] [db_update_price_detail] fail to get date: SLG PR I
+[2024-06-16 00:36:23] [db_update_price_detail] fail to get date: CHMI PR A
+[2024-06-16 00:36:25] [db_update_price_detail] fail to get date: TDS PR U
+[2024-06-16 00:37:16] [db_update_price_detail] fail to get date: GAB PR K
+[2024-06-16 00:38:50] [db_update_price_detail] fail to get date: CODI PR A
+[2024-06-16 00:39:12] [db_update_price_detail] fail to get date: EP PR C
+[2024-06-16 00:39:39] [db_update_price_detail] fail to get date: WRB PR F
+[2024-06-16 00:39:52] [db_update_price_detail] fail to get date: MS PR F
+[2024-06-16 00:40:18] [db_update_price_detail] fail to get date: CFR PR B
+[2024-06-16 00:40:49] [db_update_price_detail] fail to get date: NSA PR B
+[2024-06-16 00:41:14] [db_update_price_detail] fail to get date: RC PR C
+[2024-06-16 00:42:53] [db_update_price_detail] fail to get date: GS PR C
+[2024-06-16 00:43:00] [db_update_price_detail] fail to get date: CSR PR C
+[2024-06-16 00:43:31] [db_update_price_detail] fail to get date: GNT PR A
+[2024-06-16 00:43:32] [db_update_price_detail] fail to get date: ATH PR E
+[2024-06-16 00:43:39] [db_update_price_detail] fail to get date: OAK PR B
+[2024-06-16 00:44:23] [db_update_price_detail] fail to get date: ONIT
+[2024-06-16 00:44:24] [db_update_price_detail] fail to get date: CTA PR B
+[2024-06-16 00:44:29] [db_update_price_detail] fail to get date: LXP PR C
+[2024-06-16 00:44:47] [db_update_price_detail] fail to get date: SPE PR C
+[2024-06-16 00:45:07] [db_update_price_detail] fail to get date: BF.B
+[2024-06-16 00:45:21] [db_update_price_detail] fail to get date: BAC PR Q
+[2024-06-16 00:45:22] [db_update_price_detail] fail to get date: PBR.A
+[2024-06-16 00:45:36] [db_update_price_detail] fail to get date: CCIF
+[2024-06-16 00:46:24] [db_update_price_detail] fail to get date: NEE PR N
+[2024-06-16 00:46:43] [db_update_price_detail] fail to get date: ATCO PR D
+[2024-06-16 00:46:55] [db_update_price_detail] fail to get date: GLOP PR C
+[2024-06-16 00:47:10] [db_update_price_detail] fail to get date: APCA.U
+[2024-06-16 00:47:44] [db_update_price_detail] fail to get date: WFC PR Z
+[2024-06-16 00:48:02] [db_update_price_detail] fail to get date: CTO PR A
+[2024-06-16 00:48:23] [db_update_price_detail] fail to get date: EAI
+[2024-06-16 00:48:27] [db_update_price_detail] fail to get date: ETI PR
+[2024-06-16 00:48:32] [db_update_price_detail] fail to get date: BML PR H
+[2024-06-16 00:48:56] [db_update_price_detail] fail to get date: AGM PR G
+[2024-06-16 00:49:00] [db_update_price_detail] fail to get date: MITT PR B
+[2024-06-16 00:49:01] [db_update_price_detail] fail to get date: ECC PR D
+[2024-06-16 00:49:05] [db_update_price_detail] fail to get date: RNR PR G
+[2024-06-16 00:49:12] [db_update_price_detail] fail to get date: NXDT PR A
+[2024-06-16 00:49:20] [db_update_price_detail] fail to get date: GOL
+[2024-06-16 00:49:38] [db_update_price_detail] fail to get date: MTB PR H
+[2024-06-16 00:50:26] [db_update_price_detail] fail to get date: SCE PR G
+[2024-06-16 00:50:31] [db_update_price_detail] fail to get date: TAP.A
+[2024-06-16 00:51:06] [db_update_price_detail] fail to get date: HPP PR C
+[2024-06-16 00:51:17] [db_update_price_detail] fail to get date: FINS
+[2024-06-16 00:52:21] [db_update_price_detail] fail to get date: SCHW PR D
+[2024-06-16 00:52:29] [db_update_price_detail] fail to get date: NGL PR B
+[2024-06-16 00:52:40] [db_update_price_detail] fail to get date: DLR PR J
+[2024-06-16 00:53:14] [db_update_price_detail] fail to get date: CODI PR B
+[2024-06-16 00:53:31] [db_update_price_detail] fail to get date: NGL PR C
+[2024-06-16 00:53:42] [db_update_price_detail] fail to get date: RITM PR B
+[2024-06-16 00:53:49] [db_update_price_detail] fail to get date: WAL PR A
+[2024-06-16 00:54:08] [db_update_price_detail] fail to get date: TFC PR O
+[2024-06-16 00:54:12] [db_update_price_detail] fail to get date: PSA PR G
+[2024-06-16 00:54:32] [db_update_price_detail] fail to get date: GUG
+[2024-06-16 00:54:37] [db_update_price_detail] fail to get date: GRBK PR A
+[2024-06-16 00:54:54] [db_update_price_detail] fail to get date: NPFD
+[2024-06-16 00:54:58] [db_update_price_detail] fail to get date: SNV PR D
+[2024-06-16 00:54:59] [db_update_price_detail] fail to get date: WRB PR H
+[2024-06-16 00:55:29] [db_update_price_detail] fail to get date: NDMO
+[2024-06-16 00:55:30] [db_update_price_detail] fail to get date: ASB PR E
+[2024-06-16 00:55:45] [db_update_price_detail] fail to get date: MNTN.U
+[2024-06-16 00:55:46] [db_update_price_detail] fail to get date: SCE PR L
+[2024-06-16 00:56:00] [db_update_price_detail] fail to get date: PSA PR I
+[2024-06-16 00:56:31] [db_update_price_detail] fail to get date: ANG PR A
+[2024-06-16 00:56:39] [db_update_price_detail] fail to get date: NCZ PR A
+[2024-06-16 00:57:23] [db_update_price_detail] fail to get date: REXR PR B
+[2024-06-16 00:57:31] [db_update_price_detail] fail to get date: BIO.B
+[2024-06-16 00:57:35] [db_update_price_detail] fail to get date: GDV PR H
+[2024-06-16 00:57:43] [db_update_price_detail] fail to get date: AGM PR F
+[2024-06-16 00:57:48] [db_update_price_detail] fail to get date: EFC PR A
+[2024-06-16 00:57:56] [db_update_price_detail] fail to get date: PHYT.U
+[2024-06-16 00:57:57] [db_update_price_detail] fail to get date: TRTL.U
+[2024-06-16 00:57:58] [db_update_price_detail] fail to get date: BML PR L
+[2024-06-16 00:58:02] [db_update_price_detail] fail to get date: PSA PR J
+[2024-06-16 00:58:20] [db_update_price_detail] fail to get date: BML PR J
+[2024-06-16 00:58:44] [db_update_price_detail] fail to get date: STEW
+[2024-06-16 00:58:58] [db_update_price_detail] fail to get date: BC PR B
+[2024-06-16 00:59:06] [db_update_price_detail] fail to get date: AMH PR H
+[2024-06-16 00:59:24] [db_update_price_detail] fail to get date: CFG PR H
+[2024-06-16 00:59:25] [db_update_price_detail] fail to get date: AGM PR D
+[2024-06-16 00:59:35] [db_update_price_detail] fail to get date: LCW.U
+[2024-06-16 00:59:43] [db_update_price_detail] fail to get date: USB PR H
+[2024-06-16 00:59:44] [db_update_price_detail] fail to get date: LNC PR D
+[2024-06-16 00:59:48] [db_update_price_detail] fail to get date: NEE PR R
+[2024-06-16 00:59:52] [db_update_price_detail] fail to get date: ET PR I
+[2024-06-16 01:00:00] [db_update_price_detail] fail to get date: NBXG
+[2024-06-16 01:00:14] [db_update_price_detail] fail to get date: AHT PR F
+[2024-06-16 01:00:15] [db_update_price_detail] fail to get date: TRTN PR C
+[2024-06-16 01:00:26] [db_update_price_detail] fail to get date: PSA PR L
+[2024-06-16 01:01:43] [db_update_price_detail] fail to get date: MIO
+[2024-06-16 01:01:54] [db_update_price_detail] fail to get date: C PR N
+[2024-06-16 01:02:33] [db_update_price_detail] fail to get date: ALTG PR A
+[2024-06-16 01:03:15] [db_update_price_detail] fail to get date: EDI
+[2024-06-16 01:03:23] [db_update_price_detail] fail to get date: NREF PR A
+[2024-06-16 01:03:41] [db_update_price_detail] fail to get date: MS PR O
+[2024-06-16 01:03:42] [db_update_price_detail] fail to get date: DX PR C
+[2024-06-16 01:03:43] [db_update_price_detail] fail to get date: ACR PR C
+[2024-06-16 01:04:15] [db_update_price_detail] fail to get date: CADE PR A
+[2024-06-16 01:04:41] [db_update_price_detail] fail to get date: SFB
+[2024-06-16 01:04:52] [db_update_price_detail] fail to get date: BHR PR B
+[2024-06-16 01:05:34] [db_update_price_detail] fail to get date: MEGI
+[2024-06-16 01:05:35] [db_update_price_detail] fail to get date: ACP PR A
+[2024-06-16 01:05:43] [db_update_price_detail] fail to get date: CIG.C
+[2024-06-16 01:05:54] [db_update_price_detail] fail to get date: VNO PR N
+[2024-06-16 01:06:03] [db_update_price_detail] fail to get date: EQC PR D
+[2024-06-16 01:06:03] [db_update_price_detail] fail to get date: PSA PR N
+[2024-06-16 01:06:21] [db_update_price_detail] fail to get date: FHN PR B
+[2024-06-16 01:06:27] error in EGLE. 'symbol'
+[2024-06-16 01:06:29] error in BURL. 'symbol'
+[2024-06-16 01:06:32] error in MP. 'symbol'
+[2024-06-16 01:06:33] [db_update_price_detail] fail to get date: GS PR A
+[2024-06-16 01:06:55] [db_update_price_detail] fail to get date: SPG PR J
+[2024-06-16 01:07:14] [db_update_price_detail] fail to get date: HVT.A
+[2024-06-16 01:07:15] [db_update_price_detail] fail to get date: TWO PR C
+[2024-06-16 01:07:30] [db_update_price_detail] fail to get date: AHL PR D
+[2024-06-16 01:07:37] [db_update_price_detail] fail to get date: ESMT
+[2024-06-16 01:07:38] [db_update_price_detail] fail to get date: DBRG PR I
+[2024-06-16 01:08:12] [db_update_price_detail] fail to get date: EFC PR E
+[2024-06-16 01:08:16] [db_update_price_detail] fail to get date: ASB PR F
+[2024-06-16 01:08:27] [db_update_price_detail] fail to get date: IVR PR B
+[2024-06-16 01:08:28] [db_update_price_detail] fail to get date: SF PR B
+[2024-06-16 01:08:36] [db_update_price_detail] fail to get date: MS PR E
+[2024-06-16 01:08:37] [db_update_price_detail] fail to get date: PRIF PR D
+[2024-06-16 01:08:42] [db_update_price_detail] fail to get date: CTA PR A
