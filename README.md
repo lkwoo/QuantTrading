@@ -57,3 +57,18 @@
 - 필터: 중국기업, 분기 적자 기업, 연 적자 기업, 지주사, 금융사, 관리종목
 - 
 ```
+
+### 이동 평균선 투자법
+```
+- 3개의 MACD(Moving Average Convergence / Divergence) 사용
+- MACD: EMA (단) - EMA (장)
+- Signal: MACD의 EMA(9)  (9일 지수이동평균)
+- EMA: Exponential Moving Average
+    . [EMA 계산] EMA(N) = (2 * today_price + (N-1) * yesterday_ema) / (N+1)
+- 3개의 MACD와 Signal
+  1. MACD (상): EMA(5) - EMA(20), Signal: MACD(상)의 EMA(9)
+  2. MACD (중): EMA(5) - EMA(40), Signal: MACD(중)의 EMA(9)
+  3. MACD (하): EMA(20) - EMA(40), Signal: MACD(하)의 EMA(9)
+- 매도:
+- 매수:
+```
