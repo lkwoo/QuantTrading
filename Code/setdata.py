@@ -212,7 +212,7 @@ class MovingAverageTrade(DatabaseConnection):
         execution_time = end_time - start_time
         print(f"Execution time: {execution_time} seconds")
 
-    def insert_price(self, ticker 
+    def insert_price(self, ticker ,market
                             ,start_date=(datetime.today() - relativedelta(days=365)).strftime("%Y-%m-%d")
                             , end_date=datetime.today().strftime("%Y-%m-%d")):
         '''
@@ -235,7 +235,7 @@ class MovingAverageTrade(DatabaseConnection):
                 if start_date > datetime.today().strftime("%Y-%m-%d"):
                     return 0
             
-        data = {'code': [], 'name': [], 'date': [], 'price':[]}
+        data = {'code': [], 'market': [], 'name': [], 'date': [], 'price':[]}
         madf = pd.DataFrame(data)
 
         for i, (index, row) in enumerate(raw.iterrows()):
@@ -245,6 +245,7 @@ class MovingAverageTrade(DatabaseConnection):
             try:
                 new_data = {'code':ticker.info['symbol'], 
                             'name':ticker.info['shortName'],
+                            'market': market,
                             'date': str(index)[:10],
                             'price': row['Close']}
                 madf = pd.concat([madf, pd.DataFrame([new_data])], ignore_index=True)
@@ -267,6 +268,22 @@ class MovingAverageTrade(DatabaseConnection):
         limit 1
         '''
         return self.execute_query(query)
+
+    def get_stage(self, ema5, ema20, ema40):
+        if ema5 >= ema20 and ema20 >= ema40:
+            return 1
+        elif ema20 >= ema5 and ema5 >= ema40:
+            return 2
+        elif ema20 >= ema40 and ema40 >= ema5:
+            return 3
+        elif ema40 >= ema20 and ema20 >= ema5:
+            return 4
+        elif ema40 >= ema5 and ema5 >= ema20:
+            return 5
+        elif ema5 >= ema40 and ema40 >= ema20:
+            return 6
+        else:
+            return 0
 
     def insert_price_detail(self, ticker, latest_date, end_date=datetime.today().strftime("%Y-%m-%d")):
         '''
@@ -305,20 +322,23 @@ class MovingAverageTrade(DatabaseConnection):
             market = row[1]
             date = row[3]   
             price = row[4]
+            ema5 = (price_detail_before['ema_5'] * 4 + price * 2) / 6
+            ema20 = (price_detail_before['ema_20'] * 19 + price * 2) / 21
+            ema40 = (price_detail_before['ema_40'] * 39 + price * 2) / 41
             price_detail_base = {
                 'code':ticker.info['symbol'], 
                 'market': market,
                 'name':ticker.info['shortName'],
                 'date': date,
                 'price': price,
-                'stage': '0',
+                'stage': str(int(self.get_stage(ema5, ema20, ema40))),
             }
             price_detail_ema = {
-                'ema_5': (price_detail_before['ema_5'] * 4 + price * 2) / 6,
+                'ema_5': ema5,
                 'ema_12': (price_detail_before['ema_12'] * 11 + price * 2) / 13,
-                'ema_20': (price_detail_before['ema_20'] * 19 + price * 2) / 21,
+                'ema_20': ema20,
                 'ema_26': (price_detail_before['ema_26'] * 25 + price * 2) / 27,
-                'ema_40': (price_detail_before['ema_40'] * 39 + price * 2) / 41
+                'ema_40': ema40
             }
             price_detail_macd = {
                 'macd': price_detail_ema['ema_12'] - price_detail_ema['ema_26'],
@@ -394,13 +414,16 @@ class MovingAverageTrade(DatabaseConnection):
                 start_date = (datetime.strptime(latest_date, '%Y-%m-%d')+ relativedelta(days=1)).strftime("%Y-%m-%d")
 
                 ticker = yf.Ticker(code)
-                row_count = self.insert_price(ticker, start_date)
+                row_count = self.insert_price(ticker, market, start_date)
 
                 self.write_log(f'price_log_{market}.txt', f"udpate price: {code}, row: {row_count}\n")
             except Exception as e:
                 self.write_log(f'error_{market}.txt', f'error in {code}. {e}\n')
 
     def update_price_data(self, markets, to_date):
+        '''
+        insert new price data ? 이름 왜 이렇게 햇지
+        '''
         with concurrent.futures.ProcessPoolExecutor() as executor:
             futures = [executor.submit(self.update_price, market, to_date) for market in markets]
 
@@ -416,7 +439,7 @@ class MovingAverageTrade(DatabaseConnection):
 if __name__ == '__main__':
     dbinfo = 'postgresql://postgres:asd123123@localhost:5432/stock'
     markets = ['KOSPI','KOSDAQ','NASDAQ','NYSE']  # 'KOSPI','KOSDAQ','NASDAQ','NYSE'
-    # markets = ['NYSE']
+    #markets = ['KOSPI']
 
     mat = MovingAverageTrade(dbinfo, markets)
     
@@ -424,4 +447,4 @@ if __name__ == '__main__':
     mat.update_stock_info(markets)
         
     # update price
-    mat.update_price_data(markets, '2024-06-14')
+    mat.update_price_data(markets, '2024-10-13') 

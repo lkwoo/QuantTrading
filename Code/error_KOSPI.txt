@@ -1,1 +1,3 @@
 [2024-06-15 00:00:28] [db_update_price_detail] fail to get date: 001420.KS
+[2024-06-29 00:04:39] [db_update_price_detail] fail to get date: 034230.KS
+[2024-06-30 14:59:48] [db_update_price_detail] fail to get date: 034230.KS
